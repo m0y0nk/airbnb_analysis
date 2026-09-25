@@ -1,0 +1,8 @@
+kpi_name,n_rows,columns
+kpi1_unavailability_rate,911,"neighbourhood, month, total_days, unavailable_days, unavailability_rate_pct, active_listings"
+kpi2_price_volatility,0,"neighbourhood, room_type, month, listings_included, avg_listed_price, stddev_price, price_volatility_cov_pct"
+kpi2b_listing_price_baseline,159,"neighbourhood, room_type, listings_with_price, avg_listing_price_usd, median_listing_price_usd, p90_listing_price_usd"
+kpi3_review_velocity,8547,"neighbourhood, month, review_count, listings_with_reviews, avg_reviews_per_listing"
+kpi4_weather_sensitivity,93,"obs_date, unavailability_rate_pct, precipitation_mm, wind_speed_max_kmh, temp_max_c"
+kpi5_revenue_proxy,2100,"room_type, neighbourhood, month, unavailable_days, rev_proxy_usd, calendar_priced_unavailable_days, fallback_priced_unavailable_days, unpriced_unavailable_days, price_coverage_pct, price_basis, listings_included"
+kpi4_weather_correlations,1,"metric, corr_with_precipitation_mm, corr_with_wind_speed_max_kmh, corr_with_temp_max_c, n_observations, note"

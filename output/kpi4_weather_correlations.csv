@@ -1,0 +1,2 @@
+metric,corr_with_precipitation_mm,corr_with_wind_speed_max_kmh,corr_with_temp_max_c,n_observations,note
+unavailability_rate_pct,-0.2252,0.2074,0.3557,93,"Correlation does not imply causation. External factors (tourism events, school holidays) not controlled."

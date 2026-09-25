@@ -1,0 +1,71 @@
+{
+  "run_ts": "2026-09-25T10:21:50.383201Z",
+  "status": "WARNING",
+  "errors": [],
+  "warnings": [
+    "V07 WARNING: 6,592 orphaned review records (within tolerance, rate 0.64%).",
+    "V08 WARNING: 41,245 calendar rows reference listing IDs not in listings file.",
+    "V10 WARNING: 4,206,534 calendar rows fall after the analysis date (2026-09-25); source is forward-looking and should be interpreted as a horizon, not a snapshot.",
+    "V11 WARNING: Calendar pricing is unavailable in the source file; price-based KPIs must be treated as unsupported or derived from listing-level price data instead."
+  ],
+  "metrics": {
+    "n_listings_raw": 15293,
+    "n_calendar_raw": 5623190,
+    "n_reviews_raw": 1033523,
+    "v01_duplicate_listings": 0,
+    "v02_invalid_coords": 0,
+    "v04_duplicate_calendar_keys": 0,
+    "v05_calendar_pre2020": 0,
+    "v06_future_review_dates": 0,
+    "v07_orphaned_reviews": 6592,
+    "v07_orphaned_reviews_rate": 0.0064,
+    "v08_calendar_unknown_listings": 41245,
+    "v09_weather_days_fetched": 93,
+    "v10_future_calendar_dates": 4206534,
+    "v11_calendar_price_available": false,
+    "v12_listing_price_available": 13355
+  },
+  "profiles": {
+    "listings": {
+      "columns": [
+        "id",
+        "last_scraped",
+        "host_id",
+        "neighbourhood_cleansed",
+        "latitude",
+        "longitude",
+        "room_type",
+        "price",
+        "price_numeric"
+      ],
+      "n_rows": 15293,
+      "price_null_pct": 12.67,
+      "lat_range": [
+        41.35178279098418,
+        41.462243
+      ],
+      "lon_range": [
+        2.0924138075414915,
+        2.22139
+      ]
+    },
+    "calendar": {
+      "n_rows": 5623190,
+      "date_min": "2026-06-24",
+      "date_max": "2027-07-02",
+      "availability_pct_f": 41.65,
+      "price_null_pct": null
+    },
+    "reviews": {
+      "n_rows": 1033523,
+      "date_min": "2010-10-03",
+      "date_max": "2026-07-02",
+      "unique_listings_with_reviews": 11822
+    }
+  },
+  "rejected_rows": {
+    "listings": 0,
+    "calendar": 0,
+    "reviews": 0
+  }
+}

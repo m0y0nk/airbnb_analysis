@@ -1,0 +1,912 @@
+neighbourhood,month,total_days,unavailable_days,unavailability_rate_pct,active_listings
+Can Baró,2026-06-01,190,113,59.47,29
+Can Baró,2026-07-01,1044,526,50.38,34
+Can Baró,2026-08-01,1054,414,39.28,34
+Can Baró,2026-09-01,1020,314,30.78,34
+Can Baró,2026-10-01,1054,323,30.65,34
+Can Baró,2026-11-01,1020,196,19.22,34
+Can Baró,2026-12-01,1054,250,23.72,34
+Can Baró,2027-01-01,1054,342,32.45,34
+Can Baró,2027-02-01,952,308,32.35,34
+Can Baró,2027-03-01,1054,371,35.2,34
+Can Baró,2027-04-01,1020,480,47.06,34
+Can Baró,2027-05-01,1054,497,47.15,34
+Can Baró,2027-06-01,830,420,50.6,34
+Ciutat Meridiana,2026-07-01,31,7,22.58,1
+Ciutat Meridiana,2026-08-01,31,0,0.0,1
+Ciutat Meridiana,2026-09-01,30,8,26.67,1
+Ciutat Meridiana,2026-10-01,31,31,100.0,1
+Ciutat Meridiana,2026-11-01,30,30,100.0,1
+Ciutat Meridiana,2026-12-01,31,31,100.0,1
+Ciutat Meridiana,2027-01-01,31,31,100.0,1
+Ciutat Meridiana,2027-03-01,31,31,100.0,1
+Ciutat Meridiana,2027-04-01,30,30,100.0,1
+Ciutat Meridiana,2027-05-01,31,31,100.0,1
+Diagonal Mar i el Front Marítim del Poblenou,2026-06-01,671,509,75.86,103
+Diagonal Mar i el Front Marítim del Poblenou,2026-07-01,3663,2219,60.58,119
+Diagonal Mar i el Front Marítim del Poblenou,2026-08-01,3689,1798,48.74,119
+Diagonal Mar i el Front Marítim del Poblenou,2026-09-01,3570,1422,39.83,119
+Diagonal Mar i el Front Marítim del Poblenou,2026-10-01,3689,1450,39.31,119
+Diagonal Mar i el Front Marítim del Poblenou,2026-11-01,3570,1119,31.34,119
+Diagonal Mar i el Front Marítim del Poblenou,2026-12-01,3689,1144,31.01,119
+Diagonal Mar i el Front Marítim del Poblenou,2027-01-01,3689,1310,35.51,119
+Diagonal Mar i el Front Marítim del Poblenou,2027-02-01,3332,1258,37.76,119
+Diagonal Mar i el Front Marítim del Poblenou,2027-03-01,3689,1428,38.71,119
+Diagonal Mar i el Front Marítim del Poblenou,2027-04-01,3570,1488,41.68,119
+Diagonal Mar i el Front Marítim del Poblenou,2027-05-01,3689,1577,42.75,119
+Diagonal Mar i el Front Marítim del Poblenou,2027-06-01,2899,1723,59.43,119
+el Baix Guinardó,2026-06-01,445,319,71.69,71
+el Baix Guinardó,2026-07-01,2730,1812,66.37,89
+el Baix Guinardó,2026-08-01,2759,1445,52.37,89
+el Baix Guinardó,2026-09-01,2670,1182,44.27,89
+el Baix Guinardó,2026-10-01,2759,1153,41.79,89
+el Baix Guinardó,2026-11-01,2670,903,33.82,89
+el Baix Guinardó,2026-12-01,2759,911,33.02,89
+el Baix Guinardó,2027-01-01,2759,1111,40.27,89
+el Baix Guinardó,2027-02-01,2492,1000,40.13,89
+el Baix Guinardó,2027-03-01,2759,1194,43.28,89
+el Baix Guinardó,2027-04-01,2670,1391,52.1,89
+el Baix Guinardó,2027-05-01,2759,1423,51.58,89
+el Baix Guinardó,2027-06-01,2225,1229,55.24,89
+el Barri Gòtic,2026-06-01,4440,3062,68.96,736
+el Barri Gòtic,2026-07-01,27049,15795,58.39,881
+el Barri Gòtic,2026-08-01,27311,11644,42.63,881
+el Barri Gòtic,2026-09-01,26430,10131,38.33,881
+el Barri Gòtic,2026-10-01,27311,10318,37.78,881
+el Barri Gòtic,2026-11-01,26430,8541,32.32,881
+el Barri Gòtic,2026-12-01,27311,8380,30.68,881
+el Barri Gòtic,2027-01-01,27311,10359,37.93,881
+el Barri Gòtic,2027-02-01,24668,9388,38.06,881
+el Barri Gòtic,2027-03-01,27311,10872,39.81,881
+el Barri Gòtic,2027-04-01,26430,11971,45.29,881
+el Barri Gòtic,2027-05-01,27311,12821,46.94,881
+el Barri Gòtic,2027-06-01,21990,10978,49.92,881
+el Barri Gòtic,2027-07-01,262,228,87.02,145
+el Besòs i el Maresme,2026-06-01,465,322,69.25,74
+el Besòs i el Maresme,2026-07-01,3055,1815,59.41,100
+el Besòs i el Maresme,2026-08-01,3100,1556,50.19,100
+el Besòs i el Maresme,2026-09-01,3000,1482,49.4,100
+el Besòs i el Maresme,2026-10-01,3100,1811,58.42,100
+el Besòs i el Maresme,2026-11-01,3000,1622,54.07,100
+el Besòs i el Maresme,2026-12-01,3100,1677,54.1,100
+el Besòs i el Maresme,2027-01-01,3100,1751,56.48,100
+el Besòs i el Maresme,2027-02-01,2800,1552,55.43,100
+el Besòs i el Maresme,2027-03-01,3100,1787,57.65,100
+el Besòs i el Maresme,2027-04-01,3000,1846,61.53,100
+el Besòs i el Maresme,2027-05-01,3100,1862,60.06,100
+el Besòs i el Maresme,2027-06-01,2535,1748,68.95,100
+el Besòs i el Maresme,2027-07-01,45,42,93.33,26
+el Bon Pastor,2026-07-01,238,173,72.69,8
+el Bon Pastor,2026-08-01,248,167,67.34,8
+el Bon Pastor,2026-09-01,240,127,52.92,8
+el Bon Pastor,2026-10-01,248,141,56.85,8
+el Bon Pastor,2026-11-01,240,120,50.0,8
+el Bon Pastor,2026-12-01,248,134,54.03,8
+el Bon Pastor,2027-01-01,248,178,71.77,8
+el Bon Pastor,2027-02-01,224,153,68.3,8
+el Bon Pastor,2027-03-01,248,160,64.52,8
+el Bon Pastor,2027-04-01,240,154,64.17,8
+el Bon Pastor,2027-05-01,248,161,64.92,8
+el Bon Pastor,2027-06-01,221,161,72.85,8
+el Camp d'en Grassot i Gràcia Nova,2026-06-01,1385,1082,78.12,217
+el Camp d'en Grassot i Gràcia Nova,2026-07-01,7898,5414,68.55,257
+el Camp d'en Grassot i Gràcia Nova,2026-08-01,7967,3676,46.14,257
+el Camp d'en Grassot i Gràcia Nova,2026-09-01,7710,3374,43.76,257
+el Camp d'en Grassot i Gràcia Nova,2026-10-01,7967,3283,41.21,257
+el Camp d'en Grassot i Gràcia Nova,2026-11-01,7710,2512,32.58,257
+el Camp d'en Grassot i Gràcia Nova,2026-12-01,7967,2592,32.53,257
+el Camp d'en Grassot i Gràcia Nova,2027-01-01,7967,3274,41.09,257
+el Camp d'en Grassot i Gràcia Nova,2027-02-01,7196,3061,42.54,257
+el Camp d'en Grassot i Gràcia Nova,2027-03-01,7967,3570,44.81,257
+el Camp d'en Grassot i Gràcia Nova,2027-04-01,7710,3787,49.12,257
+el Camp d'en Grassot i Gràcia Nova,2027-05-01,7967,4038,50.68,257
+el Camp d'en Grassot i Gràcia Nova,2027-06-01,6325,3574,56.51,257
+el Camp d'en Grassot i Gràcia Nova,2027-07-01,69,63,91.3,40
+el Camp de l'Arpa del Clot,2026-06-01,1344,1053,78.35,215
+el Camp de l'Arpa del Clot,2026-07-01,7924,5245,66.19,258
+el Camp de l'Arpa del Clot,2026-08-01,7998,3962,49.54,258
+el Camp de l'Arpa del Clot,2026-09-01,7740,3355,43.35,258
+el Camp de l'Arpa del Clot,2026-10-01,7998,3069,38.37,258
+el Camp de l'Arpa del Clot,2026-11-01,7740,2485,32.11,258
+el Camp de l'Arpa del Clot,2026-12-01,7998,2472,30.91,258
+el Camp de l'Arpa del Clot,2027-01-01,7998,2539,31.75,258
+el Camp de l'Arpa del Clot,2027-02-01,7224,2372,32.83,258
+el Camp de l'Arpa del Clot,2027-03-01,7998,2887,36.1,258
+el Camp de l'Arpa del Clot,2027-04-01,7740,2933,37.89,258
+el Camp de l'Arpa del Clot,2027-05-01,7998,3138,39.23,258
+el Camp de l'Arpa del Clot,2027-06-01,6396,2653,41.48,258
+el Camp de l'Arpa del Clot,2027-07-01,74,57,77.03,43
+el Carmel,2026-06-01,355,272,76.62,57
+el Carmel,2026-07-01,1972,1464,74.24,64
+el Carmel,2026-08-01,1984,1184,59.68,64
+el Carmel,2026-09-01,1920,748,38.96,64
+el Carmel,2026-10-01,1984,577,29.08,64
+el Carmel,2026-11-01,1920,322,16.77,64
+el Carmel,2026-12-01,1984,295,14.87,64
+el Carmel,2027-01-01,1984,281,14.16,64
+el Carmel,2027-02-01,1792,252,14.06,64
+el Carmel,2027-03-01,1984,380,19.15,64
+el Carmel,2027-04-01,1920,570,29.69,64
+el Carmel,2027-05-01,1984,603,30.39,64
+el Carmel,2027-06-01,1565,498,31.82,64
+el Clot,2026-06-01,379,299,78.89,60
+el Clot,2026-07-01,2444,1815,74.26,80
+el Clot,2026-08-01,2480,1527,61.57,80
+el Clot,2026-09-01,2400,1286,53.58,80
+el Clot,2026-10-01,2480,1342,54.11,80
+el Clot,2026-11-01,2400,1203,50.13,80
+el Clot,2026-12-01,2480,1339,53.99,80
+el Clot,2027-01-01,2480,1361,54.88,80
+el Clot,2027-02-01,2240,1279,57.1,80
+el Clot,2027-03-01,2480,1491,60.12,80
+el Clot,2027-04-01,2400,1590,66.25,80
+el Clot,2027-05-01,2480,1609,64.88,80
+el Clot,2027-06-01,2021,1345,66.55,80
+el Clot,2027-07-01,36,32,88.89,20
+el Coll,2026-06-01,130,99,76.15,20
+el Coll,2026-07-01,823,611,74.24,27
+el Coll,2026-08-01,837,483,57.71,27
+el Coll,2026-09-01,810,375,46.3,27
+el Coll,2026-10-01,837,425,50.78,27
+el Coll,2026-11-01,810,409,50.49,27
+el Coll,2026-12-01,837,379,45.28,27
+el Coll,2027-01-01,837,313,37.4,27
+el Coll,2027-02-01,756,280,37.04,27
+el Coll,2027-03-01,837,324,38.71,27
+el Coll,2027-04-01,810,332,40.99,27
+el Coll,2027-05-01,837,373,44.56,27
+el Coll,2027-06-01,680,316,46.47,27
+el Congrés i els Indians,2026-06-01,205,144,70.24,33
+el Congrés i els Indians,2026-07-01,1261,717,56.86,41
+el Congrés i els Indians,2026-08-01,1271,523,41.15,41
+el Congrés i els Indians,2026-09-01,1230,620,50.41,41
+el Congrés i els Indians,2026-10-01,1271,602,47.36,41
+el Congrés i els Indians,2026-11-01,1230,500,40.65,41
+el Congrés i els Indians,2026-12-01,1271,453,35.64,41
+el Congrés i els Indians,2027-01-01,1271,506,39.81,41
+el Congrés i els Indians,2027-02-01,1148,465,40.51,41
+el Congrés i els Indians,2027-03-01,1271,552,43.43,41
+el Congrés i els Indians,2027-04-01,1230,630,51.22,41
+el Congrés i els Indians,2027-05-01,1271,642,50.51,41
+el Congrés i els Indians,2027-06-01,1025,550,53.66,41
+el Fort Pienc,2026-06-01,2329,1808,77.63,376
+el Fort Pienc,2026-07-01,13066,9387,71.84,424
+el Fort Pienc,2026-08-01,13144,6909,52.56,424
+el Fort Pienc,2026-09-01,12720,5300,41.67,424
+el Fort Pienc,2026-10-01,13144,5214,39.67,424
+el Fort Pienc,2026-11-01,12720,4120,32.39,424
+el Fort Pienc,2026-12-01,13144,3859,29.36,424
+el Fort Pienc,2027-01-01,13144,4530,34.46,424
+el Fort Pienc,2027-02-01,11872,4283,36.08,424
+el Fort Pienc,2027-03-01,13144,4888,37.19,424
+el Fort Pienc,2027-04-01,12720,5218,41.02,424
+el Fort Pienc,2027-05-01,13144,5563,42.32,424
+el Fort Pienc,2027-06-01,10391,4971,47.84,424
+el Fort Pienc,2027-07-01,78,72,92.31,48
+el Guinardó,2026-06-01,498,373,74.9,79
+el Guinardó,2026-07-01,3125,1856,59.39,102
+el Guinardó,2026-08-01,3162,1587,50.19,102
+el Guinardó,2026-09-01,3060,1478,48.3,102
+el Guinardó,2026-10-01,3162,1538,48.64,102
+el Guinardó,2026-11-01,3060,1356,44.31,102
+el Guinardó,2026-12-01,3162,1417,44.81,102
+el Guinardó,2027-01-01,3162,1480,46.81,102
+el Guinardó,2027-02-01,2856,1304,45.66,102
+el Guinardó,2027-03-01,3162,1469,46.46,102
+el Guinardó,2027-04-01,3060,1579,51.6,102
+el Guinardó,2027-05-01,3162,1690,53.45,102
+el Guinardó,2027-06-01,2562,1449,56.56,102
+el Guinardó,2027-07-01,37,35,94.59,23
+el Parc i la Llacuna del Poblenou,2026-06-01,866,612,70.67,133
+el Parc i la Llacuna del Poblenou,2026-07-01,4940,3152,63.81,161
+el Parc i la Llacuna del Poblenou,2026-08-01,4991,2509,50.27,161
+el Parc i la Llacuna del Poblenou,2026-09-01,4830,1976,40.91,161
+el Parc i la Llacuna del Poblenou,2026-10-01,4991,1999,40.05,161
+el Parc i la Llacuna del Poblenou,2026-11-01,4830,1596,33.04,161
+el Parc i la Llacuna del Poblenou,2026-12-01,4991,1668,33.42,161
+el Parc i la Llacuna del Poblenou,2027-01-01,4991,2055,41.17,161
+el Parc i la Llacuna del Poblenou,2027-02-01,4508,2027,44.96,161
+el Parc i la Llacuna del Poblenou,2027-03-01,4991,2507,50.23,161
+el Parc i la Llacuna del Poblenou,2027-04-01,4830,2720,56.31,161
+el Parc i la Llacuna del Poblenou,2027-05-01,4991,2873,57.56,161
+el Parc i la Llacuna del Poblenou,2027-06-01,3964,2588,65.29,161
+el Parc i la Llacuna del Poblenou,2027-07-01,51,47,92.16,28
+el Poble Sec,2026-06-01,3443,2422,70.35,559
+el Poble Sec,2026-07-01,19989,12875,64.41,650
+el Poble Sec,2026-08-01,20150,9841,48.84,650
+el Poble Sec,2026-09-01,19500,7858,40.3,650
+el Poble Sec,2026-10-01,20150,6950,34.49,650
+el Poble Sec,2026-11-01,19500,5983,30.68,650
+el Poble Sec,2026-12-01,20150,6219,30.86,650
+el Poble Sec,2027-01-01,20150,8367,41.52,650
+el Poble Sec,2027-02-01,18200,7481,41.1,650
+el Poble Sec,2027-03-01,20150,8436,41.87,650
+el Poble Sec,2027-04-01,19500,9439,48.41,650
+el Poble Sec,2027-05-01,20150,9941,49.33,650
+el Poble Sec,2027-06-01,16057,8243,51.34,650
+el Poble Sec,2027-07-01,161,116,72.05,91
+el Poblenou,2026-06-01,2404,1764,73.38,387
+el Poblenou,2026-07-01,13457,8559,63.6,437
+el Poblenou,2026-08-01,13547,6594,48.67,437
+el Poblenou,2026-09-01,13110,4878,37.21,437
+el Poblenou,2026-10-01,13547,4739,34.98,437
+el Poblenou,2026-11-01,13110,3405,25.97,437
+el Poblenou,2026-12-01,13547,3387,25.0,437
+el Poblenou,2027-01-01,13547,4898,36.16,437
+el Poblenou,2027-02-01,12236,4695,38.37,437
+el Poblenou,2027-03-01,13547,5907,43.6,437
+el Poblenou,2027-04-01,13110,6304,48.09,437
+el Poblenou,2027-05-01,13547,6710,49.53,437
+el Poblenou,2027-06-01,10706,5811,54.28,437
+el Poblenou,2027-07-01,90,81,90.0,50
+el Putxet i el Farró,2026-06-01,1103,712,64.55,168
+el Putxet i el Farró,2026-07-01,6226,3501,56.23,203
+el Putxet i el Farró,2026-08-01,6293,2365,37.58,203
+el Putxet i el Farró,2026-09-01,6090,2094,34.38,203
+el Putxet i el Farró,2026-10-01,6293,2139,33.99,203
+el Putxet i el Farró,2026-11-01,6090,1707,28.03,203
+el Putxet i el Farró,2026-12-01,6293,1645,26.14,203
+el Putxet i el Farró,2027-01-01,6293,1667,26.49,203
+el Putxet i el Farró,2027-02-01,5684,1568,27.59,203
+el Putxet i el Farró,2027-03-01,6293,1795,28.52,203
+el Putxet i el Farró,2027-04-01,6090,2152,35.34,203
+el Putxet i el Farró,2027-05-01,6293,2257,35.87,203
+el Putxet i el Farró,2027-06-01,4987,2285,45.82,203
+el Putxet i el Farró,2027-07-01,67,49,73.13,35
+el Raval,2026-06-01,4968,3810,76.69,826
+el Raval,2026-07-01,31597,20378,64.49,1031
+el Raval,2026-08-01,31961,14881,46.56,1031
+el Raval,2026-09-01,30930,13774,44.53,1031
+el Raval,2026-10-01,31961,13075,40.91,1031
+el Raval,2026-11-01,30930,10640,34.4,1031
+el Raval,2026-12-01,31961,10578,33.1,1031
+el Raval,2027-01-01,31961,11971,37.46,1031
+el Raval,2027-02-01,28868,11027,38.2,1031
+el Raval,2027-03-01,31961,13006,40.69,1031
+el Raval,2027-04-01,30930,15101,48.82,1031
+el Raval,2027-05-01,31961,15983,50.01,1031
+el Raval,2027-06-01,25962,13957,53.76,1031
+el Raval,2027-07-01,364,291,79.95,205
+el Turó de la Peira,2026-06-01,68,68,100.0,11
+el Turó de la Peira,2026-07-01,458,410,89.52,15
+el Turó de la Peira,2026-08-01,465,368,79.14,15
+el Turó de la Peira,2026-09-01,450,311,69.11,15
+el Turó de la Peira,2026-10-01,465,300,64.52,15
+el Turó de la Peira,2026-11-01,450,245,54.44,15
+el Turó de la Peira,2026-12-01,465,218,46.88,15
+el Turó de la Peira,2027-01-01,465,186,40.0,15
+el Turó de la Peira,2027-02-01,420,142,33.81,15
+el Turó de la Peira,2027-03-01,465,134,28.82,15
+el Turó de la Peira,2027-04-01,450,150,33.33,15
+el Turó de la Peira,2027-05-01,465,155,33.33,15
+el Turó de la Peira,2027-06-01,382,143,37.43,15
+Horta,2026-06-01,44,24,54.55,7
+Horta,2026-07-01,364,191,52.47,12
+Horta,2026-08-01,372,189,50.81,12
+Horta,2026-09-01,360,154,42.78,12
+Horta,2026-10-01,372,134,36.02,12
+Horta,2026-11-01,360,126,35.0,12
+Horta,2026-12-01,372,124,33.33,12
+Horta,2027-01-01,372,102,27.42,12
+Horta,2027-02-01,336,87,25.89,12
+Horta,2027-03-01,372,95,25.54,12
+Horta,2027-04-01,360,180,50.0,12
+Horta,2027-05-01,372,189,50.81,12
+Horta,2027-06-01,316,184,58.23,12
+Hostafrancs,2026-06-01,880,608,69.09,139
+Hostafrancs,2026-07-01,5390,3324,61.67,176
+Hostafrancs,2026-08-01,5456,2683,49.18,176
+Hostafrancs,2026-09-01,5280,2330,44.13,176
+Hostafrancs,2026-10-01,5456,2179,39.94,176
+Hostafrancs,2026-11-01,5280,1763,33.39,176
+Hostafrancs,2026-12-01,5456,1752,32.11,176
+Hostafrancs,2027-01-01,5456,1864,34.16,176
+Hostafrancs,2027-02-01,4928,1776,36.04,176
+Hostafrancs,2027-03-01,5456,1979,36.27,176
+Hostafrancs,2027-04-01,5280,2536,48.03,176
+Hostafrancs,2027-05-01,5456,2693,49.36,176
+Hostafrancs,2027-06-01,4400,2226,50.59,176
+Hostafrancs,2027-07-01,66,43,65.15,37
+l'Antiga Esquerra de l'Eixample,2026-06-01,4425,3552,80.27,726
+l'Antiga Esquerra de l'Eixample,2026-07-01,26136,17721,67.8,850
+l'Antiga Esquerra de l'Eixample,2026-08-01,26350,12297,46.67,850
+l'Antiga Esquerra de l'Eixample,2026-09-01,25500,9674,37.94,850
+l'Antiga Esquerra de l'Eixample,2026-10-01,26350,8799,33.39,850
+l'Antiga Esquerra de l'Eixample,2026-11-01,25500,6453,25.31,850
+l'Antiga Esquerra de l'Eixample,2026-12-01,26350,6528,24.77,850
+l'Antiga Esquerra de l'Eixample,2027-01-01,26350,9753,37.01,850
+l'Antiga Esquerra de l'Eixample,2027-02-01,23800,9175,38.55,850
+l'Antiga Esquerra de l'Eixample,2027-03-01,26350,10456,39.68,850
+l'Antiga Esquerra de l'Eixample,2027-04-01,25500,11687,45.83,850
+l'Antiga Esquerra de l'Eixample,2027-05-01,26350,12714,48.25,850
+l'Antiga Esquerra de l'Eixample,2027-06-01,21075,11956,56.73,850
+l'Antiga Esquerra de l'Eixample,2027-07-01,214,172,80.37,124
+la Barceloneta,2026-06-01,2124,1654,77.87,345
+la Barceloneta,2026-07-01,12590,8048,63.92,410
+la Barceloneta,2026-08-01,12710,5985,47.09,410
+la Barceloneta,2026-09-01,12300,4894,39.79,410
+la Barceloneta,2026-10-01,12710,5608,44.12,410
+la Barceloneta,2026-11-01,12300,4497,36.56,410
+la Barceloneta,2026-12-01,12710,4435,34.89,410
+la Barceloneta,2027-01-01,12710,5263,41.41,410
+la Barceloneta,2027-02-01,11480,4739,41.28,410
+la Barceloneta,2027-03-01,12710,5594,44.01,410
+la Barceloneta,2027-04-01,12300,6137,49.89,410
+la Barceloneta,2027-05-01,12710,6367,50.09,410
+la Barceloneta,2027-06-01,10176,5133,50.44,410
+la Barceloneta,2027-07-01,120,82,68.33,65
+la Bordeta,2026-06-01,382,193,50.52,58
+la Bordeta,2026-07-01,2210,1318,59.64,72
+la Bordeta,2026-08-01,2232,1041,46.64,72
+la Bordeta,2026-09-01,2160,973,45.05,72
+la Bordeta,2026-10-01,2232,978,43.82,72
+la Bordeta,2026-11-01,2160,787,36.44,72
+la Bordeta,2026-12-01,2232,890,39.87,72
+la Bordeta,2027-01-01,2232,1031,46.19,72
+la Bordeta,2027-02-01,2016,930,46.13,72
+la Bordeta,2027-03-01,2232,1051,47.09,72
+la Bordeta,2027-04-01,2160,999,46.25,72
+la Bordeta,2027-05-01,2232,999,44.76,72
+la Bordeta,2027-06-01,1778,833,46.85,72
+la Clota,2026-07-01,124,1,0.81,4
+la Clota,2026-08-01,124,0,0.0,4
+la Clota,2026-09-01,120,0,0.0,4
+la Clota,2026-10-01,124,0,0.0,4
+la Clota,2026-11-01,120,0,0.0,4
+la Clota,2026-12-01,124,0,0.0,4
+la Clota,2027-01-01,124,0,0.0,4
+la Clota,2027-02-01,112,0,0.0,4
+la Clota,2027-03-01,124,20,16.13,4
+la Clota,2027-04-01,120,60,50.0,4
+la Clota,2027-05-01,124,62,50.0,4
+la Clota,2027-06-01,96,48,50.0,4
+la Dreta de l'Eixample,2026-06-01,11657,8523,73.11,1928
+la Dreta de l'Eixample,2026-07-01,66094,40169,60.78,2145
+la Dreta de l'Eixample,2026-08-01,66495,27302,41.06,2145
+la Dreta de l'Eixample,2026-09-01,64350,22841,35.49,2145
+la Dreta de l'Eixample,2026-10-01,66495,20189,30.36,2145
+la Dreta de l'Eixample,2026-11-01,64350,15603,24.25,2145
+la Dreta de l'Eixample,2026-12-01,66495,15796,23.76,2145
+la Dreta de l'Eixample,2027-01-01,66495,20874,31.39,2145
+la Dreta de l'Eixample,2027-02-01,60060,20048,33.38,2145
+la Dreta de l'Eixample,2027-03-01,66495,23657,35.58,2145
+la Dreta de l'Eixample,2027-04-01,64350,26767,41.6,2145
+la Dreta de l'Eixample,2027-05-01,66495,29461,44.31,2145
+la Dreta de l'Eixample,2027-06-01,52693,27591,52.36,2145
+la Dreta de l'Eixample,2027-07-01,401,338,84.29,217
+la Font d'en Fargues,2026-06-01,113,94,83.19,18
+la Font d'en Fargues,2026-07-01,675,437,64.74,22
+la Font d'en Fargues,2026-08-01,682,333,48.83,22
+la Font d'en Fargues,2026-09-01,660,262,39.7,22
+la Font d'en Fargues,2026-10-01,682,177,25.95,22
+la Font d'en Fargues,2026-11-01,660,151,22.88,22
+la Font d'en Fargues,2026-12-01,682,124,18.18,22
+la Font d'en Fargues,2027-01-01,682,123,18.04,22
+la Font d'en Fargues,2027-02-01,616,84,13.64,22
+la Font d'en Fargues,2027-03-01,682,93,13.64,22
+la Font d'en Fargues,2027-04-01,660,90,13.64,22
+la Font d'en Fargues,2027-05-01,682,93,13.64,22
+la Font d'en Fargues,2027-06-01,547,108,19.74,22
+la Font de la Guatlla,2026-06-01,397,263,66.25,63
+la Font de la Guatlla,2026-07-01,2158,1241,57.51,70
+la Font de la Guatlla,2026-08-01,2170,1000,46.08,70
+la Font de la Guatlla,2026-09-01,2100,833,39.67,70
+la Font de la Guatlla,2026-10-01,2170,725,33.41,70
+la Font de la Guatlla,2026-11-01,2100,525,25.0,70
+la Font de la Guatlla,2026-12-01,2170,520,23.96,70
+la Font de la Guatlla,2027-01-01,2170,809,37.28,70
+la Font de la Guatlla,2027-02-01,1960,768,39.18,70
+la Font de la Guatlla,2027-03-01,2170,904,41.66,70
+la Font de la Guatlla,2027-04-01,2100,959,45.67,70
+la Font de la Guatlla,2027-05-01,2170,956,44.06,70
+la Font de la Guatlla,2027-06-01,1703,867,50.91,70
+la Guineueta,2026-06-01,54,44,81.48,9
+la Guineueta,2026-07-01,395,196,49.62,13
+la Guineueta,2026-08-01,403,178,44.17,13
+la Guineueta,2026-09-01,390,193,49.49,13
+la Guineueta,2026-10-01,403,221,54.84,13
+la Guineueta,2026-11-01,390,270,69.23,13
+la Guineueta,2026-12-01,403,279,69.23,13
+la Guineueta,2027-01-01,403,248,61.54,13
+la Guineueta,2027-02-01,364,224,61.54,13
+la Guineueta,2027-03-01,403,248,61.54,13
+la Guineueta,2027-04-01,390,240,61.54,13
+la Guineueta,2027-05-01,403,248,61.54,13
+la Guineueta,2027-06-01,336,216,64.29,13
+la Marina de Port,2026-06-01,356,186,52.25,54
+la Marina de Port,2026-07-01,1909,790,41.38,62
+la Marina de Port,2026-08-01,1922,435,22.63,62
+la Marina de Port,2026-09-01,1860,441,23.71,62
+la Marina de Port,2026-10-01,1922,504,26.22,62
+la Marina de Port,2026-11-01,1860,532,28.6,62
+la Marina de Port,2026-12-01,1922,629,32.73,62
+la Marina de Port,2027-01-01,1922,828,43.08,62
+la Marina de Port,2027-02-01,1736,728,41.94,62
+la Marina de Port,2027-03-01,1922,859,44.69,62
+la Marina de Port,2027-04-01,1860,990,53.23,62
+la Marina de Port,2027-05-01,1922,1023,53.23,62
+la Marina de Port,2027-06-01,1504,832,55.32,62
+la Marina del Prat Vermell,2026-07-01,93,49,52.69,3
+la Marina del Prat Vermell,2026-08-01,93,79,84.95,3
+la Marina del Prat Vermell,2026-09-01,90,34,37.78,3
+la Marina del Prat Vermell,2026-10-01,93,3,3.23,3
+la Marina del Prat Vermell,2026-11-01,90,13,14.44,3
+la Marina del Prat Vermell,2026-12-01,93,0,0.0,3
+la Marina del Prat Vermell,2027-01-01,93,4,4.3,3
+la Marina del Prat Vermell,2027-02-01,84,0,0.0,3
+la Marina del Prat Vermell,2027-03-01,93,10,10.75,3
+la Marina del Prat Vermell,2027-04-01,90,31,34.44,3
+la Marina del Prat Vermell,2027-05-01,93,58,62.37,3
+la Marina del Prat Vermell,2027-06-01,71,48,67.61,3
+la Maternitat i Sant Ramon,2026-06-01,398,297,74.62,62
+la Maternitat i Sant Ramon,2026-07-01,2154,1267,58.82,70
+la Maternitat i Sant Ramon,2026-08-01,2170,890,41.01,70
+la Maternitat i Sant Ramon,2026-09-01,2100,863,41.1,70
+la Maternitat i Sant Ramon,2026-10-01,2170,962,44.33,70
+la Maternitat i Sant Ramon,2026-11-01,2100,755,35.95,70
+la Maternitat i Sant Ramon,2026-12-01,2170,785,36.18,70
+la Maternitat i Sant Ramon,2027-01-01,2170,905,41.71,70
+la Maternitat i Sant Ramon,2027-02-01,1960,765,39.03,70
+la Maternitat i Sant Ramon,2027-03-01,2170,916,42.21,70
+la Maternitat i Sant Ramon,2027-04-01,2100,1059,50.43,70
+la Maternitat i Sant Ramon,2027-05-01,2170,1280,58.99,70
+la Maternitat i Sant Ramon,2027-06-01,1702,1023,60.11,70
+la Nova Esquerra de l'Eixample,2026-06-01,3524,2294,65.1,564
+la Nova Esquerra de l'Eixample,2026-07-01,20300,11206,55.2,660
+la Nova Esquerra de l'Eixample,2026-08-01,20460,7932,38.77,660
+la Nova Esquerra de l'Eixample,2026-09-01,19800,6755,34.12,660
+la Nova Esquerra de l'Eixample,2026-10-01,20460,6680,32.65,660
+la Nova Esquerra de l'Eixample,2026-11-01,19800,5394,27.24,660
+la Nova Esquerra de l'Eixample,2026-12-01,20460,5487,26.82,660
+la Nova Esquerra de l'Eixample,2027-01-01,20460,7407,36.2,660
+la Nova Esquerra de l'Eixample,2027-02-01,18480,6831,36.96,660
+la Nova Esquerra de l'Eixample,2027-03-01,20460,8006,39.13,660
+la Nova Esquerra de l'Eixample,2027-04-01,19800,10409,52.57,660
+la Nova Esquerra de l'Eixample,2027-05-01,20460,10825,52.91,660
+la Nova Esquerra de l'Eixample,2027-06-01,16276,9267,56.94,660
+la Nova Esquerra de l'Eixample,2027-07-01,160,143,89.38,96
+la Prosperitat,2026-06-01,48,13,27.08,8
+la Prosperitat,2026-07-01,481,209,43.45,16
+la Prosperitat,2026-08-01,496,217,43.75,16
+la Prosperitat,2026-09-01,480,214,44.58,16
+la Prosperitat,2026-10-01,496,217,43.75,16
+la Prosperitat,2026-11-01,480,210,43.75,16
+la Prosperitat,2026-12-01,496,227,45.77,16
+la Prosperitat,2027-01-01,496,248,50.0,16
+la Prosperitat,2027-02-01,448,224,50.0,16
+la Prosperitat,2027-03-01,496,260,52.42,16
+la Prosperitat,2027-04-01,480,300,62.5,16
+la Prosperitat,2027-05-01,496,310,62.5,16
+la Prosperitat,2027-06-01,432,252,58.33,16
+la Sagrada Família,2026-06-01,4826,3690,76.46,797
+la Sagrada Família,2026-07-01,28016,18427,65.77,910
+la Sagrada Família,2026-08-01,28210,13144,46.59,910
+la Sagrada Família,2026-09-01,27300,10890,39.89,910
+la Sagrada Família,2026-10-01,28210,9530,33.78,910
+la Sagrada Família,2026-11-01,27300,7811,28.61,910
+la Sagrada Família,2026-12-01,28210,8270,29.32,910
+la Sagrada Família,2027-01-01,28210,9692,34.36,910
+la Sagrada Família,2027-02-01,25480,9172,36.0,910
+la Sagrada Família,2027-03-01,28210,10550,37.4,910
+la Sagrada Família,2027-04-01,27300,12195,44.67,910
+la Sagrada Família,2027-05-01,28210,13159,46.65,910
+la Sagrada Família,2027-06-01,22474,11339,50.45,910
+la Sagrada Família,2027-07-01,194,170,87.63,113
+la Sagrera,2026-06-01,194,170,87.63,32
+la Sagrera,2026-07-01,1197,850,71.01,39
+la Sagrera,2026-08-01,1209,528,43.67,39
+la Sagrera,2026-09-01,1170,425,36.32,39
+la Sagrera,2026-10-01,1209,470,38.88,39
+la Sagrera,2026-11-01,1170,322,27.52,39
+la Sagrera,2026-12-01,1209,268,22.17,39
+la Sagrera,2027-01-01,1209,455,37.63,39
+la Sagrera,2027-02-01,1092,420,38.46,39
+la Sagrera,2027-03-01,1209,497,41.11,39
+la Sagrera,2027-04-01,1170,570,48.72,39
+la Sagrera,2027-05-01,1209,589,48.72,39
+la Sagrera,2027-06-01,976,485,49.69,39
+la Salut,2026-06-01,415,336,80.96,64
+la Salut,2026-07-01,2482,1681,67.73,81
+la Salut,2026-08-01,2511,1219,48.55,81
+la Salut,2026-09-01,2430,1015,41.77,81
+la Salut,2026-10-01,2511,1033,41.14,81
+la Salut,2026-11-01,2430,797,32.8,81
+la Salut,2026-12-01,2511,750,29.87,81
+la Salut,2027-01-01,2511,1088,43.33,81
+la Salut,2027-02-01,2268,977,43.08,81
+la Salut,2027-03-01,2511,1180,46.99,81
+la Salut,2027-04-01,2430,1290,53.09,81
+la Salut,2027-05-01,2511,1298,51.69,81
+la Salut,2027-06-01,2015,1112,55.19,81
+la Teixonera,2026-06-01,76,71,93.42,12
+la Teixonera,2026-07-01,402,306,76.12,13
+la Teixonera,2026-08-01,403,242,60.05,13
+la Teixonera,2026-09-01,390,192,49.23,13
+la Teixonera,2026-10-01,403,132,32.75,13
+la Teixonera,2026-11-01,390,96,24.62,13
+la Teixonera,2026-12-01,403,97,24.07,13
+la Teixonera,2027-01-01,403,108,26.8,13
+la Teixonera,2027-02-01,364,89,24.45,13
+la Teixonera,2027-03-01,403,134,33.25,13
+la Teixonera,2027-04-01,390,185,47.44,13
+la Teixonera,2027-05-01,403,197,48.88,13
+la Teixonera,2027-06-01,314,157,50.0,13
+la Trinitat Nova,2026-07-01,93,29,31.18,3
+la Trinitat Nova,2026-08-01,93,29,31.18,3
+la Trinitat Nova,2026-09-01,90,14,15.56,3
+la Trinitat Nova,2026-10-01,93,11,11.83,3
+la Trinitat Nova,2026-11-01,90,3,3.33,3
+la Trinitat Nova,2026-12-01,93,0,0.0,3
+la Trinitat Nova,2027-01-01,93,0,0.0,3
+la Trinitat Nova,2027-02-01,84,0,0.0,3
+la Trinitat Nova,2027-03-01,93,10,10.75,3
+la Trinitat Nova,2027-04-01,90,30,33.33,3
+la Trinitat Nova,2027-05-01,93,31,33.33,3
+la Trinitat Nova,2027-06-01,72,29,40.28,3
+la Trinitat Vella,2026-07-01,91,90,98.9,3
+la Trinitat Vella,2026-08-01,93,66,70.97,3
+la Trinitat Vella,2026-09-01,90,60,66.67,3
+la Trinitat Vella,2026-10-01,93,42,45.16,3
+la Trinitat Vella,2026-11-01,90,30,33.33,3
+la Trinitat Vella,2026-12-01,93,31,33.33,3
+la Trinitat Vella,2027-01-01,93,31,33.33,3
+la Trinitat Vella,2027-02-01,84,28,33.33,3
+la Trinitat Vella,2027-03-01,93,42,45.16,3
+la Trinitat Vella,2027-04-01,90,60,66.67,3
+la Trinitat Vella,2027-05-01,93,62,66.67,3
+la Trinitat Vella,2027-06-01,77,53,68.83,3
+la Vall d'Hebron,2026-06-01,32,23,71.88,5
+la Vall d'Hebron,2026-07-01,214,141,65.89,7
+la Vall d'Hebron,2026-08-01,217,146,67.28,7
+la Vall d'Hebron,2026-09-01,210,110,52.38,7
+la Vall d'Hebron,2026-10-01,217,78,35.94,7
+la Vall d'Hebron,2026-11-01,210,60,28.57,7
+la Vall d'Hebron,2026-12-01,217,62,28.57,7
+la Vall d'Hebron,2027-01-01,217,77,35.48,7
+la Vall d'Hebron,2027-02-01,196,84,42.86,7
+la Vall d'Hebron,2027-03-01,217,103,47.47,7
+la Vall d'Hebron,2027-04-01,210,99,47.14,7
+la Vall d'Hebron,2027-05-01,217,96,44.24,7
+la Vall d'Hebron,2027-06-01,178,84,47.19,7
+la Verneda i la Pau,2026-06-01,140,85,60.71,23
+la Verneda i la Pau,2026-07-01,832,358,43.03,27
+la Verneda i la Pau,2026-08-01,837,320,38.23,27
+la Verneda i la Pau,2026-09-01,810,335,41.36,27
+la Verneda i la Pau,2026-10-01,837,337,40.26,27
+la Verneda i la Pau,2026-11-01,810,234,28.89,27
+la Verneda i la Pau,2026-12-01,837,265,31.66,27
+la Verneda i la Pau,2027-01-01,837,360,43.01,27
+la Verneda i la Pau,2027-02-01,756,336,44.44,27
+la Verneda i la Pau,2027-03-01,837,374,44.68,27
+la Verneda i la Pau,2027-04-01,810,390,48.15,27
+la Verneda i la Pau,2027-05-01,837,403,48.15,27
+la Verneda i la Pau,2027-06-01,670,364,54.33,27
+la Vila de Gràcia,2026-06-01,5047,3731,73.93,819
+la Vila de Gràcia,2026-07-01,28460,17642,61.99,924
+la Vila de Gràcia,2026-08-01,28644,12918,45.1,924
+la Vila de Gràcia,2026-09-01,27720,11039,39.82,924
+la Vila de Gràcia,2026-10-01,28644,9889,34.52,924
+la Vila de Gràcia,2026-11-01,27720,7178,25.89,924
+la Vila de Gràcia,2026-12-01,28644,7627,26.63,924
+la Vila de Gràcia,2027-01-01,28644,10219,35.68,924
+la Vila de Gràcia,2027-02-01,25872,9668,37.37,924
+la Vila de Gràcia,2027-03-01,28644,11423,39.88,924
+la Vila de Gràcia,2027-04-01,27720,12252,44.2,924
+la Vila de Gràcia,2027-05-01,28644,13123,45.81,924
+la Vila de Gràcia,2027-06-01,22673,12012,52.98,924
+la Vila de Gràcia,2027-07-01,184,168,91.3,105
+la Vila Olímpica del Poblenou,2026-06-01,796,605,76.01,120
+la Vila Olímpica del Poblenou,2026-07-01,4157,2555,61.46,135
+la Vila Olímpica del Poblenou,2026-08-01,4185,1899,45.38,135
+la Vila Olímpica del Poblenou,2026-09-01,4050,1071,26.44,135
+la Vila Olímpica del Poblenou,2026-10-01,4185,1019,24.35,135
+la Vila Olímpica del Poblenou,2026-11-01,4050,820,20.25,135
+la Vila Olímpica del Poblenou,2026-12-01,4185,874,20.88,135
+la Vila Olímpica del Poblenou,2027-01-01,4185,1167,27.89,135
+la Vila Olímpica del Poblenou,2027-02-01,3780,1231,32.57,135
+la Vila Olímpica del Poblenou,2027-03-01,4185,1461,34.91,135
+la Vila Olímpica del Poblenou,2027-04-01,4050,1926,47.56,135
+la Vila Olímpica del Poblenou,2027-05-01,4185,2047,48.91,135
+la Vila Olímpica del Poblenou,2027-06-01,3254,1686,51.81,135
+les Corts,2026-06-01,1333,982,73.67,199
+les Corts,2026-07-01,7044,4222,59.94,229
+les Corts,2026-08-01,7099,2696,37.98,229
+les Corts,2026-09-01,6870,2933,42.69,229
+les Corts,2026-10-01,7099,2819,39.71,229
+les Corts,2026-11-01,6870,2379,34.63,229
+les Corts,2026-12-01,7099,2447,34.47,229
+les Corts,2027-01-01,7099,3619,50.98,229
+les Corts,2027-02-01,6412,3268,50.97,229
+les Corts,2027-03-01,7099,3739,52.67,229
+les Corts,2027-04-01,6870,3812,55.49,229
+les Corts,2027-05-01,7099,4224,59.5,229
+les Corts,2027-06-01,5537,3743,67.6,229
+les Corts,2027-07-01,55,47,85.45,30
+les Roquetes,2026-06-01,78,51,65.38,13
+les Roquetes,2026-07-01,403,309,76.67,13
+les Roquetes,2026-08-01,403,257,63.77,13
+les Roquetes,2026-09-01,390,183,46.92,13
+les Roquetes,2026-10-01,403,106,26.3,13
+les Roquetes,2026-11-01,390,63,16.15,13
+les Roquetes,2026-12-01,403,164,40.69,13
+les Roquetes,2027-01-01,403,155,38.46,13
+les Roquetes,2027-02-01,364,140,38.46,13
+les Roquetes,2027-03-01,403,168,41.69,13
+les Roquetes,2027-04-01,390,180,46.15,13
+les Roquetes,2027-05-01,403,67,16.63,13
+les Roquetes,2027-06-01,312,81,25.96,13
+les Tres Torres,2026-06-01,294,200,68.03,45
+les Tres Torres,2026-07-01,1714,1089,63.54,56
+les Tres Torres,2026-08-01,1736,754,43.43,56
+les Tres Torres,2026-09-01,1680,665,39.58,56
+les Tres Torres,2026-10-01,1736,789,45.45,56
+les Tres Torres,2026-11-01,1680,695,41.37,56
+les Tres Torres,2026-12-01,1736,678,39.06,56
+les Tres Torres,2027-01-01,1736,693,39.92,56
+les Tres Torres,2027-02-01,1568,595,37.95,56
+les Tres Torres,2027-03-01,1736,642,36.98,56
+les Tres Torres,2027-04-01,1680,630,37.5,56
+les Tres Torres,2027-05-01,1736,684,39.4,56
+les Tres Torres,2027-06-01,1386,672,48.48,56
+Montbau,2026-07-01,180,170,94.44,6
+Montbau,2026-08-01,186,186,100.0,6
+Montbau,2026-09-01,180,152,84.44,6
+Montbau,2026-10-01,186,135,72.58,6
+Montbau,2026-11-01,180,120,66.67,6
+Montbau,2026-12-01,186,124,66.67,6
+Montbau,2027-01-01,186,124,66.67,6
+Montbau,2027-02-01,168,112,66.67,6
+Montbau,2027-03-01,186,124,66.67,6
+Montbau,2027-04-01,180,120,66.67,6
+Montbau,2027-05-01,186,124,66.67,6
+Montbau,2027-06-01,167,120,71.86,6
+Navas,2026-06-01,239,179,74.9,39
+Navas,2026-07-01,1855,1242,66.95,61
+Navas,2026-08-01,1891,1097,58.01,61
+Navas,2026-09-01,1830,797,43.55,61
+Navas,2026-10-01,1891,834,44.1,61
+Navas,2026-11-01,1830,829,45.3,61
+Navas,2026-12-01,1891,835,44.16,61
+Navas,2027-01-01,1891,866,45.8,61
+Navas,2027-02-01,1708,834,48.83,61
+Navas,2027-03-01,1891,1059,56.0,61
+Navas,2027-04-01,1830,1075,58.74,61
+Navas,2027-05-01,1891,1188,62.82,61
+Navas,2027-06-01,1591,1125,70.71,61
+Navas,2027-07-01,36,33,91.67,22
+Pedralbes,2026-06-01,141,92,65.25,22
+Pedralbes,2026-07-01,859,486,56.58,28
+Pedralbes,2026-08-01,868,297,34.22,28
+Pedralbes,2026-09-01,840,259,30.83,28
+Pedralbes,2026-10-01,868,308,35.48,28
+Pedralbes,2026-11-01,840,247,29.4,28
+Pedralbes,2026-12-01,868,235,27.07,28
+Pedralbes,2027-01-01,868,342,39.4,28
+Pedralbes,2027-02-01,784,314,40.05,28
+Pedralbes,2027-03-01,868,379,43.66,28
+Pedralbes,2027-04-01,840,390,46.43,28
+Pedralbes,2027-05-01,868,422,48.62,28
+Pedralbes,2027-06-01,699,478,68.38,28
+Porta,2026-06-01,86,66,76.74,14
+Porta,2026-07-01,550,329,59.82,18
+Porta,2026-08-01,558,326,58.42,18
+Porta,2026-09-01,540,273,50.56,18
+Porta,2026-10-01,558,253,45.34,18
+Porta,2026-11-01,540,210,38.89,18
+Porta,2026-12-01,558,217,38.89,18
+Porta,2027-01-01,558,248,44.44,18
+Porta,2027-02-01,504,201,39.88,18
+Porta,2027-03-01,558,239,42.83,18
+Porta,2027-04-01,540,300,55.56,18
+Porta,2027-05-01,558,279,50.0,18
+Porta,2027-06-01,454,239,52.64,18
+Provençals del Poblenou,2026-06-01,413,307,74.33,65
+Provençals del Poblenou,2026-07-01,2570,1702,66.23,84
+Provençals del Poblenou,2026-08-01,2604,1213,46.58,84
+Provençals del Poblenou,2026-09-01,2520,1211,48.06,84
+Provençals del Poblenou,2026-10-01,2604,1172,45.01,84
+Provençals del Poblenou,2026-11-01,2520,948,37.62,84
+Provençals del Poblenou,2026-12-01,2604,1080,41.47,84
+Provençals del Poblenou,2027-01-01,2604,1099,42.2,84
+Provençals del Poblenou,2027-02-01,2352,1035,44.01,84
+Provençals del Poblenou,2027-03-01,2604,1263,48.5,84
+Provençals del Poblenou,2027-04-01,2520,1418,56.27,84
+Provençals del Poblenou,2027-05-01,2604,1481,56.87,84
+Provençals del Poblenou,2027-06-01,2107,1317,62.51,84
+Provençals del Poblenou,2027-07-01,34,34,100.0,19
+Sant Andreu,2026-06-01,369,253,68.56,61
+Sant Andreu,2026-07-01,2239,1325,59.18,73
+Sant Andreu,2026-08-01,2263,1065,47.06,73
+Sant Andreu,2026-09-01,2190,784,35.8,73
+Sant Andreu,2026-10-01,2263,786,34.73,73
+Sant Andreu,2026-11-01,2190,634,28.95,73
+Sant Andreu,2026-12-01,2263,607,26.82,73
+Sant Andreu,2027-01-01,2263,628,27.75,73
+Sant Andreu,2027-02-01,2044,546,26.71,73
+Sant Andreu,2027-03-01,2263,610,26.96,73
+Sant Andreu,2027-04-01,2190,552,25.21,73
+Sant Andreu,2027-05-01,2263,545,24.08,73
+Sant Andreu,2027-06-01,1821,479,26.3,73
+Sant Antoni,2026-06-01,4395,3215,73.15,732
+Sant Antoni,2026-07-01,26026,16300,62.63,846
+Sant Antoni,2026-08-01,26226,11745,44.78,846
+Sant Antoni,2026-09-01,25380,9653,38.03,846
+Sant Antoni,2026-10-01,26226,9085,34.64,846
+Sant Antoni,2026-11-01,25380,6214,24.48,846
+Sant Antoni,2026-12-01,26226,6139,23.41,846
+Sant Antoni,2027-01-01,26226,8607,32.82,846
+Sant Antoni,2027-02-01,23688,8238,34.78,846
+Sant Antoni,2027-03-01,26226,9305,35.48,846
+Sant Antoni,2027-04-01,25380,11612,45.75,846
+Sant Antoni,2027-05-01,26226,12406,47.3,846
+Sant Antoni,2027-06-01,20985,10884,51.87,846
+Sant Antoni,2027-07-01,200,158,79.0,114
+Sant Genís dels Agudells,2026-07-01,153,148,96.73,5
+Sant Genís dels Agudells,2026-08-01,155,124,80.0,5
+Sant Genís dels Agudells,2026-09-01,150,115,76.67,5
+Sant Genís dels Agudells,2026-10-01,155,93,60.0,5
+Sant Genís dels Agudells,2026-11-01,150,90,60.0,5
+Sant Genís dels Agudells,2026-12-01,155,58,37.42,5
+Sant Genís dels Agudells,2027-01-01,155,31,20.0,5
+Sant Genís dels Agudells,2027-02-01,140,28,20.0,5
+Sant Genís dels Agudells,2027-03-01,155,41,26.45,5
+Sant Genís dels Agudells,2027-04-01,150,60,40.0,5
+Sant Genís dels Agudells,2027-05-01,155,62,40.0,5
+Sant Genís dels Agudells,2027-06-01,122,53,43.44,5
+Sant Gervasi - Galvany,2026-06-01,2483,1662,66.94,390
+Sant Gervasi - Galvany,2026-07-01,13788,7783,56.45,448
+Sant Gervasi - Galvany,2026-08-01,13888,5308,38.22,448
+Sant Gervasi - Galvany,2026-09-01,13440,4940,36.76,448
+Sant Gervasi - Galvany,2026-10-01,13888,4279,30.81,448
+Sant Gervasi - Galvany,2026-11-01,13440,3109,23.13,448
+Sant Gervasi - Galvany,2026-12-01,13888,3003,21.62,448
+Sant Gervasi - Galvany,2027-01-01,13888,3889,28.0,448
+Sant Gervasi - Galvany,2027-02-01,12544,3443,27.45,448
+Sant Gervasi - Galvany,2027-03-01,13888,4106,29.57,448
+Sant Gervasi - Galvany,2027-04-01,13440,4292,31.93,448
+Sant Gervasi - Galvany,2027-05-01,13888,5356,38.57,448
+Sant Gervasi - Galvany,2027-06-01,10957,4779,43.62,448
+Sant Gervasi - Galvany,2027-07-01,100,63,63.0,58
+Sant Gervasi - la Bonanova,2026-06-01,459,381,83.01,71
+Sant Gervasi - la Bonanova,2026-07-01,2581,1761,68.23,84
+Sant Gervasi - la Bonanova,2026-08-01,2604,1097,42.13,84
+Sant Gervasi - la Bonanova,2026-09-01,2520,903,35.83,84
+Sant Gervasi - la Bonanova,2026-10-01,2604,820,31.49,84
+Sant Gervasi - la Bonanova,2026-11-01,2520,688,27.3,84
+Sant Gervasi - la Bonanova,2026-12-01,2604,682,26.19,84
+Sant Gervasi - la Bonanova,2027-01-01,2604,700,26.88,84
+Sant Gervasi - la Bonanova,2027-02-01,2352,564,23.98,84
+Sant Gervasi - la Bonanova,2027-03-01,2604,737,28.3,84
+Sant Gervasi - la Bonanova,2027-04-01,2520,776,30.79,84
+Sant Gervasi - la Bonanova,2027-05-01,2604,943,36.21,84
+Sant Gervasi - la Bonanova,2027-06-01,2061,1028,49.88,84
+Sant Martí de Provençals,2026-06-01,174,127,72.99,28
+Sant Martí de Provençals,2026-07-01,1073,638,59.46,35
+Sant Martí de Provençals,2026-08-01,1085,489,45.07,35
+Sant Martí de Provençals,2026-09-01,1050,398,37.9,35
+Sant Martí de Provençals,2026-10-01,1085,411,37.88,35
+Sant Martí de Provençals,2026-11-01,1050,360,34.29,35
+Sant Martí de Provençals,2026-12-01,1085,431,39.72,35
+Sant Martí de Provençals,2027-01-01,1085,530,48.85,35
+Sant Martí de Provençals,2027-02-01,980,480,48.98,35
+Sant Martí de Provençals,2027-03-01,1085,498,45.9,35
+Sant Martí de Provençals,2027-04-01,1050,500,47.62,35
+Sant Martí de Provençals,2027-05-01,1085,494,45.53,35
+Sant Martí de Provençals,2027-06-01,876,418,47.72,35
+"Sant Pere, Santa Caterina i la Ribera",2026-06-01,4686,3309,70.61,766
+"Sant Pere, Santa Caterina i la Ribera",2026-07-01,28387,17039,60.02,925
+"Sant Pere, Santa Caterina i la Ribera",2026-08-01,28675,12972,45.24,925
+"Sant Pere, Santa Caterina i la Ribera",2026-09-01,27750,11518,41.51,925
+"Sant Pere, Santa Caterina i la Ribera",2026-10-01,28675,11170,38.95,925
+"Sant Pere, Santa Caterina i la Ribera",2026-11-01,27750,8659,31.2,925
+"Sant Pere, Santa Caterina i la Ribera",2026-12-01,28675,8949,31.21,925
+"Sant Pere, Santa Caterina i la Ribera",2027-01-01,28675,10809,37.69,925
+"Sant Pere, Santa Caterina i la Ribera",2027-02-01,25900,10146,39.17,925
+"Sant Pere, Santa Caterina i la Ribera",2027-03-01,28675,11629,40.55,925
+"Sant Pere, Santa Caterina i la Ribera",2027-04-01,27750,12657,45.61,925
+"Sant Pere, Santa Caterina i la Ribera",2027-05-01,28675,13872,48.38,925
+"Sant Pere, Santa Caterina i la Ribera",2027-06-01,23064,12737,55.22,925
+"Sant Pere, Santa Caterina i la Ribera",2027-07-01,288,240,83.33,159
+Sants,2026-06-01,1499,1080,72.05,227
+Sants,2026-07-01,8175,5329,65.19,266
+Sants,2026-08-01,8246,4000,48.51,266
+Sants,2026-09-01,7980,3418,42.83,266
+Sants,2026-10-01,8246,3216,39.0,266
+Sants,2026-11-01,7980,2272,28.47,266
+Sants,2026-12-01,8246,2601,31.54,266
+Sants,2027-01-01,8246,2875,34.87,266
+Sants,2027-02-01,7448,2547,34.2,266
+Sants,2027-03-01,8246,3196,38.76,266
+Sants,2027-04-01,7980,3484,43.66,266
+Sants,2027-05-01,8246,3549,43.04,266
+Sants,2027-06-01,6481,3018,46.57,266
+Sants,2027-07-01,71,43,60.56,39
+Sants - Badal,2026-06-01,719,511,71.07,114
+Sants - Badal,2026-07-01,4555,2748,60.33,149
+Sants - Badal,2026-08-01,4619,1948,42.17,149
+Sants - Badal,2026-09-01,4470,1694,37.9,149
+Sants - Badal,2026-10-01,4619,1857,40.2,149
+Sants - Badal,2026-11-01,4470,1673,37.43,149
+Sants - Badal,2026-12-01,4619,1680,36.37,149
+Sants - Badal,2027-01-01,4619,2007,43.45,149
+Sants - Badal,2027-02-01,4172,1762,42.23,149
+Sants - Badal,2027-03-01,4619,1948,42.17,149
+Sants - Badal,2027-04-01,4470,2045,45.75,149
+Sants - Badal,2027-05-01,4619,2133,46.18,149
+Sants - Badal,2027-06-01,3751,1833,48.87,149
+Sants - Badal,2027-07-01,64,44,68.75,35
+Sarrià,2026-06-01,383,284,74.15,57
+Sarrià,2026-07-01,2060,1275,61.89,67
+Sarrià,2026-08-01,2077,957,46.08,67
+Sarrià,2026-09-01,2010,906,45.07,67
+Sarrià,2026-10-01,2077,921,44.34,67
+Sarrià,2026-11-01,2010,774,38.51,67
+Sarrià,2026-12-01,2077,696,33.51,67
+Sarrià,2027-01-01,2077,653,31.44,67
+Sarrià,2027-02-01,1876,617,32.89,67
+Sarrià,2027-03-01,2077,735,35.39,67
+Sarrià,2027-04-01,2010,816,40.6,67
+Sarrià,2027-05-01,2077,936,45.06,67
+Sarrià,2027-06-01,1627,1010,62.08,67
+Torre Baró,2026-07-01,31,31,100.0,1
+Torre Baró,2026-08-01,31,31,100.0,1
+Torre Baró,2026-09-01,30,2,6.67,1
+Torre Baró,2026-10-01,31,0,0.0,1
+Torre Baró,2026-11-01,30,0,0.0,1
+Torre Baró,2026-12-01,31,0,0.0,1
+Torre Baró,2027-01-01,31,0,0.0,1
+Torre Baró,2027-03-01,31,7,22.58,1
+Torre Baró,2027-04-01,30,2,6.67,1
+Torre Baró,2027-05-01,31,3,9.68,1
+Vallcarca i els Penitents,2026-06-01,384,266,69.27,59
+Vallcarca i els Penitents,2026-07-01,2352,1382,58.76,77
+Vallcarca i els Penitents,2026-08-01,2387,979,41.01,77
+Vallcarca i els Penitents,2026-09-01,2310,826,35.76,77
+Vallcarca i els Penitents,2026-10-01,2387,700,29.33,77
+Vallcarca i els Penitents,2026-11-01,2310,602,26.06,77
+Vallcarca i els Penitents,2026-12-01,2387,574,24.05,77
+Vallcarca i els Penitents,2027-01-01,2387,770,32.26,77
+Vallcarca i els Penitents,2027-02-01,2156,682,31.63,77
+Vallcarca i els Penitents,2027-03-01,2387,828,34.69,77
+Vallcarca i els Penitents,2027-04-01,2310,1100,47.62,77
+Vallcarca i els Penitents,2027-05-01,2387,1168,48.93,77
+Vallcarca i els Penitents,2027-06-01,1926,1014,52.65,77
+Vallcarca i els Penitents,2027-07-01,35,29,82.86,18
+"Vallvidrera, el Tibidabo i les Planes",2026-06-01,186,132,70.97,27
+"Vallvidrera, el Tibidabo i les Planes",2026-07-01,924,402,43.51,30
+"Vallvidrera, el Tibidabo i les Planes",2026-08-01,930,340,36.56,30
+"Vallvidrera, el Tibidabo i les Planes",2026-09-01,900,282,31.33,30
+"Vallvidrera, el Tibidabo i les Planes",2026-10-01,930,259,27.85,30
+"Vallvidrera, el Tibidabo i les Planes",2026-11-01,900,210,23.33,30
+"Vallvidrera, el Tibidabo i les Planes",2026-12-01,930,213,22.9,30
+"Vallvidrera, el Tibidabo i les Planes",2027-01-01,930,200,21.51,30
+"Vallvidrera, el Tibidabo i les Planes",2027-02-01,840,168,20.0,30
+"Vallvidrera, el Tibidabo i les Planes",2027-03-01,930,208,22.37,30
+"Vallvidrera, el Tibidabo i les Planes",2027-04-01,900,253,28.11,30
+"Vallvidrera, el Tibidabo i les Planes",2027-05-01,930,300,32.26,30
+"Vallvidrera, el Tibidabo i les Planes",2027-06-01,714,211,29.55,30
+Verdun,2026-07-01,121,57,47.11,4
+Verdun,2026-08-01,124,50,40.32,4
+Verdun,2026-09-01,120,12,10.0,4
+Verdun,2026-10-01,124,53,42.74,4
+Verdun,2026-11-01,120,31,25.83,4
+Verdun,2026-12-01,124,31,25.0,4
+Verdun,2027-01-01,124,31,25.0,4
+Verdun,2027-02-01,112,28,25.0,4
+Verdun,2027-03-01,124,31,25.0,4
+Verdun,2027-04-01,120,30,25.0,4
+Verdun,2027-05-01,124,31,25.0,4
+Verdun,2027-06-01,108,30,27.78,4
+Vilapicina i la Torre Llobeta,2026-06-01,456,177,38.82,74
+Vilapicina i la Torre Llobeta,2026-07-01,2440,686,28.11,79
+Vilapicina i la Torre Llobeta,2026-08-01,2449,644,26.3,79
+Vilapicina i la Torre Llobeta,2026-09-01,2370,422,17.81,79
+Vilapicina i la Torre Llobeta,2026-10-01,2449,437,17.84,79
+Vilapicina i la Torre Llobeta,2026-11-01,2370,358,15.11,79
+Vilapicina i la Torre Llobeta,2026-12-01,2449,345,14.09,79
+Vilapicina i la Torre Llobeta,2027-01-01,2449,333,13.6,79
+Vilapicina i la Torre Llobeta,2027-02-01,2212,340,15.37,79
+Vilapicina i la Torre Llobeta,2027-03-01,2449,466,19.03,79
+Vilapicina i la Torre Llobeta,2027-04-01,2370,568,23.97,79
+Vilapicina i la Torre Llobeta,2027-05-01,2449,528,21.56,79
+Vilapicina i la Torre Llobeta,2027-06-01,1914,450,23.51,79

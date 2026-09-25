@@ -1,0 +1,59 @@
+pipeline:
+  name: "airbnb_ground_truth_pipeline"
+  version: "1.0.0"
+  city: "barcelona"
+  region: "catalonia"
+  country: "spain"
+  run_date: "2026-09-24"
+
+# Inside Airbnb source snapshot
+source:
+  snapshot_date: "2026-06-24"
+  base_url: "https://data.insideairbnb.com/spain/catalonia/barcelona/2026-06-24"
+  files:
+    listings:    "data/listings.csv.gz"
+    calendar:    "data/calendar.csv.gz"
+    reviews:     "data/reviews.csv.gz"
+    neighbourhoods_csv:  "visualisations/neighbourhoods.csv"
+    neighbourhoods_geo:  "visualisations/neighbourhoods.geojson"
+
+# Barcelona centroid for Open-Meteo
+weather:
+  latitude:  41.3851
+  longitude:  2.1734
+  api_url: "https://archive-api.open-meteo.com/v1/archive"
+  daily_variables:
+    - "temperature_2m_max"
+    - "precipitation_sum"
+    - "wind_speed_10m_max"
+  timezone: "Europe/Madrid"
+  max_retries: 4
+  request_timeout_seconds: 30
+
+retrieval:
+  max_retries: 4
+  request_timeout_seconds: 120
+
+database:
+  host: "localhost"
+  port: 5432
+  dbname: "fde_ground_truth"
+  user: "mayanksoni"        # set to current OS user
+  password: ""              # no password for local dev
+
+storage:
+  raw_dir: "workspace/scratch/raw"
+  processed_dir: "workspace/scratch/processed"
+  output_dir: "workspace/out"
+
+validation:
+  max_allowed_duplicate_rate: 0.001    # 0.1% tolerance
+  max_allowed_orphan_reviews: 0.05     # 5% tolerance
+  min_calendar_days_per_listing: 30    # KPI 1 filter threshold
+  min_priced_days_per_listing: 15      # KPI 2 filter threshold
+  price_outlier_percentile: 99         # KPI 5 outlier cap
+  min_calendar_date: "2020-01-01"      # Temporal sanity bound
+
+logging:
+  level: "INFO"
+  format: "json"

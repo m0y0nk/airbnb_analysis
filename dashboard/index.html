@@ -1,0 +1,1258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Barcelona Airbnb Operational KPI Dashboard | FDE Ground Truth</title>
+  <meta name="description" content="FDE Ground Truth: 5 operational KPIs for Barcelona Airbnb short-term rental market — unavailability rate, price volatility, review velocity, weather sensitivity, and revenue proxy." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <style>
+    :root {
+      --bg-primary:    #0a0e1a;
+      --bg-card:       #111827;
+      --bg-card-hover: #1a2236;
+      --bg-glass:      rgba(255,255,255,0.04);
+      --border:        rgba(255,255,255,0.08);
+      --border-glow:   rgba(99,179,237,0.3);
+      --text-primary:  #f0f4ff;
+      --text-secondary:#94a3b8;
+      --text-muted:    #4b5563;
+      --accent-blue:   #63b3ed;
+      --accent-purple: #b794f4;
+      --accent-green:  #68d391;
+      --accent-orange: #f6ad55;
+      --accent-red:    #fc8181;
+      --accent-teal:   #4fd1c5;
+      --gradient-1:    linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      --gradient-2:    linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+      --gradient-3:    linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+      --gradient-4:    linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+      --gradient-5:    linear-gradient(135deg, #fa709a 0%, #fee140 100%);
+      --radius:        16px;
+      --radius-sm:     10px;
+      --shadow:        0 8px 32px rgba(0,0,0,0.4);
+      --shadow-glow:   0 0 40px rgba(99,179,237,0.15);
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* Animated gradient background */
+    body::before {
+      content: '';
+      position: fixed;
+      top: -50%;
+      left: -50%;
+      width: 200%;
+      height: 200%;
+      background: radial-gradient(ellipse at 20% 20%, rgba(99,102,241,0.08) 0%, transparent 50%),
+                  radial-gradient(ellipse at 80% 80%, rgba(16,185,129,0.06) 0%, transparent 50%),
+                  radial-gradient(ellipse at 50% 50%, rgba(245,158,11,0.04) 0%, transparent 60%);
+      animation: drift 20s ease-in-out infinite alternate;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    @keyframes drift {
+      0%   { transform: translate(0, 0) rotate(0deg); }
+      100% { transform: translate(2%, 2%) rotate(1deg); }
+    }
+
+    /* Header */
+    header {
+      position: relative;
+      z-index: 10;
+      padding: 48px 40px 32px;
+      border-bottom: 1px solid var(--border);
+      background: linear-gradient(180deg, rgba(99,102,241,0.08) 0%, transparent 100%);
+    }
+
+    .header-inner {
+      max-width: 1400px;
+      margin: 0 auto;
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 24px;
+      flex-wrap: wrap;
+    }
+
+    .header-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(99,179,237,0.12);
+      border: 1px solid rgba(99,179,237,0.3);
+      border-radius: 100px;
+      padding: 4px 14px;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--accent-blue);
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      margin-bottom: 16px;
+    }
+
+    .header-badge::before {
+      content: '';
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--accent-green);
+      box-shadow: 0 0 6px var(--accent-green);
+      animation: pulse-dot 2s ease infinite;
+    }
+
+    @keyframes pulse-dot {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50%       { opacity: 0.5; transform: scale(0.7); }
+    }
+
+    h1 {
+      font-size: clamp(28px, 4vw, 48px);
+      font-weight: 800;
+      line-height: 1.15;
+      background: linear-gradient(135deg, #f0f4ff 0%, var(--accent-blue) 60%, var(--accent-purple) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 12px;
+    }
+
+    .header-subtitle {
+      font-size: 16px;
+      color: var(--text-secondary);
+      font-weight: 400;
+      max-width: 640px;
+      line-height: 1.6;
+    }
+
+    .header-meta {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 8px;
+      flex-shrink: 0;
+    }
+
+    .meta-tag {
+      background: var(--bg-glass);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      padding: 8px 16px;
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: 'JetBrains Mono', monospace;
+    }
+
+    /* Semantic constraint banner */
+    .constraint-banner {
+      position: relative;
+      z-index: 10;
+      max-width: 1400px;
+      margin: 24px auto;
+      padding: 0 40px;
+    }
+
+    .constraint-box {
+      background: linear-gradient(135deg, rgba(252,129,74,0.08) 0%, rgba(245,158,11,0.04) 100%);
+      border: 1px solid rgba(252,129,74,0.25);
+      border-radius: var(--radius);
+      padding: 16px 24px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .constraint-icon { font-size: 22px; flex-shrink: 0; }
+
+    .constraint-text {
+      font-size: 14px;
+      color: #f6ad55;
+      line-height: 1.5;
+    }
+
+    .constraint-text strong { color: #fbd38d; }
+
+    /* Main layout */
+    main {
+      position: relative;
+      z-index: 10;
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 0 40px 80px;
+    }
+
+    /* Section headers */
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin: 48px 0 24px;
+    }
+
+    .section-number {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 14px;
+      font-weight: 700;
+      flex-shrink: 0;
+    }
+
+    .section-title {
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--text-primary);
+    }
+
+    .section-subtitle {
+      font-size: 14px;
+      color: var(--text-muted);
+      margin-left: auto;
+    }
+
+    /* Stats grid */
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 16px;
+      margin-bottom: 32px;
+    }
+
+    .stat-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      position: relative;
+      overflow: hidden;
+      transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+      cursor: default;
+    }
+
+    .stat-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 2px;
+    }
+
+    .stat-card:nth-child(1)::before { background: var(--gradient-1); }
+    .stat-card:nth-child(2)::before { background: var(--gradient-3); }
+    .stat-card:nth-child(3)::before { background: var(--gradient-4); }
+    .stat-card:nth-child(4)::before { background: var(--gradient-2); }
+    .stat-card:nth-child(5)::before { background: var(--gradient-5); }
+
+    .stat-card:hover {
+      transform: translateY(-4px);
+      border-color: var(--border-glow);
+      box-shadow: var(--shadow-glow);
+    }
+
+    .stat-label {
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--text-muted);
+      margin-bottom: 12px;
+    }
+
+    .stat-value {
+      font-size: 36px;
+      font-weight: 800;
+      line-height: 1;
+      margin-bottom: 6px;
+      font-family: 'JetBrains Mono', monospace;
+    }
+
+    .stat-sub {
+      font-size: 12px;
+      color: var(--text-secondary);
+    }
+
+    /* KPI cards */
+    .kpi-grid {
+      display: grid;
+      gap: 24px;
+    }
+
+    .kpi-grid-2 { grid-template-columns: repeat(auto-fit, minmax(540px, 1fr)); }
+    .kpi-grid-1 { grid-template-columns: 1fr; }
+
+    .kpi-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 28px;
+      transition: border-color 0.2s, box-shadow 0.2s;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .kpi-card:hover {
+      border-color: var(--border-glow);
+      box-shadow: var(--shadow-glow);
+    }
+
+    .kpi-card-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 16px;
+      margin-bottom: 24px;
+    }
+
+    .kpi-number {
+      width: 44px;
+      height: 44px;
+      border-radius: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      font-weight: 800;
+      flex-shrink: 0;
+    }
+
+    .kpi1 .kpi-number { background: rgba(99,102,241,0.15); color: #818cf8; }
+    .kpi2 .kpi-number { background: rgba(16,185,129,0.15); color: #34d399; }
+    .kpi3 .kpi-number { background: rgba(245,158,11,0.15); color: #fbbf24; }
+    .kpi4 .kpi-number { background: rgba(239,68,68,0.15);  color: #f87171; }
+    .kpi5 .kpi-number { background: rgba(168,85,247,0.15); color: #c084fc; }
+
+    .kpi-card-title { font-size: 17px; font-weight: 700; margin-bottom: 4px; }
+    .kpi-card-question {
+      font-size: 13px;
+      color: var(--text-secondary);
+      line-height: 1.5;
+      font-style: italic;
+    }
+
+    .kpi-limitation {
+      margin-top: 16px;
+      background: rgba(245,158,11,0.06);
+      border: 1px solid rgba(245,158,11,0.15);
+      border-radius: var(--radius-sm);
+      padding: 10px 14px;
+      font-size: 12px;
+      color: #d97706;
+      line-height: 1.5;
+    }
+
+    .kpi-limitation::before { content: '⚠ '; }
+
+    .chart-container { position: relative; height: 280px; }
+
+    /* Filter bar */
+    .filter-bar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-bottom: 20px;
+      align-items: center;
+    }
+
+    .filter-label {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-weight: 500;
+    }
+
+    select, .filter-btn {
+      background: var(--bg-glass);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      color: var(--text-primary);
+      font-family: 'Inter', sans-serif;
+      font-size: 13px;
+      padding: 8px 14px;
+      cursor: pointer;
+      transition: border-color 0.2s, background 0.2s;
+      outline: none;
+      -webkit-appearance: none;
+    }
+
+    select:hover, .filter-btn:hover,
+    select:focus, .filter-btn.active {
+      border-color: var(--accent-blue);
+      background: rgba(99,179,237,0.08);
+    }
+
+    /* Table */
+    .data-table-wrap {
+      overflow-x: auto;
+      border-radius: var(--radius-sm);
+      border: 1px solid var(--border);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 13px;
+    }
+
+    th {
+      background: rgba(255,255,255,0.04);
+      color: var(--text-muted);
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      font-size: 11px;
+      padding: 12px 16px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      white-space: nowrap;
+    }
+
+    td {
+      padding: 11px 16px;
+      border-bottom: 1px solid rgba(255,255,255,0.04);
+      color: var(--text-secondary);
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12px;
+    }
+
+    tr:last-child td { border-bottom: none; }
+    tr:hover td { background: var(--bg-glass); color: var(--text-primary); }
+
+    .pill {
+      display: inline-block;
+      padding: 3px 10px;
+      border-radius: 100px;
+      font-size: 11px;
+      font-weight: 600;
+      font-family: 'Inter', sans-serif;
+    }
+
+    .pill-blue   { background: rgba(99,179,237,0.15); color: var(--accent-blue); }
+    .pill-green  { background: rgba(104,211,145,0.15); color: var(--accent-green); }
+    .pill-orange { background: rgba(246,173,85,0.15); color: var(--accent-orange); }
+    .pill-purple { background: rgba(183,148,244,0.15); color: var(--accent-purple); }
+
+    /* Loading state */
+    .loading-overlay {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 16px;
+      padding: 80px 20px;
+      color: var(--text-secondary);
+    }
+
+    .spinner {
+      width: 40px;
+      height: 40px;
+      border: 3px solid var(--border);
+      border-top-color: var(--accent-blue);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* Footer */
+    footer {
+      position: relative;
+      z-index: 10;
+      border-top: 1px solid var(--border);
+      padding: 32px 40px;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 13px;
+    }
+
+    .footer-inner { max-width: 1400px; margin: 0 auto; }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      header, main, footer { padding-left: 20px; padding-right: 20px; }
+      .constraint-banner { padding: 0 20px; }
+      .kpi-grid-2 { grid-template-columns: 1fr; }
+      .header-meta { display: none; }
+    }
+
+    /* Fade-in animation */
+    .fade-in {
+      animation: fadeIn 0.5s ease both;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(16px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .fade-in:nth-child(1) { animation-delay: 0.05s; }
+    .fade-in:nth-child(2) { animation-delay: 0.1s; }
+    .fade-in:nth-child(3) { animation-delay: 0.15s; }
+    .fade-in:nth-child(4) { animation-delay: 0.2s; }
+    .fade-in:nth-child(5) { animation-delay: 0.25s; }
+  </style>
+</head>
+<body>
+
+<!-- ============================================================ HEADER ============================================================ -->
+<header>
+  <div class="header-inner">
+    <div>
+      <div class="header-badge">FDE Ground Truth · Track C · Barcelona</div>
+      <h1>Airbnb Operational<br/>KPI Dashboard</h1>
+      <p class="header-subtitle">
+        5 defensible operational KPI views from Inside Airbnb + Open-Meteo data —
+        availability, price baseline, guest activity, weather sensitivity, and revenue potential.
+      </p>
+    </div>
+    <div class="header-meta">
+      <div class="meta-tag">📍 Barcelona, Catalonia</div>
+      <div class="meta-tag">📅 Snapshot: 2026-06-24</div>
+      <div class="meta-tag">🗄 PostgreSQL + Python Pipeline</div>
+    </div>
+  </div>
+</header>
+
+<!-- Semantic Constraint Banner -->
+<div class="constraint-banner">
+  <div class="constraint-box">
+    <div class="constraint-icon">⚠️</div>
+    <div class="constraint-text">
+      <strong>Semantic Constraint:</strong>
+      Calendar unavailability (<code>available = 'f'</code>) is an <strong>occupancy proxy only</strong> —
+      it does <strong>NOT</strong> equal a confirmed guest booking. Unavailability includes host blockouts,
+      maintenance holds, and minimum-stay rule gaps. KPI 1 and KPI 5 are explicitly modelled with this limitation.
+    </div>
+  </div>
+</div>
+
+<!-- ============================================================ MAIN ============================================================ -->
+<main id="main-content">
+
+  <!-- Overview Stats -->
+  <div class="section-header">
+    <div class="section-number" style="background:rgba(99,102,241,0.15);color:#818cf8">∑</div>
+    <div class="section-title">Dataset Overview</div>
+    <div class="section-subtitle" id="last-updated">Loading…</div>
+  </div>
+
+  <div class="stats-grid" id="stats-grid">
+    <div class="stat-card fade-in">
+      <div class="stat-label">Total Listings</div>
+      <div class="stat-value" id="stat-listings" style="color:#818cf8">—</div>
+      <div class="stat-sub">Raw listing records</div>
+    </div>
+    <div class="stat-card fade-in">
+      <div class="stat-label">Calendar Records</div>
+      <div class="stat-value" id="stat-calendar" style="color:#34d399">—</div>
+      <div class="stat-sub">Raw listing × date rows</div>
+    </div>
+    <div class="stat-card fade-in">
+      <div class="stat-label">Total Reviews</div>
+      <div class="stat-value" id="stat-reviews" style="color:#fbbf24">—</div>
+      <div class="stat-sub">Validated stay proxies</div>
+    </div>
+    <div class="stat-card fade-in">
+      <div class="stat-label">Weather Days</div>
+      <div class="stat-value" id="stat-weather" style="color:#f87171">—</div>
+      <div class="stat-sub">Open-Meteo records</div>
+    </div>
+    <div class="stat-card fade-in">
+      <div class="stat-label">Validation Status</div>
+      <div class="stat-value" id="stat-validation" style="color:#4fd1c5;font-size:22px">—</div>
+      <div class="stat-sub" id="stat-validation-sub">Pipeline run status</div>
+    </div>
+  </div>
+
+  <!-- KPI 1 + KPI 2 -->
+  <div class="section-header">
+    <div class="section-number" style="background:rgba(99,102,241,0.15);color:#818cf8">1</div>
+    <div class="section-title">KPI 1 + KPI 2 — Supply Availability &amp; Price Evidence</div>
+  </div>
+
+  <div class="kpi-grid kpi-grid-2">
+    <div class="kpi-card kpi1 fade-in">
+      <div class="kpi-card-header">
+        <div class="kpi-number">1</div>
+        <div>
+          <div class="kpi-card-title">Unavailability Rate by Neighbourhood</div>
+          <div class="kpi-card-question">"What proportion of supply is off-market in each neighbourhood over time?"</div>
+        </div>
+      </div>
+      <div class="filter-bar">
+        <span class="filter-label">Neighbourhood:</span>
+        <select id="kpi1-neighbourhood-select" onchange="renderKPI1()"></select>
+      </div>
+      <div class="chart-container">
+        <canvas id="kpi1-chart"></canvas>
+      </div>
+      <div class="kpi-limitation">Unavailability includes host blockouts and maintenance — does NOT equal true paid occupancy.</div>
+    </div>
+
+    <div class="kpi-card kpi2 fade-in">
+      <div class="kpi-card-header">
+        <div class="kpi-number">2</div>
+        <div>
+          <div class="kpi-card-title">Daily Price Volatility (Unsupported)</div>
+          <div class="kpi-card-question">"Can this snapshot prove how aggressively hosts adjust daily rates?"</div>
+        </div>
+      </div>
+      <div class="filter-bar">
+        <span class="filter-label">Room type:</span>
+        <select id="kpi2-room-select" onchange="renderKPI2()"></select>
+      </div>
+      <div class="chart-container">
+        <canvas id="kpi2-chart"></canvas>
+      </div>
+      <div class="kpi-limitation">This source has no daily calendar price field, so true price volatility cannot be calculated. Use KPI 2B, the listing-level price baseline, for supported price comparison.</div>
+    </div>
+  </div>
+
+  <!-- KPI 3 + KPI 4 -->
+  <div class="section-header">
+    <div class="section-number" style="background:rgba(245,158,11,0.15);color:#fbbf24">3</div>
+    <div class="section-title">KPI 3 — Review Velocity &amp; KPI 4 — Weather Sensitivity</div>
+  </div>
+
+  <div class="kpi-grid kpi-grid-2">
+    <div class="kpi-card kpi3 fade-in">
+      <div class="kpi-card-header">
+        <div class="kpi-number">3</div>
+        <div>
+          <div class="kpi-card-title">Guest Review Velocity</div>
+          <div class="kpi-card-question">"What is the monthly rate of completed stays (review-proxy) per neighbourhood?"</div>
+        </div>
+      </div>
+      <div class="filter-bar">
+        <span class="filter-label">Neighbourhood:</span>
+        <select id="kpi3-neighbourhood-select" onchange="renderKPI3()"></select>
+      </div>
+      <div class="chart-container">
+        <canvas id="kpi3-chart"></canvas>
+      </div>
+      <div class="kpi-limitation">~60–70% of guests write reviews — this is a lower-bound proxy for completed stays, not a true booking count.</div>
+    </div>
+
+    <div class="kpi-card kpi4 fade-in">
+      <div class="kpi-card-header">
+        <div class="kpi-number">4</div>
+        <div>
+          <div class="kpi-card-title">Weather Sensitivity Index</div>
+          <div class="kpi-card-question">"Does extreme weather correlate with calendar unavailability changes?"</div>
+        </div>
+      </div>
+      <div class="chart-container">
+        <canvas id="kpi4-chart"></canvas>
+      </div>
+      <div id="kpi4-corr-box" style="margin-top:16px;display:none;">
+        <div style="font-size:13px;color:var(--text-secondary);margin-bottom:10px;font-weight:600;">Pearson Correlations (unavailability rate vs. weather)</div>
+        <div style="display:flex;gap:12px;flex-wrap:wrap;" id="kpi4-corr-pills"></div>
+      </div>
+      <div class="kpi-limitation">Correlation does not imply causation. Tourism events, school calendars, and regulations are not controlled.</div>
+      <div id="kpi4-window" style="margin-top:10px;font-size:11px;color:var(--text-muted);"></div>
+    </div>
+  </div>
+
+  <!-- KPI 5 -->
+  <div class="section-header">
+    <div class="section-number" style="background:rgba(168,85,247,0.15);color:#c084fc">5</div>
+    <div class="section-title">KPI 5 — Estimated Revenue Potential Proxy</div>
+  </div>
+
+  <div class="kpi-grid kpi-grid-1">
+    <div class="kpi-card kpi5 fade-in">
+      <div class="kpi-card-header">
+        <div class="kpi-number">5</div>
+        <div>
+          <div class="kpi-card-title">Revenue Potential Proxy by Room Type &amp; Neighbourhood</div>
+          <div class="kpi-card-question">"What is the upper-bound revenue estimate across listing categories? (Assumes all unavailable days were booked)"</div>
+        </div>
+      </div>
+      <div class="filter-bar">
+        <span class="filter-label">Month:</span>
+        <select id="kpi5-month-select" onchange="renderKPI5()"></select>
+        <span class="filter-label">Room type:</span>
+        <select id="kpi5-room-select" onchange="renderKPI5()"></select>
+      </div>
+      <div class="chart-container" style="height:320px;">
+        <canvas id="kpi5-chart"></canvas>
+      </div>
+      <div class="kpi-limitation">UPPER-BOUND ESTIMATE: Assumes ALL unavailable days are confirmed bookings. Daily calendar prices are absent in this source, so the proxy falls back to listing-level prices when available. Host blockouts are included; use for directional planning only.</div>
+      <div id="kpi5-coverage" style="margin-top:10px;font-size:11px;color:var(--text-muted);"></div>
+    </div>
+  </div>
+
+  <!-- Evidence Table -->
+  <div class="section-header">
+    <div class="section-number" style="background:rgba(79,209,197,0.15);color:#4fd1c5">⊞</div>
+    <div class="section-title">KPI Evidence Table — Top Neighbourhood Summary</div>
+  </div>
+
+  <div class="kpi-card fade-in" style="padding:0;overflow:hidden;">
+    <div class="data-table-wrap" id="evidence-table-wrap">
+      <div class="loading-overlay"><div class="spinner"></div><span>Loading evidence table…</span></div>
+    </div>
+  </div>
+
+</main>
+
+<!-- Footer -->
+<footer>
+  <div class="footer-inner">
+    <p>FDE Ground Truth Project · Barcelona Airbnb Analysis · Track C · Classes 4–8</p>
+    <p style="margin-top:6px;">Data: Inside Airbnb (CC0) + Open-Meteo API (CC BY 4.0) · Pipeline: Python + PostgreSQL</p>
+  </div>
+</footer>
+
+<script>
+// ============================================================
+// Dashboard Data Layer
+// ============================================================
+
+const DATA_DIR = '../output/';
+
+let kpi1Data = [], kpi2Data = [], kpi3Data = [], kpi4Data = [],
+    kpi4CorrData = [], kpi5Data = [], validationData = null;
+
+const CHART_COLORS = {
+  blue:   'rgba(99,179,237,',
+  green:  'rgba(104,211,145,',
+  yellow: 'rgba(251,191,36,',
+  red:    'rgba(248,113,113,',
+  purple: 'rgba(192,132,252,',
+  teal:   'rgba(79,209,197,',
+  orange: 'rgba(251,146,60,',
+};
+
+const PALETTE = [
+  '#6366f1','#34d399','#fbbf24','#f87171','#c084fc',
+  '#4fd1c5','#fb923c','#a78bfa','#2dd4bf','#e879f9'
+];
+
+let charts = {};
+
+function destroyChart(id) {
+  if (charts[id]) { charts[id].destroy(); delete charts[id]; }
+}
+
+// ============================================================
+// CSV Loading
+// ============================================================
+
+function loadCSV(filename) {
+  return new Promise((resolve, reject) => {
+    Papa.parse(DATA_DIR + filename, {
+      download: true,
+      header: true,
+      dynamicTyping: true,
+      skipEmptyLines: true,
+      complete: r => resolve(r.data),
+      error: e => {
+        console.warn(`Could not load ${filename}:`, e);
+        resolve([]); // graceful degradation
+      }
+    });
+  });
+}
+
+function loadJSON(filename) {
+  return fetch(DATA_DIR + filename)
+    .then(r => r.ok ? r.json() : null)
+    .catch(() => null);
+}
+
+// ============================================================
+// Init
+// ============================================================
+
+async function init() {
+  try {
+    [kpi1Data, kpi2Data, kpi3Data, kpi4Data, kpi4CorrData, kpi5Data, validationData] = await Promise.all([
+      loadCSV('kpi1_unavailability_rate.csv'),
+      loadCSV('kpi2_price_volatility.csv'),
+      loadCSV('kpi3_review_velocity.csv'),
+      loadCSV('kpi4_weather_sensitivity.csv'),
+      loadCSV('kpi4_weather_correlations.csv'),
+      loadCSV('kpi5_revenue_proxy.csv'),
+      loadJSON('validation_report.json'),
+    ]);
+  } catch (e) {
+    console.error('Data load error:', e);
+  }
+
+  updateStats();
+  populateFilters();
+  renderKPI1();
+  renderKPI2();
+  renderKPI3();
+  renderKPI4();
+  renderKPI5();
+  renderEvidenceTable();
+
+  document.getElementById('last-updated').textContent =
+    'Run date: ' + (validationData?.run_ts?.slice(0,10) || new Date().toISOString().slice(0,10));
+}
+
+// ============================================================
+// Stats
+// ============================================================
+
+function updateStats() {
+  const fmt = n => n >= 1e6 ? (n/1e6).toFixed(1)+'M' : n >= 1e3 ? (n/1e3).toFixed(0)+'K' : String(n);
+
+  // Derive stats from loaded data
+  const metrics = validationData?.metrics || {};
+  const nListings = metrics.n_listings_raw || '—';
+  const nCalendar = metrics.n_calendar_raw || 0;
+  const nReviews  = metrics.n_reviews_raw || 0;
+  const nWeather  = kpi4Data.length;
+
+  document.getElementById('stat-listings').textContent  = nListings ? fmt(nListings) : '—';
+  document.getElementById('stat-calendar').textContent  = nCalendar ? fmt(nCalendar) : '—';
+  document.getElementById('stat-reviews').textContent   = nReviews  ? fmt(nReviews)  : '—';
+  document.getElementById('stat-weather').textContent   = nWeather  ? fmt(nWeather)  : '—';
+
+  if (kpi4Data.length) {
+    const dates = kpi4Data.map(r => r.obs_date).filter(Boolean).sort();
+    document.getElementById('kpi4-window').textContent =
+      `Weather/calendar overlap: ${dates[0]} to ${dates[dates.length - 1]} (${dates.length} days).`;
+  }
+
+  if (validationData) {
+    const s = validationData.status;
+    const el = document.getElementById('stat-validation');
+    el.textContent = s;
+    el.style.color = s === 'PASS' ? '#34d399' : s === 'WARNING' ? '#fbbf24' : '#f87171';
+    document.getElementById('stat-validation-sub').textContent =
+      `${validationData.errors?.length||0} errors · ${validationData.warnings?.length||0} warnings`;
+  }
+}
+
+// ============================================================
+// Filters
+// ============================================================
+
+function populateFilters() {
+  // KPI1 neighbourhoods
+  const n1 = [...new Set(kpi1Data.map(r=>r.neighbourhood).filter(Boolean))].sort();
+  const sel1 = document.getElementById('kpi1-neighbourhood-select');
+  sel1.innerHTML = n1.map(n=>`<option value="${n}">${n}</option>`).join('');
+
+  // KPI2 room types
+  const rt2 = [...new Set(kpi2Data.map(r=>r.room_type).filter(Boolean))].sort();
+  const sel2 = document.getElementById('kpi2-room-select');
+  sel2.innerHTML = rt2.map(r=>`<option value="${r}">${r}</option>`).join('');
+
+  // KPI3 neighbourhoods
+  const n3 = [...new Set(kpi3Data.map(r=>r.neighbourhood).filter(Boolean))].sort();
+  const sel3 = document.getElementById('kpi3-neighbourhood-select');
+  sel3.innerHTML = n3.map(n=>`<option value="${n}">${n}</option>`).join('');
+
+  // KPI5 months + room types
+  const months = [...new Set(kpi5Data.map(r=>r.month).filter(Boolean))].sort();
+  const sel5m = document.getElementById('kpi5-month-select');
+  sel5m.innerHTML = months.map(m=>`<option value="${m}">${m}</option>`).join('');
+  if (months.length > 0) sel5m.value = months[months.length - 1];
+
+  const rt5 = [...new Set(kpi5Data.map(r=>r.room_type).filter(Boolean))].sort();
+  const sel5r = document.getElementById('kpi5-room-select');
+  sel5r.innerHTML = ['All', ...rt5].map(r=>`<option value="${r}">${r}</option>`).join('');
+}
+
+// ============================================================
+// Chart defaults
+// ============================================================
+
+const BASE_OPTS = {
+  responsive: true,
+  maintainAspectRatio: false,
+  plugins: {
+    legend: { labels: { color: '#94a3b8', font: { family:'Inter', size:12 }, boxWidth:12, padding:16 } },
+    tooltip: {
+      backgroundColor: '#1a2236',
+      borderColor: 'rgba(255,255,255,0.1)',
+      borderWidth: 1,
+      titleColor: '#f0f4ff',
+      bodyColor: '#94a3b8',
+      padding: 12,
+    }
+  },
+  scales: {
+    x: {
+      ticks: { color: '#4b5563', font:{family:'Inter',size:11} },
+      grid:  { color: 'rgba(255,255,255,0.04)' }
+    },
+    y: {
+      ticks: { color: '#4b5563', font:{family:'Inter',size:11} },
+      grid:  { color: 'rgba(255,255,255,0.06)' }
+    }
+  }
+};
+
+// ============================================================
+// KPI 1
+// ============================================================
+
+function renderKPI1() {
+  const neighbourhood = document.getElementById('kpi1-neighbourhood-select').value;
+  const filtered = kpi1Data.filter(r => r.neighbourhood === neighbourhood);
+
+  const labels = filtered.map(r => r.month?.slice(0,7));
+  const rates  = filtered.map(r => parseFloat(r.unavailability_rate_pct)||0);
+
+  destroyChart('kpi1');
+  const ctx = document.getElementById('kpi1-chart').getContext('2d');
+  charts['kpi1'] = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels,
+      datasets: [{
+        label: 'Unavailability Rate (%)',
+        data: rates,
+        borderColor: '#818cf8',
+        backgroundColor: 'rgba(129,140,248,0.1)',
+        fill: true,
+        tension: 0.4,
+        pointRadius: 4,
+        pointBackgroundColor: '#818cf8',
+        borderWidth: 2,
+      }]
+    },
+    options: {
+      ...BASE_OPTS,
+      scales: {
+        ...BASE_OPTS.scales,
+        y: { ...BASE_OPTS.scales.y, title: { display:true, text:'Unavailability %', color:'#4b5563' } }
+      }
+    }
+  });
+}
+
+// ============================================================
+// KPI 2
+// ============================================================
+
+function renderKPI2() {
+  if (!kpi2Data.length) {
+    document.getElementById('kpi2-room-select').disabled = true;
+    document.getElementById('kpi2-chart').parentElement.innerHTML = `
+      <div class="loading-overlay" style="text-align:center;line-height:1.6;">
+        <strong style="color:var(--text-primary);">Daily volatility is unavailable for this snapshot.</strong>
+        <span>The calendar contains no daily price field. KPI 2B provides the supported listing-level price baseline.</span>
+      </div>`;
+    return;
+  }
+  const roomType = document.getElementById('kpi2-room-select').value;
+  const filtered = kpi2Data.filter(r => r.room_type === roomType);
+  const neighbourhoods = [...new Set(filtered.map(r=>r.neighbourhood))].slice(0,6);
+  const months = [...new Set(filtered.map(r=>r.month?.slice(0,7)))].sort();
+
+  const datasets = neighbourhoods.map((n, i) => ({
+    label: n,
+    data: months.map(m => {
+      const row = filtered.find(r=>r.neighbourhood===n && r.month?.startsWith(m));
+      return row ? (parseFloat(row.price_volatility_cov_pct)||0) : null;
+    }),
+    borderColor: PALETTE[i % PALETTE.length],
+    backgroundColor: PALETTE[i % PALETTE.length] + '20',
+    tension: 0.3,
+    borderWidth: 2,
+    pointRadius: 3,
+    spanGaps: true,
+  }));
+
+  destroyChart('kpi2');
+  const ctx = document.getElementById('kpi2-chart').getContext('2d');
+  charts['kpi2'] = new Chart(ctx, {
+    type: 'line',
+    data: { labels: months, datasets },
+    options: {
+      ...BASE_OPTS,
+      scales: {
+        ...BASE_OPTS.scales,
+        y: { ...BASE_OPTS.scales.y, title:{display:true,text:'Price CoV (%)',color:'#4b5563'} }
+      }
+    }
+  });
+}
+
+// ============================================================
+// KPI 3
+// ============================================================
+
+function renderKPI3() {
+  const neighbourhood = document.getElementById('kpi3-neighbourhood-select').value;
+  const filtered = kpi3Data.filter(r => r.neighbourhood === neighbourhood);
+
+  const labels  = filtered.map(r => r.month?.slice(0,7));
+  const counts  = filtered.map(r => parseInt(r.review_count)||0);
+  const perList = filtered.map(r => parseFloat(r.avg_reviews_per_listing)||0);
+
+  destroyChart('kpi3');
+  const ctx = document.getElementById('kpi3-chart').getContext('2d');
+  charts['kpi3'] = new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels,
+      datasets: [
+        {
+          label: 'Review Count (Stay Proxy)',
+          data: counts,
+          backgroundColor: 'rgba(251,191,36,0.4)',
+          borderColor: '#fbbf24',
+          borderWidth: 1,
+          yAxisID: 'y',
+        },
+        {
+          label: 'Avg Reviews / Listing',
+          data: perList,
+          type: 'line',
+          borderColor: '#f87171',
+          pointBackgroundColor: '#f87171',
+          tension: 0.4,
+          borderWidth: 2,
+          pointRadius: 3,
+          yAxisID: 'y1',
+        }
+      ]
+    },
+    options: {
+      ...BASE_OPTS,
+      scales: {
+        x: BASE_OPTS.scales.x,
+        y:  { ...BASE_OPTS.scales.y, title:{display:true,text:'Review Count',color:'#4b5563'}, position:'left' },
+        y1: { ...BASE_OPTS.scales.y, title:{display:true,text:'Avg / Listing',color:'#4b5563'}, position:'right', grid:{drawOnChartArea:false} }
+      }
+    }
+  });
+}
+
+// ============================================================
+// KPI 4
+// ============================================================
+
+function renderKPI4() {
+  if (!kpi4Data.length) {
+    document.getElementById('kpi4-chart').parentElement.innerHTML =
+      '<div class="loading-overlay"><span>No weather-calendar join data available yet</span></div>';
+    return;
+  }
+
+  // Sample every N days to keep chart readable
+  const step = Math.max(1, Math.floor(kpi4Data.length / 60));
+  const sampled = kpi4Data.filter((_, i) => i % step === 0);
+
+  const labels = sampled.map(r => r.obs_date?.slice(0,10));
+  const rates  = sampled.map(r => parseFloat(r.unavailability_rate_pct)||0);
+  const precip = sampled.map(r => parseFloat(r.precipitation_mm)||0);
+
+  destroyChart('kpi4');
+  const ctx = document.getElementById('kpi4-chart').getContext('2d');
+  charts['kpi4'] = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels,
+      datasets: [
+        {
+          label: 'Unavailability Rate (%)',
+          data: rates,
+          borderColor: '#f87171',
+          backgroundColor: 'rgba(248,113,113,0.08)',
+          fill: true,
+          tension: 0.3,
+          borderWidth: 2,
+          pointRadius: 0,
+          yAxisID: 'y',
+        },
+        {
+          label: 'Precipitation (mm)',
+          data: precip,
+          borderColor: '#60a5fa',
+          backgroundColor: 'rgba(96,165,250,0.08)',
+          fill: true,
+          tension: 0.3,
+          borderWidth: 2,
+          pointRadius: 0,
+          yAxisID: 'y1',
+        }
+      ]
+    },
+    options: {
+      ...BASE_OPTS,
+      scales: {
+        x: BASE_OPTS.scales.x,
+        y:  { ...BASE_OPTS.scales.y, title:{display:true,text:'Unavailability %',color:'#4b5563'}, position:'left' },
+        y1: { ...BASE_OPTS.scales.y, title:{display:true,text:'Precipitation mm',color:'#4b5563'}, position:'right', grid:{drawOnChartArea:false} }
+      }
+    }
+  });
+
+  // Correlation pills
+  if (kpi4CorrData.length > 0) {
+    const c = kpi4CorrData[0];
+    document.getElementById('kpi4-corr-box').style.display = 'block';
+    const pills = document.getElementById('kpi4-corr-pills');
+    const corrColor = v => Math.abs(v) > 0.5 ? '#f87171' : Math.abs(v) > 0.25 ? '#fbbf24' : '#34d399';
+    pills.innerHTML = [
+      ['vs Precipitation', c.corr_with_precipitation_mm],
+      ['vs Wind Speed',    c.corr_with_wind_speed_max_kmh],
+      ['vs Temperature',  c.corr_with_temp_max_c],
+    ].map(([label, val]) => {
+      const v = parseFloat(val)||0;
+      return `<span class="pill" style="background:${corrColor(v)}20;color:${corrColor(v)}">
+        ${label}: r = ${v.toFixed(3)}
+      </span>`;
+    }).join('');
+    if (c.note) {
+      pills.innerHTML += `<div style="font-size:11px;color:var(--text-muted);margin-top:8px;width:100%;">ℹ ${c.note}</div>`;
+    }
+  }
+}
+
+// ============================================================
+// KPI 5
+// ============================================================
+
+function renderKPI5() {
+  const month    = document.getElementById('kpi5-month-select').value;
+  const roomType = document.getElementById('kpi5-room-select').value;
+
+  let filtered = kpi5Data.filter(r => r.month?.startsWith(month?.slice(0,7)));
+  if (roomType !== 'All') filtered = filtered.filter(r => r.room_type === roomType);
+
+  // Aggregate by neighbourhood
+  const byNeighbourhood = {};
+  filtered.forEach(r => {
+    const n = r.neighbourhood || 'Unknown';
+    byNeighbourhood[n] = (byNeighbourhood[n] || 0) + (parseFloat(r.rev_proxy_usd) || 0);
+  });
+
+  const sorted = Object.entries(byNeighbourhood)
+    .sort((a,b) => b[1]-a[1])
+    .slice(0, 15);
+
+  const labels  = sorted.map(([k]) => k);
+  const values  = sorted.map(([,v]) => Math.round(v));
+
+  const unavailableDays = filtered.reduce((sum, row) => sum + (parseInt(row.unavailable_days) || 0), 0);
+  const pricedDays = filtered.reduce((sum, row) => sum +
+    (parseInt(row.calendar_priced_unavailable_days) || 0) +
+    (parseInt(row.fallback_priced_unavailable_days) || 0), 0);
+  const coverage = unavailableDays ? (100 * pricedDays / unavailableDays).toFixed(1) : '0.0';
+  document.getElementById('kpi5-coverage').textContent =
+    `Price basis coverage: ${coverage}% of unavailable days (${pricedDays}/${unavailableDays}); fallback values use listing-level prices.`;
+
+  destroyChart('kpi5');
+  const ctx = document.getElementById('kpi5-chart').getContext('2d');
+  charts['kpi5'] = new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels,
+      datasets: [{
+        label: 'Revenue Proxy USD (upper bound)',
+        data: values,
+        backgroundColor: labels.map((_,i) => PALETTE[i % PALETTE.length] + 'cc'),
+        borderColor:     labels.map((_,i) => PALETTE[i % PALETTE.length]),
+        borderWidth: 1,
+        borderRadius: 4,
+      }]
+    },
+    options: {
+      ...BASE_OPTS,
+      indexAxis: 'y',
+      scales: {
+        x: { ...BASE_OPTS.scales.x, title:{display:true,text:'Rev Proxy USD',color:'#4b5563'} },
+        y: BASE_OPTS.scales.y
+      }
+    }
+  });
+}
+
+// ============================================================
+// Evidence Table
+// ============================================================
+
+function renderEvidenceTable() {
+  const wrap = document.getElementById('evidence-table-wrap');
+
+  // Aggregate KPI1 by neighbourhood (latest month avg)
+  if (!kpi1Data.length) {
+    wrap.innerHTML = '<div class="loading-overlay"><span>Run pipeline to generate evidence data.</span></div>';
+    return;
+  }
+
+  // Get unique neighbourhoods
+  const neighbourhoods = [...new Set(kpi1Data.map(r=>r.neighbourhood))].sort();
+
+  const rows = neighbourhoods.map(n => {
+    const k1 = kpi1Data.filter(r=>r.neighbourhood===n);
+    const k3 = kpi3Data.filter(r=>r.neighbourhood===n);
+    const k5 = kpi5Data.filter(r=>r.neighbourhood===n);
+
+    const avgUnavail = k1.length ? (k1.reduce((s,r)=>s+(parseFloat(r.unavailability_rate_pct)||0),0)/k1.length) : 0;
+    const totalReviews = k3.reduce((s,r)=>s+(parseInt(r.review_count)||0),0);
+    const totalRevProxy = k5.reduce((s,r)=>s+(parseFloat(r.rev_proxy_usd)||0),0);
+    const activeListings = k1.length ? k1[k1.length-1].active_listings : '—';
+
+    return { n, avgUnavail, totalReviews, totalRevProxy, activeListings };
+  });
+
+  rows.sort((a,b)=>b.avgUnavail-a.avgUnavail);
+
+  const fmtCur = v => v >= 1e6 ? '$'+(v/1e6).toFixed(2)+'M' : v >= 1e3 ? '$'+(v/1e3).toFixed(0)+'K' : '$'+v.toFixed(0);
+  const fmtNum = v => v >= 1e3 ? (v/1e3).toFixed(0)+'K' : String(Math.round(v));
+
+  wrap.innerHTML = `
+    <table>
+      <thead>
+        <tr>
+          <th>Neighbourhood</th>
+          <th>Avg Unavailability Rate</th>
+          <th>Active Listings (latest)</th>
+          <th>Total Reviews (Stay Proxy)</th>
+          <th>Rev Proxy (Upper Bound)</th>
+          <th>Occupancy Tier</th>
+        </tr>
+      </thead>
+      <tbody>
+        ${rows.map(r => {
+          const tier = r.avgUnavail >= 70 ? ['High','pill-red'] :
+                       r.avgUnavail >= 50 ? ['Medium','pill-orange'] :
+                       ['Low','pill-green'];
+          return `<tr>
+            <td style="color:var(--text-primary);font-weight:600;font-family:Inter">${r.n}</td>
+            <td>${r.avgUnavail.toFixed(1)}%</td>
+            <td>${r.activeListings}</td>
+            <td>${fmtNum(r.totalReviews)}</td>
+            <td style="color:var(--accent-purple)">${fmtCur(r.totalRevProxy)}</td>
+            <td><span class="pill ${tier[1]}">${tier[0]}</span></td>
+          </tr>`;
+        }).join('')}
+      </tbody>
+    </table>`;
+}
+
+// ============================================================
+// Boot
+// ============================================================
+
+window.addEventListener('DOMContentLoaded', init);
+</script>
+</body>
+</html>

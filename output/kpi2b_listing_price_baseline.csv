@@ -1,0 +1,160 @@
+neighbourhood,room_type,listings_with_price,avg_listing_price_usd,median_listing_price_usd,p90_listing_price_usd
+Can Baró,Entire home/apt,22,231.23,179.88,402.38
+Can Baró,Private room,5,95.21,88.13,136.13
+Ciutat Meridiana,Private room,1,80.0,80.0,80.0
+Diagonal Mar i el Front Marítim del Poblenou,Entire home/apt,96,406.05,352.75,802.19
+Diagonal Mar i el Front Marítim del Poblenou,Private room,8,154.09,158.16,244.0
+el Baix Guinardó,Entire home/apt,58,228.32,203.5,433.82
+el Baix Guinardó,Private room,11,73.77,65.42,120.39
+el Barri Gòtic,Entire home/apt,524,274.19,160.34,458.7
+el Barri Gòtic,Private room,233,109.93,91.29,195.6
+el Barri Gòtic,Shared room,1,63.92,63.92,63.92
+el Besòs i el Maresme,Entire home/apt,55,199.88,175.0,330.0
+el Besòs i el Maresme,Private room,25,125.42,75.0,352.99
+el Bon Pastor,Entire home/apt,3,116.21,131.33,146.27
+el Bon Pastor,Private room,1,150.0,150.0,150.0
+el Camp d'en Grassot i Gràcia Nova,Entire home/apt,174,226.76,216.67,361.73
+el Camp d'en Grassot i Gràcia Nova,Hotel room,6,203.73,200.35,223.65
+el Camp d'en Grassot i Gràcia Nova,Private room,40,65.62,42.95,140.3
+el Camp de l'Arpa del Clot,Entire home/apt,168,243.3,223.62,317.15
+el Camp de l'Arpa del Clot,Private room,49,114.85,75.0,241.4
+el Camp de l'Arpa del Clot,Shared room,9,42.44,41.0,54.4
+el Carmel,Entire home/apt,48,148.19,130.62,265.18
+el Carmel,Private room,10,35.68,32.78,43.15
+el Clot,Entire home/apt,38,179.4,165.0,267.87
+el Clot,Private room,24,55.19,47.73,86.96
+el Coll,Entire home/apt,15,204.64,196.4,289.24
+el Coll,Private room,10,38.76,29.58,74.75
+el Congrés i els Indians,Entire home/apt,15,161.28,178.4,204.85
+el Congrés i els Indians,Private room,19,60.17,55.0,96.47
+el Fort Pienc,Entire home/apt,303,295.38,285.33,475.0
+el Fort Pienc,Private room,68,57.14,38.6,117.5
+el Fort Pienc,Shared room,2,38.0,38.0,39.6
+el Guinardó,Entire home/apt,53,224.03,195.25,325.93
+el Guinardó,Private room,28,49.84,37.49,85.2
+el Parc i la Llacuna del Poblenou,Entire home/apt,113,273.18,239.42,394.59
+el Parc i la Llacuna del Poblenou,Hotel room,3,206.67,225.0,229.0
+el Parc i la Llacuna del Poblenou,Private room,20,82.48,43.87,210.4
+el Parc i la Llacuna del Poblenou,Shared room,1,1000.0,1000.0,1000.0
+el Poble Sec,Entire home/apt,499,271.96,224.95,353.1
+el Poble Sec,Hotel room,1,162.0,162.0,162.0
+el Poble Sec,Private room,78,92.84,79.88,170.6
+el Poble Sec,Shared room,9,43.69,40.0,49.44
+el Poblenou,Entire home/apt,339,221.76,228.4,335.33
+el Poblenou,Private room,40,69.89,38.14,176.5
+el Putxet i el Farró,Entire home/apt,132,217.21,190.13,341.65
+el Putxet i el Farró,Private room,42,60.63,39.0,109.09
+el Raval,Entire home/apt,554,167.41,107.97,340.35
+el Raval,Private room,315,111.16,90.0,195.68
+el Raval,Shared room,5,92.19,71.0,142.76
+el Turó de la Peira,Entire home/apt,4,83.27,59.84,131.31
+el Turó de la Peira,Private room,7,20.86,20.84,22.39
+Horta,Entire home/apt,6,209.99,239.02,285.61
+Horta,Private room,3,40.33,32.04,64.83
+Hostafrancs,Entire home/apt,120,317.12,228.35,356.92
+Hostafrancs,Private room,33,161.65,94.03,488.6
+l'Antiga Esquerra de l'Eixample,Entire home/apt,592,280.38,243.5,463.2
+l'Antiga Esquerra de l'Eixample,Hotel room,2,197.0,197.0,203.4
+l'Antiga Esquerra de l'Eixample,Private room,138,138.87,78.23,359.72
+l'Antiga Esquerra de l'Eixample,Shared room,13,51.46,47.0,67.0
+la Barceloneta,Entire home/apt,308,146.25,88.77,285.0
+la Barceloneta,Private room,49,101.33,97.0,182.99
+la Bordeta,Entire home/apt,37,202.84,211.12,283.45
+la Bordeta,Private room,22,77.99,81.32,113.7
+la Clota,Entire home/apt,4,214.89,212.82,244.99
+la Dreta de l'Eixample,Entire home/apt,1427,436.14,293.0,680.7
+la Dreta de l'Eixample,Hotel room,15,193.98,176.0,272.2
+la Dreta de l'Eixample,Private room,472,125.77,114.12,252.9
+la Dreta de l'Eixample,Shared room,29,66.32,46.0,73.0
+la Font d'en Fargues,Entire home/apt,4,795.69,840.67,1409.33
+la Font d'en Fargues,Private room,15,44.9,45.7,65.66
+la Font de la Guatlla,Entire home/apt,40,237.31,224.73,378.1
+la Font de la Guatlla,Hotel room,2,159.0,159.0,182.2
+la Font de la Guatlla,Private room,23,67.58,60.0,136.2
+la Guineueta,Entire home/apt,5,94.6,87.2,117.94
+la Guineueta,Private room,5,33.79,30.97,50.05
+la Marina de Port,Entire home/apt,26,113.18,65.42,217.5
+la Marina de Port,Private room,27,45.33,30.45,87.19
+la Marina del Prat Vermell,Entire home/apt,2,447.43,447.43,536.69
+la Marina del Prat Vermell,Private room,1,25.47,25.47,25.47
+la Maternitat i Sant Ramon,Entire home/apt,42,320.92,224.12,442.2
+la Maternitat i Sant Ramon,Private room,17,71.06,75.22,113.2
+la Nova Esquerra de l'Eixample,Entire home/apt,465,391.28,251.06,685.0
+la Nova Esquerra de l'Eixample,Hotel room,3,170.0,156.0,222.4
+la Nova Esquerra de l'Eixample,Private room,108,79.08,59.08,135.5
+la Nova Esquerra de l'Eixample,Shared room,4,41.25,35.5,56.9
+la Prosperitat,Entire home/apt,4,218.28,98.37,448.62
+la Prosperitat,Private room,8,34.89,36.41,55.89
+la Sagrada Família,Entire home/apt,661,310.44,275.0,430.5
+la Sagrada Família,Hotel room,6,186.27,187.45,231.85
+la Sagrada Família,Private room,138,62.9,38.38,139.4
+la Sagrera,Entire home/apt,25,134.28,94.02,269.4
+la Sagrera,Private room,8,65.86,78.75,84.77
+la Salut,Entire home/apt,50,172.92,173.07,258.13
+la Salut,Private room,13,59.24,48.31,108.72
+la Teixonera,Entire home/apt,5,105.57,72.1,187.08
+la Teixonera,Private room,7,60.42,46.81,96.0
+la Trinitat Nova,Private room,3,65.44,64.0,72.88
+la Trinitat Vella,Private room,2,44.06,44.06,61.61
+la Vall d'Hebron,Entire home/apt,2,165.78,165.78,220.36
+la Vall d'Hebron,Private room,3,43.73,33.19,58.89
+la Verneda i la Pau,Entire home/apt,10,162.05,170.17,232.47
+la Verneda i la Pau,Private room,14,43.96,37.6,65.47
+la Vila de Gràcia,Entire home/apt,650,240.57,227.84,375.56
+la Vila de Gràcia,Hotel room,8,198.44,193.0,256.85
+la Vila de Gràcia,Private room,159,80.45,40.11,144.6
+la Vila de Gràcia,Shared room,6,47.84,58.0,59.0
+la Vila Olímpica del Poblenou,Entire home/apt,112,300.45,276.0,522.7
+la Vila Olímpica del Poblenou,Private room,5,49.89,38.38,81.35
+la Vila Olímpica del Poblenou,Shared room,6,197.33,175.5,371.5
+les Corts,Entire home/apt,155,196.6,192.0,316.93
+les Corts,Private room,32,102.75,59.41,209.22
+les Corts,Shared room,2,63.5,63.5,68.7
+les Roquetes,Entire home/apt,4,186.65,158.95,303.94
+les Roquetes,Private room,9,62.18,66.5,74.0
+les Tres Torres,Entire home/apt,33,201.32,213.23,285.0
+les Tres Torres,Private room,15,102.64,58.86,195.34
+Montbau,Entire home/apt,1,70.48,70.48,70.48
+Montbau,Private room,1,50.16,50.16,50.16
+Navas,Entire home/apt,20,147.94,140.56,265.43
+Navas,Private room,22,84.45,63.0,159.72
+Navas,Shared room,3,55.67,56.0,57.6
+Pedralbes,Entire home/apt,12,293.0,139.35,360.75
+Pedralbes,Private room,12,132.96,149.0,192.99
+Porta,Entire home/apt,9,149.93,100.39,252.74
+Porta,Private room,5,45.45,49.33,53.23
+Provençals del Poblenou,Entire home/apt,51,221.71,194.8,386.33
+Provençals del Poblenou,Private room,18,127.92,111.18,253.94
+Sant Andreu,Entire home/apt,39,223.7,156.4,271.67
+Sant Andreu,Private room,25,54.32,59.25,63.62
+Sant Antoni,Entire home/apt,612,354.68,250.5,542.75
+Sant Antoni,Private room,136,126.04,117.0,202.0
+Sant Genís dels Agudells,Entire home/apt,3,259.02,88.16,511.23
+Sant Genís dels Agudells,Private room,1,33.35,33.35,33.35
+Sant Gervasi - Galvany,Entire home/apt,281,219.4,176.68,379.5
+Sant Gervasi - Galvany,Private room,124,83.11,49.41,179.7
+Sant Gervasi - Galvany,Shared room,1,81.5,81.5,81.5
+Sant Gervasi - la Bonanova,Entire home/apt,51,216.79,184.74,405.88
+Sant Gervasi - la Bonanova,Private room,22,67.59,56.74,109.29
+Sant Martí de Provençals,Entire home/apt,15,199.31,250.0,312.66
+Sant Martí de Provençals,Private room,16,48.65,33.9,81.34
+"Sant Pere, Santa Caterina i la Ribera",Entire home/apt,585,254.51,159.0,442.6
+"Sant Pere, Santa Caterina i la Ribera",Hotel room,16,425.81,368.0,642.5
+"Sant Pere, Santa Caterina i la Ribera",Private room,198,155.22,97.57,222.07
+Sants,Entire home/apt,194,247.53,205.71,408.5
+Sants,Private room,44,81.1,47.41,150.7
+Sants - Badal,Entire home/apt,86,164.31,130.63,292.85
+Sants - Badal,Private room,32,60.84,35.42,138.6
+Sarrià,Entire home/apt,34,163.88,134.5,225.98
+Sarrià,Private room,15,108.72,97.0,209.2
+Sarrià,Shared room,5,25.65,24.66,27.88
+Torre Baró,Entire home/apt,1,57.3,57.3,57.3
+Vallcarca i els Penitents,Entire home/apt,38,199.98,167.67,381.4
+Vallcarca i els Penitents,Private room,28,84.27,42.76,152.5
+"Vallvidrera, el Tibidabo i les Planes",Entire home/apt,14,318.29,164.47,787.73
+"Vallvidrera, el Tibidabo i les Planes",Private room,9,81.57,63.29,131.86
+"Vallvidrera, el Tibidabo i les Planes",Shared room,1,67.33,67.33,67.33
+Verdun,Entire home/apt,2,159.9,159.9,214.64
+Verdun,Private room,1,79.88,79.88,79.88
+Vilapicina i la Torre Llobeta,Entire home/apt,64,167.63,107.28,263.98
+Vilapicina i la Torre Llobeta,Private room,10,45.66,35.63,97.3

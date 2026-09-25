@@ -1,0 +1,2101 @@
+room_type,neighbourhood,month,unavailable_days,rev_proxy_usd,calendar_priced_unavailable_days,fallback_priced_unavailable_days,unpriced_unavailable_days,price_coverage_pct,price_basis,listings_included
+Entire home/apt,Can Baró,2026-06-01,88,18240.78,0,88,0,100.0,listing_price_fallback,19
+Entire home/apt,Can Baró,2026-07-01,403,65146.87,0,339,64,84.12,mixed,22
+Entire home/apt,Can Baró,2026-08-01,305,50577.98,0,243,62,79.67,mixed,17
+Entire home/apt,Can Baró,2026-09-01,187,24102.61,0,127,60,67.91,mixed,10
+Entire home/apt,Can Baró,2026-10-01,196,29503.52,0,134,62,68.37,mixed,10
+Entire home/apt,Can Baró,2026-11-01,106,7608.98,0,46,60,43.4,mixed,5
+Entire home/apt,Can Baró,2026-12-01,144,19285.63,0,82,62,56.94,mixed,8
+Entire home/apt,Can Baró,2027-01-01,218,29673.67,0,156,62,71.56,mixed,8
+Entire home/apt,Can Baró,2027-02-01,196,26432.0,0,140,56,71.43,mixed,7
+Entire home/apt,Can Baró,2027-03-01,239,41532.26,0,206,33,86.19,mixed,12
+Entire home/apt,Can Baró,2027-04-01,360,63291.3,0,300,60,83.33,mixed,12
+Entire home/apt,Can Baró,2027-05-01,373,65586.72,0,311,62,83.38,mixed,13
+Entire home/apt,Can Baró,2027-06-01,314,54067.54,0,254,60,80.89,mixed,16
+Entire home/apt,Can Baró,2027-07-01,4,,0,0,4,0.0,unpriced,2
+Entire home/apt,Diagonal Mar i el Front Marítim del Poblenou,2026-06-01,486,164805.2,0,472,14,97.12,mixed,94
+Entire home/apt,Diagonal Mar i el Front Marítim del Poblenou,2026-07-01,1970,540951.82,0,1756,214,89.14,mixed,96
+Entire home/apt,Diagonal Mar i el Front Marítim del Poblenou,2026-08-01,1525,407730.17,0,1311,214,85.97,mixed,79
+Entire home/apt,Diagonal Mar i el Front Marítim del Poblenou,2026-09-01,1176,297894.08,0,990,186,84.18,mixed,69
+Entire home/apt,Diagonal Mar i el Front Marítim del Poblenou,2026-10-01,1194,311534.59,0,1003,191,84.0,mixed,60
+Entire home/apt,Diagonal Mar i el Front Marítim del Poblenou,2026-11-01,871,200823.5,0,670,201,76.92,mixed,44
+Entire home/apt,Diagonal Mar i el Front Marítim del Poblenou,2026-12-01,834,224502.95,0,648,186,77.7,mixed,37
+Entire home/apt,Diagonal Mar i el Front Marítim del Poblenou,2027-01-01,1029,437425.75,0,843,186,81.92,mixed,40
+Entire home/apt,Diagonal Mar i el Front Marítim del Poblenou,2027-02-01,1003,436307.69,0,835,168,83.25,mixed,50
+Entire home/apt,Diagonal Mar i el Front Marítim del Poblenou,2027-03-01,1126,460790.65,0,940,186,83.48,mixed,52
+Entire home/apt,Diagonal Mar i el Front Marítim del Poblenou,2027-04-01,1156,407822.06,0,976,180,84.43,mixed,42
+Entire home/apt,Diagonal Mar i el Front Marítim del Poblenou,2027-05-01,1205,419397.18,0,1019,186,84.56,mixed,44
+Entire home/apt,Diagonal Mar i el Front Marítim del Poblenou,2027-06-01,1371,483209.06,0,1173,198,85.56,mixed,80
+Entire home/apt,Diagonal Mar i el Front Marítim del Poblenou,2027-07-01,9,140.3,0,2,7,22.22,mixed,5
+Entire home/apt,el Baix Guinardó,2026-06-01,257,55007.31,0,246,11,95.72,mixed,54
+Entire home/apt,el Baix Guinardó,2026-07-01,1180,243687.04,0,1065,115,90.25,mixed,52
+Entire home/apt,el Baix Guinardó,2026-08-01,823,154224.69,0,707,116,85.91,mixed,42
+Entire home/apt,el Baix Guinardó,2026-09-01,623,101775.79,0,515,108,82.66,mixed,33
+Entire home/apt,el Baix Guinardó,2026-10-01,523,92174.91,0,419,104,80.11,mixed,28
+Entire home/apt,el Baix Guinardó,2026-11-01,332,37437.77,0,239,93,71.99,mixed,16
+Entire home/apt,el Baix Guinardó,2026-12-01,326,38374.47,0,228,98,69.94,mixed,18
+Entire home/apt,el Baix Guinardó,2027-01-01,522,96156.03,0,407,115,77.97,mixed,22
+Entire home/apt,el Baix Guinardó,2027-02-01,468,88955.35,0,356,112,76.07,mixed,19
+Entire home/apt,el Baix Guinardó,2027-03-01,585,115409.26,0,461,124,78.8,mixed,26
+Entire home/apt,el Baix Guinardó,2027-04-01,761,157754.6,0,641,120,84.23,mixed,27
+Entire home/apt,el Baix Guinardó,2027-05-01,772,159134.0,0,648,124,83.94,mixed,28
+Entire home/apt,el Baix Guinardó,2027-06-01,643,128134.08,0,530,113,82.43,mixed,31
+Entire home/apt,el Baix Guinardó,2027-07-01,5,,0,0,5,0.0,unpriced,3
+Entire home/apt,el Barri Gòtic,2026-06-01,2180,449527.11,0,2163,17,99.22,mixed,442
+Entire home/apt,el Barri Gòtic,2026-07-01,9834,1794084.21,0,9119,715,92.73,mixed,454
+Entire home/apt,el Barri Gòtic,2026-08-01,6621,1182738.44,0,5936,685,89.65,mixed,363
+Entire home/apt,el Barri Gòtic,2026-09-01,5442,948194.72,0,4835,607,88.85,mixed,308
+Entire home/apt,el Barri Gòtic,2026-10-01,5433,1005612.66,0,4791,642,88.18,mixed,272
+Entire home/apt,el Barri Gòtic,2026-11-01,3945,680002.93,0,3315,630,84.03,mixed,179
+Entire home/apt,el Barri Gòtic,2026-12-01,3606,680981.37,0,3020,586,83.75,mixed,181
+Entire home/apt,el Barri Gòtic,2027-01-01,5212,1018406.11,0,4527,685,86.86,mixed,205
+Entire home/apt,el Barri Gòtic,2027-02-01,4756,930554.09,0,4141,615,87.07,mixed,205
+Entire home/apt,el Barri Gòtic,2027-03-01,5721,1135258.77,0,5039,682,88.08,mixed,254
+Entire home/apt,el Barri Gòtic,2027-04-01,6820,1458931.6,0,6160,660,90.32,mixed,246
+Entire home/apt,el Barri Gòtic,2027-05-01,7327,1611852.51,0,6672,655,91.06,mixed,262
+Entire home/apt,el Barri Gòtic,2027-06-01,6040,1337711.08,0,5409,631,89.55,mixed,279
+Entire home/apt,el Barri Gòtic,2027-07-01,51,1974.06,0,14,37,27.45,mixed,28
+Entire home/apt,el Besòs i el Maresme,2026-06-01,251,43608.41,0,245,6,97.61,mixed,46
+Entire home/apt,el Besòs i el Maresme,2026-07-01,1252,179535.42,0,989,263,78.99,mixed,57
+Entire home/apt,el Besòs i el Maresme,2026-08-01,1109,147293.44,0,794,315,71.6,mixed,48
+Entire home/apt,el Besòs i el Maresme,2026-09-01,990,124117.54,0,694,296,70.1,mixed,46
+Entire home/apt,el Besòs i el Maresme,2026-10-01,1105,142273.76,0,802,303,72.58,mixed,45
+Entire home/apt,el Besòs i el Maresme,2026-11-01,962,114396.67,0,664,298,69.02,mixed,38
+Entire home/apt,el Besòs i el Maresme,2026-12-01,951,110510.55,0,641,310,67.4,mixed,35
+Entire home/apt,el Besòs i el Maresme,2027-01-01,1067,141222.72,0,757,310,70.95,mixed,40
+Entire home/apt,el Besòs i el Maresme,2027-02-01,936,126629.15,0,656,280,70.09,mixed,40
+Entire home/apt,el Besòs i el Maresme,2027-03-01,1074,149368.75,0,764,310,71.14,mixed,42
+Entire home/apt,el Besòs i el Maresme,2027-04-01,1096,159878.38,0,796,300,72.63,mixed,39
+Entire home/apt,el Besòs i el Maresme,2027-05-01,1109,162641.55,0,799,310,72.05,mixed,38
+Entire home/apt,el Besòs i el Maresme,2027-06-01,1087,188113.83,0,782,305,71.94,mixed,48
+Entire home/apt,el Besòs i el Maresme,2027-07-01,16,,0,0,16,0.0,unpriced,10
+Entire home/apt,el Bon Pastor,2026-06-01,11,1116.4,0,11,0,100.0,listing_price_fallback,3
+Entire home/apt,el Bon Pastor,2026-07-01,112,5882.89,0,54,58,48.21,mixed,5
+Entire home/apt,el Bon Pastor,2026-08-01,105,5500.24,0,43,62,40.95,mixed,5
+Entire home/apt,el Bon Pastor,2026-09-01,67,975.32,0,7,60,10.45,mixed,4
+Entire home/apt,el Bon Pastor,2026-10-01,79,2419.31,0,17,62,21.52,mixed,4
+Entire home/apt,el Bon Pastor,2026-11-01,60,,0,0,60,0.0,unpriced,2
+Entire home/apt,el Bon Pastor,2026-12-01,72,672.9,0,10,62,13.89,mixed,3
+Entire home/apt,el Bon Pastor,2027-01-01,116,5535.99,0,54,62,46.55,mixed,4
+Entire home/apt,el Bon Pastor,2027-02-01,96,3684.12,0,40,56,41.67,mixed,4
+Entire home/apt,el Bon Pastor,2027-03-01,94,2235.99,0,32,62,34.04,mixed,4
+Entire home/apt,el Bon Pastor,2027-04-01,91,2168.7,0,31,60,34.07,mixed,4
+Entire home/apt,el Bon Pastor,2027-05-01,95,2385.99,0,33,62,34.74,mixed,4
+Entire home/apt,el Bon Pastor,2027-06-01,93,2908.95,0,33,60,35.48,mixed,5
+Entire home/apt,el Bon Pastor,2027-07-01,4,,0,0,4,0.0,unpriced,2
+Entire home/apt,el Camp d'en Grassot i Gràcia Nova,2026-06-01,861,184238.35,0,836,25,97.1,mixed,167
+Entire home/apt,el Camp d'en Grassot i Gràcia Nova,2026-07-01,3804,778422.77,0,3544,260,93.17,mixed,170
+Entire home/apt,el Camp d'en Grassot i Gràcia Nova,2026-08-01,2268,463568.05,0,2030,238,89.51,mixed,132
+Entire home/apt,el Camp d'en Grassot i Gràcia Nova,2026-09-01,2085,382922.28,0,1880,205,90.17,mixed,113
+Entire home/apt,el Camp d'en Grassot i Gràcia Nova,2026-10-01,1929,360775.41,0,1723,206,89.32,mixed,97
+Entire home/apt,el Camp d'en Grassot i Gràcia Nova,2026-11-01,1351,238970.69,0,1171,180,86.68,mixed,73
+Entire home/apt,el Camp d'en Grassot i Gràcia Nova,2026-12-01,1470,276914.31,0,1276,194,86.8,mixed,79
+Entire home/apt,el Camp d'en Grassot i Gràcia Nova,2027-01-01,1985,424151.32,0,1796,189,90.48,mixed,81
+Entire home/apt,el Camp d'en Grassot i Gràcia Nova,2027-02-01,1913,411688.75,0,1742,171,91.06,mixed,80
+Entire home/apt,el Camp d'en Grassot i Gràcia Nova,2027-03-01,2278,490924.83,0,2082,196,91.4,mixed,94
+Entire home/apt,el Camp d'en Grassot i Gràcia Nova,2027-04-01,2476,542113.28,0,2266,210,91.52,mixed,91
+Entire home/apt,el Camp d'en Grassot i Gràcia Nova,2027-05-01,2736,594485.9,0,2514,222,91.89,mixed,103
+Entire home/apt,el Camp d'en Grassot i Gràcia Nova,2027-06-01,2402,493305.1,0,2175,227,90.55,mixed,116
+Entire home/apt,el Camp d'en Grassot i Gràcia Nova,2027-07-01,19,623.0,0,8,11,42.11,mixed,10
+Entire home/apt,el Camp de l'Arpa del Clot,2026-06-01,806,166655.79,0,796,10,98.76,mixed,152
+Entire home/apt,el Camp de l'Arpa del Clot,2026-07-01,3454,675943.64,0,3334,120,96.53,mixed,158
+Entire home/apt,el Camp de l'Arpa del Clot,2026-08-01,2324,447494.51,0,2236,88,96.21,mixed,129
+Entire home/apt,el Camp de l'Arpa del Clot,2026-09-01,1837,302497.56,0,1756,81,95.59,mixed,105
+Entire home/apt,el Camp de l'Arpa del Clot,2026-10-01,1574,239336.93,0,1464,110,93.01,mixed,82
+Entire home/apt,el Camp de l'Arpa del Clot,2026-11-01,1078,130956.9,0,952,126,88.31,mixed,51
+Entire home/apt,el Camp de l'Arpa del Clot,2026-12-01,1116,162876.57,0,988,128,88.53,mixed,55
+Entire home/apt,el Camp de l'Arpa del Clot,2027-01-01,1328,249084.71,0,1200,128,90.36,mixed,59
+Entire home/apt,el Camp de l'Arpa del Clot,2027-02-01,1316,254733.46,0,1198,118,91.03,mixed,52
+Entire home/apt,el Camp de l'Arpa del Clot,2027-03-01,1664,320059.26,0,1511,153,90.81,mixed,71
+Entire home/apt,el Camp de l'Arpa del Clot,2027-04-01,1712,344595.63,0,1587,125,92.7,mixed,62
+Entire home/apt,el Camp de l'Arpa del Clot,2027-05-01,1822,364336.27,0,1694,128,92.97,mixed,67
+Entire home/apt,el Camp de l'Arpa del Clot,2027-06-01,1469,288587.63,0,1347,122,91.7,mixed,77
+Entire home/apt,el Camp de l'Arpa del Clot,2027-07-01,7,18.14,0,2,5,28.57,mixed,4
+Entire home/apt,el Carmel,2026-06-01,220,32994.28,0,220,0,100.0,listing_price_fallback,41
+Entire home/apt,el Carmel,2026-07-01,1198,156892.09,0,1080,118,90.15,mixed,47
+Entire home/apt,el Carmel,2026-08-01,1021,132849.37,0,897,124,87.86,mixed,44
+Entire home/apt,el Carmel,2026-09-01,576,74314.12,0,456,120,79.17,mixed,34
+Entire home/apt,el Carmel,2026-10-01,423,35666.45,0,299,124,70.69,mixed,26
+Entire home/apt,el Carmel,2026-11-01,232,9284.15,0,112,120,48.28,mixed,11
+Entire home/apt,el Carmel,2026-12-01,197,6354.09,0,73,124,37.06,mixed,8
+Entire home/apt,el Carmel,2027-01-01,188,11893.84,0,64,124,34.04,mixed,7
+Entire home/apt,el Carmel,2027-02-01,168,10346.0,0,56,112,33.33,mixed,6
+Entire home/apt,el Carmel,2027-03-01,277,18706.25,0,153,124,55.23,mixed,15
+Entire home/apt,el Carmel,2027-04-01,450,32720.7,0,330,120,73.33,mixed,15
+Entire home/apt,el Carmel,2027-05-01,465,33811.39,0,341,124,73.33,mixed,15
+Entire home/apt,el Carmel,2027-06-01,390,28011.2,0,270,120,69.23,mixed,17
+Entire home/apt,el Carmel,2027-07-01,6,,0,0,6,0.0,unpriced,4
+Entire home/apt,el Clot,2026-06-01,184,32086.34,0,184,0,100.0,listing_price_fallback,34
+Entire home/apt,el Clot,2026-07-01,953,160355.0,0,895,58,93.91,mixed,39
+Entire home/apt,el Clot,2026-08-01,815,141661.23,0,753,62,92.39,mixed,35
+Entire home/apt,el Clot,2026-09-01,613,103964.5,0,553,60,90.21,mixed,30
+Entire home/apt,el Clot,2026-10-01,638,99187.49,0,576,62,90.28,mixed,26
+Entire home/apt,el Clot,2026-11-01,630,94197.59,0,570,60,90.48,mixed,26
+Entire home/apt,el Clot,2026-12-01,727,112004.02,0,665,62,91.47,mixed,25
+Entire home/apt,el Clot,2027-01-01,765,120140.73,0,703,62,91.9,mixed,26
+Entire home/apt,el Clot,2027-02-01,747,115283.33,0,691,56,92.5,mixed,28
+Entire home/apt,el Clot,2027-03-01,847,138744.95,0,785,62,92.68,mixed,28
+Entire home/apt,el Clot,2027-04-01,840,145873.5,0,780,60,92.86,mixed,28
+Entire home/apt,el Clot,2027-05-01,834,142428.73,0,772,62,92.57,mixed,27
+Entire home/apt,el Clot,2027-06-01,645,107751.45,0,585,60,90.7,mixed,28
+Entire home/apt,el Clot,2027-07-01,5,156.0,0,1,4,20.0,mixed,3
+Entire home/apt,el Coll,2026-06-01,64,14637.72,0,64,0,100.0,listing_price_fallback,13
+Entire home/apt,el Coll,2026-07-01,353,67169.69,0,324,29,91.78,mixed,16
+Entire home/apt,el Coll,2026-08-01,332,64463.83,0,301,31,90.66,mixed,14
+Entire home/apt,el Coll,2026-09-01,225,38790.32,0,195,30,86.67,mixed,12
+Entire home/apt,el Coll,2026-10-01,232,36349.66,0,201,31,86.64,mixed,9
+Entire home/apt,el Coll,2026-11-01,224,33194.08,0,194,30,86.61,mixed,8
+Entire home/apt,el Coll,2026-12-01,193,28760.06,0,162,31,83.94,mixed,8
+Entire home/apt,el Coll,2027-01-01,189,29812.42,0,158,31,83.6,mixed,8
+Entire home/apt,el Coll,2027-02-01,168,26401.2,0,140,28,83.33,mixed,6
+Entire home/apt,el Coll,2027-03-01,200,32163.78,0,169,31,84.5,mixed,8
+Entire home/apt,el Coll,2027-04-01,212,35031.94,0,182,30,85.85,mixed,8
+Entire home/apt,el Coll,2027-05-01,249,41286.87,0,218,31,87.55,mixed,9
+Entire home/apt,el Coll,2027-06-01,215,36091.09,0,185,30,86.05,mixed,11
+Entire home/apt,el Coll,2027-07-01,4,262.0,0,2,2,50.0,mixed,2
+Entire home/apt,el Congrés i els Indians,2026-06-01,66,11595.47,0,66,0,100.0,listing_price_fallback,11
+Entire home/apt,el Congrés i els Indians,2026-07-01,296,44177.18,0,267,29,90.2,mixed,14
+Entire home/apt,el Congrés i els Indians,2026-08-01,173,26323.69,0,142,31,82.08,mixed,9
+Entire home/apt,el Congrés i els Indians,2026-09-01,211,32262.73,0,181,30,85.78,mixed,10
+Entire home/apt,el Congrés i els Indians,2026-10-01,220,30354.39,0,189,31,85.91,mixed,9
+Entire home/apt,el Congrés i els Indians,2026-11-01,160,19731.3,0,130,30,81.25,mixed,8
+Entire home/apt,el Congrés i els Indians,2026-12-01,155,18705.8,0,124,31,80.0,mixed,8
+Entire home/apt,el Congrés i els Indians,2027-01-01,227,34721.28,0,196,31,86.34,mixed,10
+Entire home/apt,el Congrés i els Indians,2027-02-01,224,35529.48,0,196,28,87.5,mixed,8
+Entire home/apt,el Congrés i els Indians,2027-03-01,250,39742.47,0,219,31,87.6,mixed,9
+Entire home/apt,el Congrés i els Indians,2027-04-01,240,38067.3,0,210,30,87.5,mixed,8
+Entire home/apt,el Congrés i els Indians,2027-05-01,253,40366.21,0,222,31,87.75,mixed,9
+Entire home/apt,el Congrés i els Indians,2027-06-01,203,32274.61,0,173,30,85.22,mixed,10
+Entire home/apt,el Congrés i els Indians,2027-07-01,2,,0,0,2,0.0,unpriced,1
+Entire home/apt,el Fort Pienc,2026-06-01,1461,412007.67,0,1432,29,98.02,mixed,292
+Entire home/apt,el Fort Pienc,2026-07-01,6860,1899690.41,0,6610,250,96.36,mixed,300
+Entire home/apt,el Fort Pienc,2026-08-01,4784,1290114.16,0,4565,219,95.42,mixed,273
+Entire home/apt,el Fort Pienc,2026-09-01,3313,807072.46,0,3118,195,94.11,mixed,212
+Entire home/apt,el Fort Pienc,2026-10-01,3218,846688.13,0,3028,190,94.1,mixed,167
+Entire home/apt,el Fort Pienc,2026-11-01,2248,570322.85,0,2084,164,92.7,mixed,115
+Entire home/apt,el Fort Pienc,2026-12-01,1999,546118.81,0,1871,128,93.6,mixed,104
+Entire home/apt,el Fort Pienc,2027-01-01,2646,750972.59,0,2431,215,91.87,mixed,114
+Entire home/apt,el Fort Pienc,2027-02-01,2631,723567.2,0,2430,201,92.36,mixed,125
+Entire home/apt,el Fort Pienc,2027-03-01,3039,851461.19,0,2822,217,92.86,mixed,138
+Entire home/apt,el Fort Pienc,2027-04-01,3418,995707.23,0,3208,210,93.86,mixed,124
+Entire home/apt,el Fort Pienc,2027-05-01,3641,1059525.56,0,3414,227,93.77,mixed,137
+Entire home/apt,el Fort Pienc,2027-06-01,3229,938733.84,0,2983,246,92.38,mixed,168
+Entire home/apt,el Fort Pienc,2027-07-01,12,24.84,0,2,10,16.67,mixed,6
+Entire home/apt,el Guinardó,2026-06-01,252,47756.73,0,251,1,99.6,mixed,51
+Entire home/apt,el Guinardó,2026-07-01,1086,184848.77,0,941,145,86.65,mixed,49
+Entire home/apt,el Guinardó,2026-08-01,782,140065.37,0,655,127,83.76,mixed,39
+Entire home/apt,el Guinardó,2026-09-01,645,109426.19,0,484,161,75.04,mixed,36
+Entire home/apt,el Guinardó,2026-10-01,612,100904.68,0,457,155,74.67,mixed,28
+Entire home/apt,el Guinardó,2026-11-01,447,68547.02,0,297,150,66.44,mixed,20
+Entire home/apt,el Guinardó,2026-12-01,557,78479.76,0,402,155,72.17,mixed,26
+Entire home/apt,el Guinardó,2027-01-01,674,87077.93,0,519,155,77.0,mixed,27
+Entire home/apt,el Guinardó,2027-02-01,615,81053.12,0,475,140,77.24,mixed,24
+Entire home/apt,el Guinardó,2027-03-01,714,97869.01,0,559,155,78.29,mixed,28
+Entire home/apt,el Guinardó,2027-04-01,799,118930.67,0,649,150,81.23,mixed,29
+Entire home/apt,el Guinardó,2027-05-01,884,139033.72,0,729,155,82.47,mixed,31
+Entire home/apt,el Guinardó,2027-06-01,729,121658.45,0,579,150,79.42,mixed,37
+Entire home/apt,el Guinardó,2027-07-01,9,,0,0,9,0.0,unpriced,5
+Entire home/apt,el Parc i la Llacuna del Poblenou,2026-06-01,535,130914.93,0,535,0,100.0,listing_price_fallback,100
+Entire home/apt,el Parc i la Llacuna del Poblenou,2026-07-01,2550,573366.72,0,2259,291,88.59,mixed,113
+Entire home/apt,el Parc i la Llacuna del Poblenou,2026-08-01,1890,424955.01,0,1580,310,83.6,mixed,92
+Entire home/apt,el Parc i la Llacuna del Poblenou,2026-09-01,1352,268737.51,0,1077,275,79.66,mixed,75
+Entire home/apt,el Parc i la Llacuna del Poblenou,2026-10-01,1383,259512.01,0,1078,305,77.95,mixed,71
+Entire home/apt,el Parc i la Llacuna del Poblenou,2026-11-01,993,151725.68,0,693,300,69.79,mixed,50
+Entire home/apt,el Parc i la Llacuna del Poblenou,2026-12-01,1048,206415.66,0,762,286,72.71,mixed,60
+Entire home/apt,el Parc i la Llacuna del Poblenou,2027-01-01,1466,358934.07,0,1156,310,78.85,mixed,67
+Entire home/apt,el Parc i la Llacuna del Poblenou,2027-02-01,1500,388225.81,0,1220,280,81.33,mixed,70
+Entire home/apt,el Parc i la Llacuna del Poblenou,2027-03-01,1904,479622.21,0,1594,310,83.72,mixed,83
+Entire home/apt,el Parc i la Llacuna del Poblenou,2027-04-01,2148,525641.2,0,1848,300,86.03,mixed,77
+Entire home/apt,el Parc i la Llacuna del Poblenou,2027-05-01,2282,552064.88,0,1972,310,86.42,mixed,83
+Entire home/apt,el Parc i la Llacuna del Poblenou,2027-06-01,1954,459827.77,0,1654,300,84.65,mixed,93
+Entire home/apt,el Parc i la Llacuna del Poblenou,2027-07-01,23,2260.34,0,4,19,17.39,mixed,12
+Entire home/apt,el Poble Sec,2026-06-01,2125,480767.96,0,2112,13,99.39,mixed,413
+Entire home/apt,el Poble Sec,2026-07-01,10615,2233847.13,0,9995,620,94.16,mixed,471
+Entire home/apt,el Poble Sec,2026-08-01,7709,1622923.68,0,7100,609,92.1,mixed,406
+Entire home/apt,el Poble Sec,2026-09-01,5696,1156659.77,0,5091,605,89.38,mixed,354
+Entire home/apt,el Poble Sec,2026-10-01,4597,849305.22,0,3950,647,85.93,mixed,264
+Entire home/apt,el Poble Sec,2026-11-01,3866,894869.91,0,3239,627,83.78,mixed,205
+Entire home/apt,el Poble Sec,2026-12-01,4047,921488.81,0,3407,640,84.19,mixed,224
+Entire home/apt,el Poble Sec,2027-01-01,6180,1443942.93,0,5498,682,88.96,mixed,258
+Entire home/apt,el Poble Sec,2027-02-01,5549,1288813.73,0,4933,616,88.9,mixed,237
+Entire home/apt,el Poble Sec,2027-03-01,6226,1433904.39,0,5542,684,89.01,mixed,265
+Entire home/apt,el Poble Sec,2027-04-01,7064,1670311.34,0,6374,690,90.23,mixed,259
+Entire home/apt,el Poble Sec,2027-05-01,7441,1756407.93,0,6728,713,90.42,mixed,281
+Entire home/apt,el Poble Sec,2027-06-01,6076,1405905.0,0,5410,666,89.04,mixed,297
+Entire home/apt,el Poble Sec,2027-07-01,46,1956.05,0,15,31,32.61,mixed,27
+Entire home/apt,el Poblenou,2026-06-01,1615,337968.64,0,1554,61,96.22,mixed,311
+Entire home/apt,el Poblenou,2026-07-01,7306,1398794.05,0,6491,815,88.84,mixed,340
+Entire home/apt,el Poblenou,2026-08-01,5480,1012009.13,0,4635,845,84.58,mixed,274
+Entire home/apt,el Poblenou,2026-09-01,3996,681582.73,0,3232,764,80.88,mixed,235
+Entire home/apt,el Poblenou,2026-10-01,3566,603282.49,0,2887,679,80.96,mixed,194
+Entire home/apt,el Poblenou,2026-11-01,2291,316825.32,0,1644,647,71.76,mixed,120
+Entire home/apt,el Poblenou,2026-12-01,2229,336090.36,0,1569,660,70.39,mixed,120
+Entire home/apt,el Poblenou,2027-01-01,3751,664971.66,0,2918,833,77.79,mixed,152
+Entire home/apt,el Poblenou,2027-02-01,3652,674439.68,0,2842,810,77.82,mixed,150
+Entire home/apt,el Poblenou,2027-03-01,4692,931393.39,0,3793,899,80.84,mixed,191
+Entire home/apt,el Poblenou,2027-04-01,5010,989145.65,0,4140,870,82.63,mixed,177
+Entire home/apt,el Poblenou,2027-05-01,5284,1047094.22,0,4384,900,82.97,mixed,191
+Entire home/apt,el Poblenou,2027-06-01,4564,901872.74,0,3754,810,82.25,mixed,248
+Entire home/apt,el Poblenou,2027-07-01,40,555.72,0,6,34,15.0,mixed,22
+Entire home/apt,el Putxet i el Farró,2026-06-01,545,119250.29,0,526,19,96.51,mixed,113
+Entire home/apt,el Putxet i el Farró,2026-07-01,2475,473189.91,0,2160,315,87.27,mixed,126
+Entire home/apt,el Putxet i el Farró,2026-08-01,1531,260917.53,0,1240,291,80.99,mixed,91
+Entire home/apt,el Putxet i el Farró,2026-09-01,1213,192822.15,0,939,274,77.41,mixed,70
+Entire home/apt,el Putxet i el Farró,2026-10-01,1144,157713.4,0,850,294,74.3,mixed,54
+Entire home/apt,el Putxet i el Farró,2026-11-01,888,101879.89,0,607,281,68.36,mixed,38
+Entire home/apt,el Putxet i el Farró,2026-12-01,811,85843.08,0,532,279,65.6,mixed,40
+Entire home/apt,el Putxet i el Farró,2027-01-01,923,98522.25,0,619,304,67.06,mixed,42
+Entire home/apt,el Putxet i el Farró,2027-02-01,921,118360.83,0,641,280,69.6,mixed,40
+Entire home/apt,el Putxet i el Farró,2027-03-01,1048,141547.3,0,738,310,70.42,mixed,47
+Entire home/apt,el Putxet i el Farró,2027-04-01,1362,218192.05,0,1062,300,77.97,mixed,49
+Entire home/apt,el Putxet i el Farró,2027-05-01,1439,221956.61,0,1129,310,78.46,mixed,63
+Entire home/apt,el Putxet i el Farró,2027-06-01,1510,240683.15,0,1242,268,82.25,mixed,70
+Entire home/apt,el Putxet i el Farró,2027-07-01,15,860.83,0,3,12,20.0,mixed,8
+Entire home/apt,el Raval,2026-06-01,2661,434678.98,0,2603,58,97.82,mixed,516
+Entire home/apt,el Raval,2026-07-01,12774,1853776.63,0,11302,1472,88.48,mixed,560
+Entire home/apt,el Raval,2026-08-01,8757,1308254.17,0,7316,1441,83.54,mixed,435
+Entire home/apt,el Raval,2026-09-01,7526,1026806.15,0,6135,1391,81.52,mixed,356
+Entire home/apt,el Raval,2026-10-01,6585,880098.1,0,5162,1423,78.39,mixed,306
+Entire home/apt,el Raval,2026-11-01,4690,537167.71,0,3373,1317,71.92,mixed,209
+Entire home/apt,el Raval,2026-12-01,4417,512301.0,0,3117,1300,70.57,mixed,214
+Entire home/apt,el Raval,2027-01-01,5243,744277.56,0,3922,1321,74.8,mixed,214
+Entire home/apt,el Raval,2027-02-01,4861,723208.13,0,3640,1221,74.88,mixed,216
+Entire home/apt,el Raval,2027-03-01,5863,864967.65,0,4512,1351,76.96,mixed,267
+Entire home/apt,el Raval,2027-04-01,6976,975652.56,0,5650,1326,80.99,mixed,248
+Entire home/apt,el Raval,2027-05-01,7579,1109960.93,0,6184,1395,81.59,mixed,274
+Entire home/apt,el Raval,2027-06-01,6661,931518.66,0,5298,1363,79.54,mixed,306
+Entire home/apt,el Raval,2027-07-01,85,1859.05,0,16,69,18.82,mixed,48
+Entire home/apt,el Turó de la Peira,2026-06-01,26,2223.14,0,26,0,100.0,listing_price_fallback,4
+Entire home/apt,el Turó de la Peira,2026-07-01,76,6590.51,0,76,0,100.0,listing_price_fallback,4
+Entire home/apt,el Turó de la Peira,2026-08-01,48,4419.01,0,48,0,100.0,listing_price_fallback,2
+Entire home/apt,el Turó de la Peira,2026-09-01,41,2359.47,0,41,0,100.0,listing_price_fallback,2
+Entire home/apt,el Turó de la Peira,2026-10-01,62,3709.77,0,62,0,100.0,listing_price_fallback,2
+Entire home/apt,el Turó de la Peira,2026-11-01,65,6765.75,0,65,0,100.0,listing_price_fallback,3
+Entire home/apt,el Turó de la Peira,2026-12-01,63,6721.4,0,63,0,100.0,listing_price_fallback,3
+Entire home/apt,el Turó de la Peira,2027-01-01,62,6962.6,0,62,0,100.0,listing_price_fallback,2
+Entire home/apt,el Turó de la Peira,2027-02-01,30,4604.78,0,30,0,100.0,listing_price_fallback,2
+Entire home/apt,el Turó de la Peira,2027-03-01,10,1598.3,0,10,0,100.0,listing_price_fallback,1
+Entire home/apt,el Turó de la Peira,2027-04-01,30,4794.9,0,30,0,100.0,listing_price_fallback,1
+Entire home/apt,el Turó de la Peira,2027-05-01,31,4954.73,0,31,0,100.0,listing_price_fallback,1
+Entire home/apt,el Turó de la Peira,2027-06-01,23,3676.09,0,23,0,100.0,listing_price_fallback,1
+Entire home/apt,Horta,2026-06-01,17,3794.57,0,17,0,100.0,listing_price_fallback,5
+Entire home/apt,Horta,2026-07-01,100,13888.62,0,70,30,70.0,mixed,6
+Entire home/apt,Horta,2026-08-01,96,14519.78,0,65,31,67.71,mixed,7
+Entire home/apt,Horta,2026-09-01,76,11112.0,0,46,30,60.53,mixed,3
+Entire home/apt,Horta,2026-10-01,41,2970.0,0,10,31,24.39,mixed,2
+Entire home/apt,Horta,2026-11-01,36,1782.0,0,6,30,16.67,mixed,2
+Entire home/apt,Horta,2026-12-01,31,,0,0,31,0.0,unpriced,1
+Entire home/apt,Horta,2027-01-01,31,,0,0,31,0.0,unpriced,1
+Entire home/apt,Horta,2027-02-01,31,891.0,0,3,28,9.68,mixed,2
+Entire home/apt,Horta,2027-03-01,31,6216.08,0,24,7,77.42,mixed,4
+Entire home/apt,Horta,2027-04-01,90,14341.2,0,60,30,66.67,mixed,3
+Entire home/apt,Horta,2027-05-01,96,15710.24,0,65,31,67.71,mixed,4
+Entire home/apt,Horta,2027-06-01,94,15925.3,0,64,30,68.09,mixed,5
+Entire home/apt,Horta,2027-07-01,3,532.08,0,2,1,66.67,mixed,2
+Entire home/apt,Hostafrancs,2026-06-01,508,117609.27,0,508,0,100.0,listing_price_fallback,98
+Entire home/apt,Hostafrancs,2026-07-01,2597,538532.01,0,2363,234,90.99,mixed,117
+Entire home/apt,Hostafrancs,2026-08-01,2009,400698.9,0,1761,248,87.66,mixed,96
+Entire home/apt,Hostafrancs,2026-09-01,1530,274206.07,0,1290,240,84.31,mixed,90
+Entire home/apt,Hostafrancs,2026-10-01,1363,236082.26,0,1115,248,81.8,mixed,75
+Entire home/apt,Hostafrancs,2026-11-01,991,161147.6,0,751,240,75.78,mixed,57
+Entire home/apt,Hostafrancs,2026-12-01,909,128585.16,0,661,248,72.72,mixed,46
+Entire home/apt,Hostafrancs,2027-01-01,1009,230563.86,0,761,248,75.42,mixed,56
+Entire home/apt,Hostafrancs,2027-02-01,998,251102.97,0,774,224,77.56,mixed,51
+Entire home/apt,Hostafrancs,2027-03-01,1088,292784.5,0,840,248,77.21,mixed,59
+Entire home/apt,Hostafrancs,2027-04-01,1640,499509.45,0,1400,240,85.37,mixed,58
+Entire home/apt,Hostafrancs,2027-05-01,1767,497133.02,0,1519,248,85.96,mixed,64
+Entire home/apt,Hostafrancs,2027-06-01,1408,360225.14,0,1168,240,82.95,mixed,68
+Entire home/apt,Hostafrancs,2027-07-01,20,1605.58,0,6,14,30.0,mixed,11
+Entire home/apt,l'Antiga Esquerra de l'Eixample,2026-06-01,2862,740091.0,0,2816,46,98.39,mixed,553
+Entire home/apt,l'Antiga Esquerra de l'Eixample,2026-07-01,13068,3130320.51,0,12069,999,92.36,mixed,588
+Entire home/apt,l'Antiga Esquerra de l'Eixample,2026-08-01,8479,2019801.86,0,7515,964,88.63,mixed,470
+Entire home/apt,l'Antiga Esquerra de l'Eixample,2026-09-01,6113,1387609.99,0,5241,872,85.74,mixed,367
+Entire home/apt,l'Antiga Esquerra de l'Eixample,2026-10-01,5220,1109520.94,0,4267,953,81.74,mixed,298
+Entire home/apt,l'Antiga Esquerra de l'Eixample,2026-11-01,3275,607584.67,0,2403,872,73.37,mixed,201
+Entire home/apt,l'Antiga Esquerra de l'Eixample,2026-12-01,3293,641839.03,0,2435,858,73.94,mixed,190
+Entire home/apt,l'Antiga Esquerra de l'Eixample,2027-01-01,6559,1484695.48,0,5540,1019,84.46,mixed,266
+Entire home/apt,l'Antiga Esquerra de l'Eixample,2027-02-01,6308,1441402.32,0,5342,966,84.69,mixed,262
+Entire home/apt,l'Antiga Esquerra de l'Eixample,2027-03-01,7144,1623944.27,0,6074,1070,85.02,mixed,305
+Entire home/apt,l'Antiga Esquerra de l'Eixample,2027-04-01,8040,1864884.57,0,6952,1088,86.47,mixed,291
+Entire home/apt,l'Antiga Esquerra de l'Eixample,2027-05-01,9084,2109698.25,0,7995,1089,88.01,mixed,369
+Entire home/apt,l'Antiga Esquerra de l'Eixample,2027-06-01,8625,1897796.09,0,7575,1050,87.83,mixed,383
+Entire home/apt,l'Antiga Esquerra de l'Eixample,2027-07-01,70,3860.97,0,20,50,28.57,mixed,38
+Entire home/apt,la Barceloneta,2026-06-01,1454,203570.84,0,1428,26,98.21,mixed,278
+Entire home/apt,la Barceloneta,2026-07-01,6927,766977.55,0,5926,1001,85.55,mixed,303
+Entire home/apt,la Barceloneta,2026-08-01,5201,462555.97,0,4150,1051,79.79,mixed,225
+Entire home/apt,la Barceloneta,2026-09-01,4008,337231.97,0,3138,870,78.29,mixed,212
+Entire home/apt,la Barceloneta,2026-10-01,4370,375561.52,0,3379,991,77.32,mixed,174
+Entire home/apt,la Barceloneta,2026-11-01,3329,255664.3,0,2370,959,71.19,mixed,131
+Entire home/apt,la Barceloneta,2026-12-01,3284,264047.27,0,2349,935,71.53,mixed,133
+Entire home/apt,la Barceloneta,2027-01-01,4171,353829.38,0,3148,1023,75.47,mixed,142
+Entire home/apt,la Barceloneta,2027-02-01,3771,329935.7,0,2847,924,75.5,mixed,141
+Entire home/apt,la Barceloneta,2027-03-01,4476,414468.06,0,3441,1035,76.88,mixed,166
+Entire home/apt,la Barceloneta,2027-04-01,4943,473806.57,0,3893,1050,78.76,mixed,169
+Entire home/apt,la Barceloneta,2027-05-01,5034,475211.86,0,3949,1085,78.45,mixed,169
+Entire home/apt,la Barceloneta,2027-06-01,4034,371081.04,0,3034,1000,75.21,mixed,168
+Entire home/apt,la Barceloneta,2027-07-01,54,303.52,0,4,50,7.41,mixed,30
+Entire home/apt,la Bordeta,2026-06-01,110,21431.7,0,110,0,100.0,listing_price_fallback,27
+Entire home/apt,la Bordeta,2026-07-01,721,118398.49,0,633,88,87.79,mixed,35
+Entire home/apt,la Bordeta,2026-08-01,521,80308.88,0,428,93,82.15,mixed,34
+Entire home/apt,la Bordeta,2026-09-01,414,52102.44,0,324,90,78.26,mixed,31
+Entire home/apt,la Bordeta,2026-10-01,382,45280.34,0,289,93,75.65,mixed,20
+Entire home/apt,la Bordeta,2026-11-01,216,20137.1,0,126,90,58.33,mixed,15
+Entire home/apt,la Bordeta,2026-12-01,280,36299.79,0,187,93,66.79,mixed,15
+Entire home/apt,la Bordeta,2027-01-01,442,74865.21,0,349,93,78.96,mixed,21
+Entire home/apt,la Bordeta,2027-02-01,426,71726.73,0,342,84,80.28,mixed,21
+Entire home/apt,la Bordeta,2027-03-01,431,68405.08,0,338,93,78.42,mixed,17
+Entire home/apt,la Bordeta,2027-04-01,429,67161.3,0,339,90,79.02,mixed,16
+Entire home/apt,la Bordeta,2027-05-01,434,66709.21,0,341,93,78.57,mixed,14
+Entire home/apt,la Bordeta,2027-06-01,354,51183.79,0,264,90,74.58,mixed,15
+Entire home/apt,la Bordeta,2027-07-01,7,185.34,0,2,5,28.57,mixed,4
+Entire home/apt,la Clota,2026-06-01,8,1685.7,0,8,0,100.0,listing_price_fallback,3
+Entire home/apt,la Clota,2026-07-01,1,208.63,0,1,0,100.0,listing_price_fallback,1
+Entire home/apt,la Clota,2027-03-01,20,4339.2,0,20,0,100.0,listing_price_fallback,2
+Entire home/apt,la Clota,2027-04-01,60,13017.6,0,60,0,100.0,listing_price_fallback,2
+Entire home/apt,la Clota,2027-05-01,62,13451.52,0,62,0,100.0,listing_price_fallback,2
+Entire home/apt,la Clota,2027-06-01,48,10414.08,0,48,0,100.0,listing_price_fallback,2
+Entire home/apt,la Dreta de l'Eixample,2026-06-01,6546,2280077.43,0,6350,196,97.01,mixed,1279
+Entire home/apt,la Dreta de l'Eixample,2026-07-01,29010,9568727.95,0,26692,2318,92.01,mixed,1338
+Entire home/apt,la Dreta de l'Eixample,2026-08-01,19019,6322075.12,0,16855,2164,88.62,mixed,1107
+Entire home/apt,la Dreta de l'Eixample,2026-09-01,15221,4962740.47,0,13220,2001,86.85,mixed,965
+Entire home/apt,la Dreta de l'Eixample,2026-10-01,12996,4013085.35,0,11000,1996,84.64,mixed,809
+Entire home/apt,la Dreta de l'Eixample,2026-11-01,9698,2720838.35,0,7912,1786,81.58,mixed,556
+Entire home/apt,la Dreta de l'Eixample,2026-12-01,9567,2817524.73,0,7809,1758,81.62,mixed,583
+Entire home/apt,la Dreta de l'Eixample,2027-01-01,13334,4097904.95,0,11245,2089,84.33,mixed,636
+Entire home/apt,la Dreta de l'Eixample,2027-02-01,13403,4130617.63,0,11323,2080,84.48,mixed,647
+Entire home/apt,la Dreta de l'Eixample,2027-03-01,15745,4853964.48,0,13470,2275,85.55,mixed,777
+Entire home/apt,la Dreta de l'Eixample,2027-04-01,18259,5776376.52,0,15947,2312,87.34,mixed,690
+Entire home/apt,la Dreta de l'Eixample,2027-05-01,20521,6387287.57,0,18099,2422,88.2,mixed,810
+Entire home/apt,la Dreta de l'Eixample,2027-06-01,19661,5791806.9,0,17311,2350,88.05,mixed,932
+Entire home/apt,la Dreta de l'Eixample,2027-07-01,132,8084.55,0,37,95,28.03,mixed,73
+Entire home/apt,la Font d'en Fargues,2026-06-01,14,9912.34,0,14,0,100.0,listing_price_fallback,4
+Entire home/apt,la Font d'en Fargues,2026-07-01,112,67041.31,0,83,29,74.11,mixed,5
+Entire home/apt,la Font d'en Fargues,2026-08-01,88,38582.71,0,62,26,70.45,mixed,5
+Entire home/apt,la Font d'en Fargues,2026-09-01,101,67131.43,0,71,30,70.3,mixed,4
+Entire home/apt,la Font d'en Fargues,2026-10-01,53,31005.26,0,22,31,41.51,mixed,3
+Entire home/apt,la Font d'en Fargues,2026-11-01,32,2818.66,0,2,30,6.25,mixed,3
+Entire home/apt,la Font d'en Fargues,2026-12-01,31,,0,0,31,0.0,unpriced,1
+Entire home/apt,la Font d'en Fargues,2027-01-01,31,,0,0,31,0.0,unpriced,1
+Entire home/apt,la Font d'en Fargues,2027-02-01,28,,0,0,28,0.0,unpriced,1
+Entire home/apt,la Font d'en Fargues,2027-03-01,31,,0,0,31,0.0,unpriced,1
+Entire home/apt,la Font d'en Fargues,2027-04-01,30,,0,0,30,0.0,unpriced,1
+Entire home/apt,la Font d'en Fargues,2027-05-01,31,,0,0,31,0.0,unpriced,1
+Entire home/apt,la Font d'en Fargues,2027-06-01,49,23365.28,0,19,30,38.78,mixed,4
+Entire home/apt,la Font d'en Fargues,2027-07-01,2,,0,0,2,0.0,unpriced,1
+Entire home/apt,la Font de la Guatlla,2026-06-01,164,39110.85,0,164,0,100.0,listing_price_fallback,36
+Entire home/apt,la Font de la Guatlla,2026-07-01,731,158585.03,0,673,58,92.07,mixed,36
+Entire home/apt,la Font de la Guatlla,2026-08-01,518,105423.51,0,456,62,88.03,mixed,32
+Entire home/apt,la Font de la Guatlla,2026-09-01,352,68195.29,0,292,60,82.95,mixed,25
+Entire home/apt,la Font de la Guatlla,2026-10-01,357,71501.38,0,295,62,82.63,mixed,18
+Entire home/apt,la Font de la Guatlla,2026-11-01,247,42268.61,0,187,60,75.71,mixed,13
+Entire home/apt,la Font de la Guatlla,2026-12-01,242,41207.58,0,180,62,74.38,mixed,16
+Entire home/apt,la Font de la Guatlla,2027-01-01,406,80144.15,0,344,62,84.73,mixed,24
+Entire home/apt,la Font de la Guatlla,2027-02-01,424,89395.63,0,368,56,86.79,mixed,23
+Entire home/apt,la Font de la Guatlla,2027-03-01,532,115482.69,0,470,62,88.35,mixed,25
+Entire home/apt,la Font de la Guatlla,2027-04-01,599,133948.64,0,539,60,89.98,mixed,21
+Entire home/apt,la Font de la Guatlla,2027-05-01,584,125035.24,0,522,62,89.38,mixed,23
+Entire home/apt,la Font de la Guatlla,2027-06-01,557,126351.95,0,497,60,89.23,mixed,28
+Entire home/apt,la Font de la Guatlla,2027-07-01,4,,0,0,4,0.0,unpriced,2
+Entire home/apt,la Guineueta,2026-06-01,25,2371.43,0,25,0,100.0,listing_price_fallback,5
+Entire home/apt,la Guineueta,2026-07-01,89,8281.38,0,89,0,100.0,listing_price_fallback,4
+Entire home/apt,la Guineueta,2026-08-01,85,7908.02,0,85,0,100.0,listing_price_fallback,3
+Entire home/apt,la Guineueta,2026-09-01,79,7255.43,0,79,0,100.0,listing_price_fallback,3
+Entire home/apt,la Guineueta,2026-10-01,34,2537.12,0,34,0,100.0,listing_price_fallback,2
+Entire home/apt,la Guineueta,2026-11-01,30,2076.9,0,30,0,100.0,listing_price_fallback,1
+Entire home/apt,la Guineueta,2026-12-01,31,2146.13,0,31,0,100.0,listing_price_fallback,1
+Entire home/apt,la Marina de Port,2026-06-01,51,9120.81,0,51,0,100.0,listing_price_fallback,12
+Entire home/apt,la Marina de Port,2026-07-01,93,17799.12,0,93,0,100.0,listing_price_fallback,6
+Entire home/apt,la Marina de Port,2026-08-01,40,10496.4,0,40,0,100.0,listing_price_fallback,4
+Entire home/apt,la Marina de Port,2026-09-01,59,5844.47,0,59,0,100.0,listing_price_fallback,2
+Entire home/apt,la Marina de Port,2026-10-01,51,4993.33,0,51,0,100.0,listing_price_fallback,2
+Entire home/apt,la Marina de Port,2026-11-01,60,8355.9,0,60,0,100.0,listing_price_fallback,2
+Entire home/apt,la Marina de Port,2026-12-01,72,9166.93,0,72,0,100.0,listing_price_fallback,3
+Entire home/apt,la Marina de Port,2027-01-01,84,9438.91,0,84,0,100.0,listing_price_fallback,3
+Entire home/apt,la Marina de Port,2027-02-01,56,6657.0,0,56,0,100.0,listing_price_fallback,2
+Entire home/apt,la Marina de Port,2027-03-01,83,10119.01,0,83,0,100.0,listing_price_fallback,4
+Entire home/apt,la Marina de Port,2027-04-01,120,15177.3,0,120,0,100.0,listing_price_fallback,4
+Entire home/apt,la Marina de Port,2027-05-01,124,15683.21,0,124,0,100.0,listing_price_fallback,4
+Entire home/apt,la Marina de Port,2027-06-01,94,11873.68,0,94,0,100.0,listing_price_fallback,4
+Entire home/apt,la Marina del Prat Vermell,2026-06-01,12,5146.02,0,12,0,100.0,listing_price_fallback,2
+Entire home/apt,la Marina del Prat Vermell,2026-07-01,48,22592.34,0,48,0,100.0,listing_price_fallback,2
+Entire home/apt,la Marina del Prat Vermell,2026-08-01,48,21030.36,0,48,0,100.0,listing_price_fallback,2
+Entire home/apt,la Marina del Prat Vermell,2026-09-01,34,14766.34,0,34,0,100.0,listing_price_fallback,2
+Entire home/apt,la Marina del Prat Vermell,2026-10-01,3,1677.0,0,3,0,100.0,listing_price_fallback,1
+Entire home/apt,la Marina del Prat Vermell,2027-01-01,4,1343.44,0,4,0,100.0,listing_price_fallback,1
+Entire home/apt,la Marina del Prat Vermell,2027-04-01,1,335.86,0,1,0,100.0,listing_price_fallback,1
+Entire home/apt,la Marina del Prat Vermell,2027-05-01,27,14423.58,0,27,0,100.0,listing_price_fallback,2
+Entire home/apt,la Marina del Prat Vermell,2027-06-01,24,13416.0,0,24,0,100.0,listing_price_fallback,1
+Entire home/apt,la Maternitat i Sant Ramon,2026-06-01,219,56151.95,0,213,6,97.26,mixed,39
+Entire home/apt,la Maternitat i Sant Ramon,2026-07-01,795,185678.55,0,720,75,90.57,mixed,39
+Entire home/apt,la Maternitat i Sant Ramon,2026-08-01,546,125824.23,0,476,70,87.18,mixed,32
+Entire home/apt,la Maternitat i Sant Ramon,2026-09-01,459,91105.17,0,387,72,84.31,mixed,31
+Entire home/apt,la Maternitat i Sant Ramon,2026-10-01,589,214520.7,0,527,62,89.47,mixed,28
+Entire home/apt,la Maternitat i Sant Ramon,2026-11-01,395,171601.72,0,365,30,92.41,mixed,22
+Entire home/apt,la Maternitat i Sant Ramon,2026-12-01,413,172363.39,0,367,46,88.86,mixed,21
+Entire home/apt,la Maternitat i Sant Ramon,2027-01-01,502,194460.96,0,441,61,87.85,mixed,21
+Entire home/apt,la Maternitat i Sant Ramon,2027-02-01,424,167601.04,0,368,56,86.79,mixed,16
+Entire home/apt,la Maternitat i Sant Ramon,2027-03-01,534,192978.16,0,462,72,86.52,mixed,22
+Entire home/apt,la Maternitat i Sant Ramon,2027-04-01,669,207614.7,0,579,90,86.55,mixed,24
+Entire home/apt,la Maternitat i Sant Ramon,2027-05-01,886,295467.51,0,793,93,89.5,mixed,30
+Entire home/apt,la Maternitat i Sant Ramon,2027-06-01,690,227409.1,0,606,84,87.83,mixed,31
+Entire home/apt,la Maternitat i Sant Ramon,2027-07-01,4,,0,0,4,0.0,unpriced,2
+Entire home/apt,la Nova Esquerra de l'Eixample,2026-06-01,1835,436216.41,0,1807,28,98.47,mixed,367
+Entire home/apt,la Nova Esquerra de l'Eixample,2026-07-01,7988,1961955.53,0,7549,439,94.5,mixed,380
+Entire home/apt,la Nova Esquerra de l'Eixample,2026-08-01,5082,1299175.34,0,4679,403,92.07,mixed,303
+Entire home/apt,la Nova Esquerra de l'Eixample,2026-09-01,3653,814549.28,0,3263,390,89.32,mixed,247
+Entire home/apt,la Nova Esquerra de l'Eixample,2026-10-01,3428,775294.96,0,3033,395,88.48,mixed,199
+Entire home/apt,la Nova Esquerra de l'Eixample,2026-11-01,2412,512042.25,0,2096,316,86.9,mixed,127
+Entire home/apt,la Nova Esquerra de l'Eixample,2026-12-01,2489,457110.09,0,2175,314,87.38,mixed,131
+Entire home/apt,la Nova Esquerra de l'Eixample,2027-01-01,3928,868150.11,0,3627,301,92.34,mixed,155
+Entire home/apt,la Nova Esquerra de l'Eixample,2027-02-01,3728,866371.42,0,3445,283,92.41,mixed,159
+Entire home/apt,la Nova Esquerra de l'Eixample,2027-03-01,4578,1171686.95,0,4265,313,93.16,mixed,257
+Entire home/apt,la Nova Esquerra de l'Eixample,2027-04-01,6943,1950861.69,0,6641,302,95.65,mixed,239
+Entire home/apt,la Nova Esquerra de l'Eixample,2027-05-01,7311,2049743.39,0,6988,323,95.58,mixed,266
+Entire home/apt,la Nova Esquerra de l'Eixample,2027-06-01,6146,1633313.09,0,5818,328,94.66,mixed,282
+Entire home/apt,la Nova Esquerra de l'Eixample,2027-07-01,32,3752.62,0,16,16,50.0,mixed,19
+Entire home/apt,la Prosperitat,2026-06-01,1,91.29,0,1,0,100.0,listing_price_fallback,1
+Entire home/apt,la Prosperitat,2026-07-01,59,2421.0,0,30,29,50.85,mixed,2
+Entire home/apt,la Prosperitat,2026-08-01,62,2501.7,0,31,31,50.0,mixed,2
+Entire home/apt,la Prosperitat,2026-09-01,64,3486.3,0,34,30,53.13,mixed,3
+Entire home/apt,la Prosperitat,2026-10-01,62,3268.95,0,31,31,50.0,mixed,2
+Entire home/apt,la Prosperitat,2026-11-01,60,3163.5,0,30,30,50.0,mixed,2
+Entire home/apt,la Prosperitat,2026-12-01,62,3268.95,0,31,31,50.0,mixed,2
+Entire home/apt,la Prosperitat,2027-01-01,93,5770.65,0,62,31,66.67,mixed,3
+Entire home/apt,la Prosperitat,2027-02-01,84,5212.2,0,56,28,66.67,mixed,3
+Entire home/apt,la Prosperitat,2027-03-01,93,5770.65,0,62,31,66.67,mixed,3
+Entire home/apt,la Prosperitat,2027-04-01,90,5584.5,0,60,30,66.67,mixed,3
+Entire home/apt,la Prosperitat,2027-05-01,93,5770.65,0,62,31,66.67,mixed,3
+Entire home/apt,la Prosperitat,2027-06-01,84,4951.8,0,54,30,64.29,mixed,3
+Entire home/apt,la Prosperitat,2027-07-01,3,80.7,0,1,2,33.33,mixed,2
+Entire home/apt,la Sagrada Família,2026-06-01,3111,876122.18,0,3059,52,98.33,mixed,604
+Entire home/apt,la Sagrada Família,2026-07-01,14134,3684442.77,0,13019,1115,92.11,mixed,642
+Entire home/apt,la Sagrada Família,2026-08-01,9609,2470803.25,0,8558,1051,89.06,mixed,547
+Entire home/apt,la Sagrada Família,2026-09-01,7498,1764799.77,0,6435,1063,85.82,mixed,452
+Entire home/apt,la Sagrada Família,2026-10-01,6212,1441158.88,0,5257,955,84.63,mixed,372
+Entire home/apt,la Sagrada Família,2026-11-01,4846,1032962.13,0,3792,1054,78.25,mixed,283
+Entire home/apt,la Sagrada Família,2026-12-01,5387,1260195.46,0,4285,1102,79.54,mixed,281
+Entire home/apt,la Sagrada Família,2027-01-01,6711,1660379.74,0,5614,1097,83.65,mixed,301
+Entire home/apt,la Sagrada Família,2027-02-01,6582,1604445.12,0,5619,963,85.37,mixed,291
+Entire home/apt,la Sagrada Família,2027-03-01,7532,1843274.18,0,6464,1068,85.82,mixed,334
+Entire home/apt,la Sagrada Família,2027-04-01,8835,2358826.07,0,7771,1064,87.96,mixed,323
+Entire home/apt,la Sagrada Família,2027-05-01,9717,2709211.61,0,8631,1086,88.82,mixed,350
+Entire home/apt,la Sagrada Família,2027-06-01,8281,2249030.64,0,7308,973,88.25,mixed,404
+Entire home/apt,la Sagrada Família,2027-07-01,63,2766.18,0,16,47,25.4,mixed,37
+Entire home/apt,la Sagrera,2026-06-01,135,18327.84,0,135,0,100.0,listing_price_fallback,23
+Entire home/apt,la Sagrera,2026-07-01,571,72912.83,0,512,59,89.67,mixed,25
+Entire home/apt,la Sagrera,2026-08-01,357,43704.62,0,295,62,82.63,mixed,16
+Entire home/apt,la Sagrera,2026-09-01,239,33247.52,0,179,60,74.9,mixed,14
+Entire home/apt,la Sagrera,2026-10-01,247,38109.01,0,185,62,74.9,mixed,12
+Entire home/apt,la Sagrera,2026-11-01,139,16935.31,0,79,60,56.83,mixed,7
+Entire home/apt,la Sagrera,2026-12-01,119,11676.1,0,57,62,47.9,mixed,8
+Entire home/apt,la Sagrera,2027-01-01,300,41561.11,0,238,62,79.33,mixed,10
+Entire home/apt,la Sagrera,2027-02-01,280,38388.28,0,224,56,80.0,mixed,10
+Entire home/apt,la Sagrera,2027-03-01,340,46744.11,0,278,62,81.76,mixed,13
+Entire home/apt,la Sagrera,2027-04-01,390,53858.7,0,330,60,84.62,mixed,13
+Entire home/apt,la Sagrera,2027-05-01,403,55653.99,0,341,62,84.62,mixed,13
+Entire home/apt,la Sagrera,2027-06-01,306,38131.96,0,246,60,80.39,mixed,14
+Entire home/apt,la Sagrera,2027-07-01,3,,0,0,3,0.0,unpriced,2
+Entire home/apt,la Salut,2026-06-01,273,46334.05,0,267,6,97.8,mixed,48
+Entire home/apt,la Salut,2026-07-01,1246,173334.82,0,1101,145,88.36,mixed,55
+Entire home/apt,la Salut,2026-08-01,874,114336.28,0,729,145,83.41,mixed,39
+Entire home/apt,la Salut,2026-09-01,664,72725.42,0,514,150,77.41,mixed,32
+Entire home/apt,la Salut,2026-10-01,569,64966.75,0,414,155,72.76,mixed,26
+Entire home/apt,la Salut,2026-11-01,377,30399.72,0,227,150,60.21,mixed,19
+Entire home/apt,la Salut,2026-12-01,334,24002.7,0,187,147,55.99,mixed,16
+Entire home/apt,la Salut,2027-01-01,685,76151.06,0,561,124,81.9,mixed,26
+Entire home/apt,la Salut,2027-02-01,613,68042.61,0,501,112,81.73,mixed,25
+Entire home/apt,la Salut,2027-03-01,737,88319.62,0,611,126,82.9,mixed,31
+Entire home/apt,la Salut,2027-04-01,780,115434.5,0,630,150,80.77,mixed,28
+Entire home/apt,la Salut,2027-05-01,771,114284.31,0,616,155,79.9,mixed,28
+Entire home/apt,la Salut,2027-06-01,653,93682.89,0,503,150,77.03,mixed,34
+Entire home/apt,la Salut,2027-07-01,12,225.3,0,2,10,16.67,mixed,6
+Entire home/apt,la Teixonera,2026-06-01,31,3049.2,0,31,0,100.0,listing_price_fallback,5
+Entire home/apt,la Teixonera,2026-07-01,123,13076.7,0,123,0,100.0,listing_price_fallback,5
+Entire home/apt,la Teixonera,2026-08-01,138,14756.3,0,138,0,100.0,listing_price_fallback,5
+Entire home/apt,la Teixonera,2026-09-01,72,8848.15,0,72,0,100.0,listing_price_fallback,5
+Entire home/apt,la Teixonera,2026-10-01,21,5208.0,0,21,0,100.0,listing_price_fallback,1
+Entire home/apt,la Teixonera,2026-11-01,6,1488.0,0,6,0,100.0,listing_price_fallback,1
+Entire home/apt,la Teixonera,2026-12-01,4,992.0,0,4,0,100.0,listing_price_fallback,1
+Entire home/apt,la Teixonera,2027-01-01,15,3720.0,0,15,0,100.0,listing_price_fallback,1
+Entire home/apt,la Teixonera,2027-02-01,2,496.0,0,2,0,100.0,listing_price_fallback,1
+Entire home/apt,la Teixonera,2027-03-01,18,2524.5,0,18,0,100.0,listing_price_fallback,2
+Entire home/apt,la Teixonera,2027-04-01,35,2861.5,0,35,0,100.0,listing_price_fallback,2
+Entire home/apt,la Teixonera,2027-05-01,42,4403.55,0,42,0,100.0,listing_price_fallback,2
+Entire home/apt,la Teixonera,2027-06-01,31,3033.2,0,31,0,100.0,listing_price_fallback,2
+Entire home/apt,la Vall d'Hebron,2026-06-01,12,1989.36,0,12,0,100.0,listing_price_fallback,2
+Entire home/apt,la Vall d'Hebron,2026-07-01,44,8249.4,0,44,0,100.0,listing_price_fallback,2
+Entire home/apt,la Vall d'Hebron,2026-08-01,23,5382.0,0,23,0,100.0,listing_price_fallback,1
+Entire home/apt,la Vall d'Hebron,2026-09-01,20,4680.0,0,20,0,100.0,listing_price_fallback,1
+Entire home/apt,la Vall d'Hebron,2026-10-01,16,3744.0,0,16,0,100.0,listing_price_fallback,1
+Entire home/apt,la Vall d'Hebron,2027-01-01,15,3510.0,0,15,0,100.0,listing_price_fallback,1
+Entire home/apt,la Vall d'Hebron,2027-02-01,28,6552.0,0,28,0,100.0,listing_price_fallback,1
+Entire home/apt,la Vall d'Hebron,2027-03-01,31,7254.0,0,31,0,100.0,listing_price_fallback,1
+Entire home/apt,la Vall d'Hebron,2027-04-01,9,2106.0,0,9,0,100.0,listing_price_fallback,1
+Entire home/apt,la Vall d'Hebron,2027-05-01,3,702.0,0,3,0,100.0,listing_price_fallback,1
+Entire home/apt,la Verneda i la Pau,2026-06-01,36,5941.04,0,36,0,100.0,listing_price_fallback,7
+Entire home/apt,la Verneda i la Pau,2026-07-01,84,14946.16,0,84,0,100.0,listing_price_fallback,6
+Entire home/apt,la Verneda i la Pau,2026-08-01,91,13024.04,0,91,0,100.0,listing_price_fallback,4
+Entire home/apt,la Verneda i la Pau,2026-09-01,88,11614.44,0,88,0,100.0,listing_price_fallback,5
+Entire home/apt,la Verneda i la Pau,2026-10-01,116,17010.34,0,116,0,100.0,listing_price_fallback,5
+Entire home/apt,la Verneda i la Pau,2026-11-01,111,16285.2,0,111,0,100.0,listing_price_fallback,4
+Entire home/apt,la Verneda i la Pau,2026-12-01,141,19921.65,0,141,0,100.0,listing_price_fallback,6
+Entire home/apt,la Verneda i la Pau,2027-01-01,205,31718.85,0,205,0,100.0,listing_price_fallback,7
+Entire home/apt,la Verneda i la Pau,2027-02-01,196,30959.88,0,196,0,100.0,listing_price_fallback,7
+Entire home/apt,la Verneda i la Pau,2027-03-01,217,34277.01,0,217,0,100.0,listing_price_fallback,7
+Entire home/apt,la Verneda i la Pau,2027-04-01,210,33171.3,0,210,0,100.0,listing_price_fallback,7
+Entire home/apt,la Verneda i la Pau,2027-05-01,217,34277.01,0,217,0,100.0,listing_price_fallback,7
+Entire home/apt,la Verneda i la Pau,2027-06-01,181,28753.68,0,181,0,100.0,listing_price_fallback,10
+Entire home/apt,la Vila de Gràcia,2026-06-01,3203,755465.1,0,3151,52,98.38,mixed,628
+Entire home/apt,la Vila de Gràcia,2026-07-01,14242,3012963.31,0,13075,1167,91.81,mixed,656
+Entire home/apt,la Vila de Gràcia,2026-08-01,10024,1997237.78,0,8877,1147,88.56,mixed,545
+Entire home/apt,la Vila de Gràcia,2026-09-01,8347,1546097.47,0,7212,1135,86.4,mixed,466
+Entire home/apt,la Vila de Gràcia,2026-10-01,7251,1278823.14,0,6084,1167,83.91,mixed,383
+Entire home/apt,la Vila de Gràcia,2026-11-01,4798,688501.95,0,3719,1079,77.51,mixed,247
+Entire home/apt,la Vila de Gràcia,2026-12-01,4953,792226.19,0,3881,1072,78.36,mixed,269
+Entire home/apt,la Vila de Gràcia,2027-01-01,7166,1433214.11,0,5993,1173,83.63,mixed,295
+Entire home/apt,la Vila de Gràcia,2027-02-01,6945,1441907.22,0,5949,996,85.66,mixed,304
+Entire home/apt,la Vila de Gràcia,2027-03-01,8177,1728996.99,0,7056,1121,86.29,mixed,347
+Entire home/apt,la Vila de Gràcia,2027-04-01,8802,1916902.5,0,7698,1104,87.46,mixed,317
+Entire home/apt,la Vila de Gràcia,2027-05-01,9676,2078515.14,0,8559,1117,88.46,mixed,372
+Entire home/apt,la Vila de Gràcia,2027-06-01,8923,1838089.17,0,7842,1081,87.89,mixed,434
+Entire home/apt,la Vila de Gràcia,2027-07-01,74,1232.48,0,13,61,17.57,mixed,39
+Entire home/apt,la Vila Olímpica del Poblenou,2026-06-01,564,159175.52,0,552,12,97.87,mixed,101
+Entire home/apt,la Vila Olímpica del Poblenou,2026-07-01,2353,628907.47,0,2163,190,91.93,mixed,111
+Entire home/apt,la Vila Olímpica del Poblenou,2026-08-01,1683,439999.49,0,1525,158,90.61,mixed,89
+Entire home/apt,la Vila Olímpica del Poblenou,2026-09-01,873,212302.39,0,724,149,82.93,mixed,64
+Entire home/apt,la Vila Olímpica del Poblenou,2026-10-01,812,228058.55,0,688,124,84.73,mixed,47
+Entire home/apt,la Vila Olímpica del Poblenou,2026-11-01,640,181269.69,0,520,120,81.25,mixed,40
+Entire home/apt,la Vila Olímpica del Poblenou,2026-12-01,706,204659.6,0,582,124,82.44,mixed,33
+Entire home/apt,la Vila Olímpica del Poblenou,2027-01-01,981,272233.63,0,826,155,84.2,mixed,37
+Entire home/apt,la Vila Olímpica del Poblenou,2027-02-01,1057,323183.19,0,917,140,86.75,mixed,42
+Entire home/apt,la Vila Olímpica del Poblenou,2027-03-01,1256,406450.93,0,1101,155,87.66,mixed,52
+Entire home/apt,la Vila Olímpica del Poblenou,2027-04-01,1512,489625.5,0,1362,150,90.08,mixed,54
+Entire home/apt,la Vila Olímpica del Poblenou,2027-05-01,1613,514739.42,0,1433,180,88.84,mixed,56
+Entire home/apt,la Vila Olímpica del Poblenou,2027-06-01,1322,410651.7,0,1149,173,86.91,mixed,67
+Entire home/apt,la Vila Olímpica del Poblenou,2027-07-01,11,647.34,0,2,9,18.18,mixed,6
+Entire home/apt,les Corts,2026-06-01,862,154763.02,0,778,84,90.26,mixed,159
+Entire home/apt,les Corts,2026-07-01,3428,558679.23,0,2916,512,85.06,mixed,164
+Entire home/apt,les Corts,2026-08-01,1978,342305.67,0,1689,289,85.39,mixed,118
+Entire home/apt,les Corts,2026-09-01,2179,332884.77,0,1691,488,77.6,mixed,108
+Entire home/apt,les Corts,2026-10-01,2086,308116.01,0,1548,538,74.21,mixed,95
+Entire home/apt,les Corts,2026-11-01,1716,235706.87,0,1200,516,69.93,mixed,77
+Entire home/apt,les Corts,2026-12-01,1801,261997.66,0,1253,548,69.57,mixed,82
+Entire home/apt,les Corts,2027-01-01,2845,437595.01,0,2225,620,78.21,mixed,98
+Entire home/apt,les Corts,2027-02-01,2547,391798.35,0,1987,560,78.01,mixed,97
+Entire home/apt,les Corts,2027-03-01,2865,454913.04,0,2245,620,78.36,mixed,104
+Entire home/apt,les Corts,2027-04-01,2913,464292.81,0,2313,600,79.4,mixed,100
+Entire home/apt,les Corts,2027-05-01,3207,517610.39,0,2593,614,80.85,mixed,116
+Entire home/apt,les Corts,2027-06-01,2754,453316.74,0,2266,488,82.28,mixed,123
+Entire home/apt,les Corts,2027-07-01,13,195.26,0,4,9,30.77,mixed,8
+Entire home/apt,les Roquetes,2026-06-01,11,1015.12,0,11,0,100.0,listing_price_fallback,2
+Entire home/apt,les Roquetes,2026-07-01,53,5422.74,0,53,0,100.0,listing_price_fallback,3
+Entire home/apt,les Roquetes,2026-08-01,27,2565.0,0,27,0,100.0,listing_price_fallback,1
+Entire home/apt,les Roquetes,2026-09-01,51,12155.1,0,51,0,100.0,listing_price_fallback,2
+Entire home/apt,les Roquetes,2026-10-01,42,11543.77,0,42,0,100.0,listing_price_fallback,2
+Entire home/apt,les Roquetes,2026-11-01,30,10160.1,0,30,0,100.0,listing_price_fallback,1
+Entire home/apt,les Roquetes,2026-12-01,31,10498.77,0,31,0,100.0,listing_price_fallback,1
+Entire home/apt,les Roquetes,2027-01-01,31,10498.77,0,31,0,100.0,listing_price_fallback,1
+Entire home/apt,les Roquetes,2027-02-01,28,9482.76,0,28,0,100.0,listing_price_fallback,1
+Entire home/apt,les Roquetes,2027-03-01,44,13012.77,0,44,0,100.0,listing_price_fallback,3
+Entire home/apt,les Roquetes,2027-04-01,60,16847.1,0,60,0,100.0,listing_price_fallback,2
+Entire home/apt,les Roquetes,2027-05-01,62,17408.67,0,62,0,100.0,listing_price_fallback,2
+Entire home/apt,les Roquetes,2027-06-01,60,14592.78,0,60,0,100.0,listing_price_fallback,4
+Entire home/apt,les Tres Torres,2026-06-01,161,31418.21,0,161,0,100.0,listing_price_fallback,31
+Entire home/apt,les Tres Torres,2026-07-01,715,131801.46,0,686,29,95.94,mixed,32
+Entire home/apt,les Tres Torres,2026-08-01,450,86516.53,0,419,31,93.11,mixed,26
+Entire home/apt,les Tres Torres,2026-09-01,425,77913.25,0,396,29,93.18,mixed,23
+Entire home/apt,les Tres Torres,2026-10-01,473,83280.31,0,442,31,93.45,mixed,20
+Entire home/apt,les Tres Torres,2026-11-01,395,59865.13,0,365,30,92.41,mixed,14
+Entire home/apt,les Tres Torres,2026-12-01,368,56229.54,0,337,31,91.58,mixed,14
+Entire home/apt,les Tres Torres,2027-01-01,383,60300.29,0,352,31,91.91,mixed,13
+Entire home/apt,les Tres Torres,2027-02-01,308,53889.92,0,280,28,90.91,mixed,11
+Entire home/apt,les Tres Torres,2027-03-01,311,51850.81,0,280,31,90.03,mixed,11
+Entire home/apt,les Tres Torres,2027-04-01,330,51867.3,0,300,30,90.91,mixed,11
+Entire home/apt,les Tres Torres,2027-05-01,374,59087.52,0,343,31,91.71,mixed,14
+Entire home/apt,les Tres Torres,2027-06-01,381,59523.79,0,351,30,92.13,mixed,19
+Entire home/apt,les Tres Torres,2027-07-01,4,384.0,0,2,2,50.0,mixed,2
+Entire home/apt,Montbau,2026-06-01,6,422.88,0,6,0,100.0,listing_price_fallback,1
+Entire home/apt,Montbau,2026-07-01,51,1550.56,0,22,29,43.14,mixed,2
+Entire home/apt,Montbau,2026-08-01,62,2184.88,0,31,31,50.0,mixed,2
+Entire home/apt,Montbau,2026-09-01,32,140.96,0,2,30,6.25,mixed,2
+Entire home/apt,Montbau,2026-10-01,31,,0,0,31,0.0,unpriced,1
+Entire home/apt,Montbau,2026-11-01,30,,0,0,30,0.0,unpriced,1
+Entire home/apt,Montbau,2026-12-01,31,,0,0,31,0.0,unpriced,1
+Entire home/apt,Montbau,2027-01-01,31,,0,0,31,0.0,unpriced,1
+Entire home/apt,Montbau,2027-02-01,28,,0,0,28,0.0,unpriced,1
+Entire home/apt,Montbau,2027-03-01,31,,0,0,31,0.0,unpriced,1
+Entire home/apt,Montbau,2027-04-01,30,,0,0,30,0.0,unpriced,1
+Entire home/apt,Montbau,2027-05-01,31,,0,0,31,0.0,unpriced,1
+Entire home/apt,Montbau,2027-06-01,30,,0,0,30,0.0,unpriced,1
+Entire home/apt,Montbau,2027-07-01,2,,0,0,2,0.0,unpriced,1
+Entire home/apt,Navas,2026-06-01,77,12505.68,0,77,0,100.0,listing_price_fallback,16
+Entire home/apt,Navas,2026-07-01,562,56975.23,0,385,177,68.51,mixed,26
+Entire home/apt,Navas,2026-08-01,485,44165.97,0,299,186,61.65,mixed,18
+Entire home/apt,Navas,2026-09-01,336,22741.4,0,156,180,46.43,mixed,16
+Entire home/apt,Navas,2026-10-01,275,16104.78,0,89,186,32.36,mixed,11
+Entire home/apt,Navas,2026-11-01,245,11889.49,0,65,180,26.53,mixed,9
+Entire home/apt,Navas,2026-12-01,236,12359.67,0,50,186,21.19,mixed,11
+Entire home/apt,Navas,2027-01-01,276,24680.12,0,90,186,32.61,mixed,10
+Entire home/apt,Navas,2027-02-01,246,21410.34,0,78,168,31.71,mixed,10
+Entire home/apt,Navas,2027-03-01,299,25931.67,0,113,186,37.79,mixed,13
+Entire home/apt,Navas,2027-04-01,304,23259.92,0,124,180,40.79,mixed,11
+Entire home/apt,Navas,2027-05-01,382,34430.19,0,196,186,51.31,mixed,18
+Entire home/apt,Navas,2027-06-01,429,42113.63,0,249,180,58.04,mixed,18
+Entire home/apt,Navas,2027-07-01,13,426.21,0,3,10,23.08,mixed,8
+Entire home/apt,Pedralbes,2026-06-01,66,20817.53,0,66,0,100.0,listing_price_fallback,12
+Entire home/apt,Pedralbes,2026-07-01,261,83047.58,0,231,30,88.51,mixed,11
+Entire home/apt,Pedralbes,2026-08-01,113,63424.39,0,82,31,72.57,mixed,7
+Entire home/apt,Pedralbes,2026-09-01,151,17820.5,0,121,30,80.13,mixed,6
+Entire home/apt,Pedralbes,2026-10-01,202,29953.02,0,171,31,84.65,mixed,7
+Entire home/apt,Pedralbes,2026-11-01,157,23243.28,0,127,30,80.89,mixed,6
+Entire home/apt,Pedralbes,2026-12-01,131,18867.9,0,100,31,76.34,mixed,5
+Entire home/apt,Pedralbes,2027-01-01,218,76727.88,0,187,31,85.78,mixed,8
+Entire home/apt,Pedralbes,2027-02-01,196,69075.44,0,168,28,85.71,mixed,7
+Entire home/apt,Pedralbes,2027-03-01,227,77416.68,0,196,31,86.34,mixed,8
+Entire home/apt,Pedralbes,2027-04-01,240,76830.3,0,210,30,87.5,mixed,8
+Entire home/apt,Pedralbes,2027-05-01,261,82847.92,0,230,31,88.12,mixed,10
+Entire home/apt,Pedralbes,2027-06-01,220,65783.19,0,190,30,86.36,mixed,9
+Entire home/apt,Pedralbes,2027-07-01,1,,0,0,1,0.0,unpriced,1
+Entire home/apt,Porta,2026-06-01,38,6057.94,0,38,0,100.0,listing_price_fallback,7
+Entire home/apt,Porta,2026-07-01,136,16498.17,0,136,0,100.0,listing_price_fallback,5
+Entire home/apt,Porta,2026-08-01,134,16255.88,0,134,0,100.0,listing_price_fallback,6
+Entire home/apt,Porta,2026-09-01,105,9908.6,0,105,0,100.0,listing_price_fallback,5
+Entire home/apt,Porta,2026-10-01,93,6380.42,0,93,0,100.0,listing_price_fallback,3
+Entire home/apt,Porta,2026-11-01,90,6174.6,0,90,0,100.0,listing_price_fallback,3
+Entire home/apt,Porta,2026-12-01,83,5763.62,0,83,0,100.0,listing_price_fallback,3
+Entire home/apt,Porta,2027-01-01,124,19356.09,0,124,0,100.0,listing_price_fallback,4
+Entire home/apt,Porta,2027-02-01,89,15539.88,0,89,0,100.0,listing_price_fallback,4
+Entire home/apt,Porta,2027-03-01,103,17512.21,0,103,0,100.0,listing_price_fallback,4
+Entire home/apt,Porta,2027-04-01,120,18522.3,0,120,0,100.0,listing_price_fallback,4
+Entire home/apt,Porta,2027-05-01,93,17290.25,0,93,0,100.0,listing_price_fallback,3
+Entire home/apt,Porta,2027-06-01,72,13386.0,0,72,0,100.0,listing_price_fallback,3
+Entire home/apt,Provençals del Poblenou,2026-06-01,242,51922.24,0,242,0,100.0,listing_price_fallback,45
+Entire home/apt,Provençals del Poblenou,2026-07-01,1177,215611.88,0,1031,146,87.6,mixed,53
+Entire home/apt,Provençals del Poblenou,2026-08-01,741,136265.51,0,591,150,79.76,mixed,37
+Entire home/apt,Provençals del Poblenou,2026-09-01,751,128993.48,0,601,150,80.03,mixed,36
+Entire home/apt,Provençals del Poblenou,2026-10-01,684,106373.43,0,529,155,77.34,mixed,30
+Entire home/apt,Provençals del Poblenou,2026-11-01,498,66874.13,0,378,120,75.9,mixed,23
+Entire home/apt,Provençals del Poblenou,2026-12-01,605,80727.88,0,450,155,74.38,mixed,26
+Entire home/apt,Provençals del Poblenou,2027-01-01,603,82152.22,0,448,155,74.3,mixed,23
+Entire home/apt,Provençals del Poblenou,2027-02-01,587,88850.86,0,447,140,76.15,mixed,23
+Entire home/apt,Provençals del Poblenou,2027-03-01,736,112312.04,0,581,155,78.94,mixed,32
+Entire home/apt,Provençals del Poblenou,2027-04-01,878,139275.44,0,728,150,82.92,mixed,31
+Entire home/apt,Provençals del Poblenou,2027-05-01,930,150642.26,0,775,155,83.33,mixed,34
+Entire home/apt,Provençals del Poblenou,2027-06-01,778,125644.04,0,628,150,80.72,mixed,38
+Entire home/apt,Provençals del Poblenou,2027-07-01,11,347.02,0,2,9,18.18,mixed,6
+Entire home/apt,Sant Andreu,2026-06-01,119,17684.54,0,119,0,100.0,listing_price_fallback,30
+Entire home/apt,Sant Andreu,2026-07-01,585,69609.15,0,527,58,90.09,mixed,31
+Entire home/apt,Sant Andreu,2026-08-01,449,59486.88,0,387,62,86.19,mixed,24
+Entire home/apt,Sant Andreu,2026-09-01,302,34509.75,0,242,60,80.13,mixed,17
+Entire home/apt,Sant Andreu,2026-10-01,291,29020.56,0,229,62,78.69,mixed,18
+Entire home/apt,Sant Andreu,2026-11-01,214,16578.57,0,154,60,71.96,mixed,11
+Entire home/apt,Sant Andreu,2026-12-01,200,15435.04,0,138,62,69.0,mixed,11
+Entire home/apt,Sant Andreu,2027-01-01,287,43864.71,0,239,48,83.28,mixed,13
+Entire home/apt,Sant Andreu,2027-02-01,266,39638.52,0,210,56,78.95,mixed,11
+Entire home/apt,Sant Andreu,2027-03-01,316,59015.1,0,254,62,80.38,mixed,15
+Entire home/apt,Sant Andreu,2027-04-01,312,76820.89,0,252,60,80.77,mixed,12
+Entire home/apt,Sant Andreu,2027-05-01,328,79842.04,0,266,62,81.1,mixed,12
+Entire home/apt,Sant Andreu,2027-06-01,269,62427.75,0,209,60,77.7,mixed,13
+Entire home/apt,Sant Andreu,2027-07-01,4,,0,0,4,0.0,unpriced,2
+Entire home/apt,Sant Antoni,2026-06-01,2708,693775.62,0,2675,33,98.78,mixed,531
+Entire home/apt,Sant Antoni,2026-07-01,12430,2971182.53,0,11651,779,93.73,mixed,577
+Entire home/apt,Sant Antoni,2026-08-01,8381,2008351.2,0,7650,731,91.28,mixed,466
+Entire home/apt,Sant Antoni,2026-09-01,6319,1353978.75,0,5531,788,87.53,mixed,369
+Entire home/apt,Sant Antoni,2026-10-01,5781,1231605.33,0,4973,808,86.02,mixed,329
+Entire home/apt,Sant Antoni,2026-11-01,3471,622712.62,0,2742,729,79.0,mixed,238
+Entire home/apt,Sant Antoni,2026-12-01,3424,664403.89,0,2633,791,76.9,mixed,207
+Entire home/apt,Sant Antoni,2027-01-01,5439,1245997.95,0,4614,825,84.83,mixed,249
+Entire home/apt,Sant Antoni,2027-02-01,5436,1302821.95,0,4629,807,85.15,mixed,252
+Entire home/apt,Sant Antoni,2027-03-01,6187,1671428.53,0,5288,899,85.47,mixed,323
+Entire home/apt,Sant Antoni,2027-04-01,8461,2607086.4,0,7619,842,90.05,mixed,300
+Entire home/apt,Sant Antoni,2027-05-01,9186,2725996.46,0,8325,861,90.63,mixed,347
+Entire home/apt,Sant Antoni,2027-06-01,8018,2161401.51,0,7182,836,89.57,mixed,367
+Entire home/apt,Sant Antoni,2027-07-01,55,1369.08,0,11,44,20.0,mixed,29
+Entire home/apt,Sant Genís dels Agudells,2026-06-01,16,4998.62,0,16,0,100.0,listing_price_fallback,3
+Entire home/apt,Sant Genís dels Agudells,2026-07-01,88,21003.86,0,88,0,100.0,listing_price_fallback,3
+Entire home/apt,Sant Genís dels Agudells,2026-08-01,62,21355.9,0,62,0,100.0,listing_price_fallback,2
+Entire home/apt,Sant Genís dels Agudells,2026-09-01,65,21514.3,0,65,0,100.0,listing_price_fallback,3
+Entire home/apt,Sant Genís dels Agudells,2026-10-01,62,21859.96,0,62,0,100.0,listing_price_fallback,2
+Entire home/apt,Sant Genís dels Agudells,2026-11-01,60,21154.8,0,60,0,100.0,listing_price_fallback,2
+Entire home/apt,Sant Genís dels Agudells,2026-12-01,27,5024.52,0,27,0,100.0,listing_price_fallback,2
+Entire home/apt,Sant Genís dels Agudells,2027-03-01,10,6170.0,0,10,0,100.0,listing_price_fallback,1
+Entire home/apt,Sant Genís dels Agudells,2027-04-01,30,18510.0,0,30,0,100.0,listing_price_fallback,1
+Entire home/apt,Sant Genís dels Agudells,2027-05-01,31,19127.0,0,31,0,100.0,listing_price_fallback,1
+Entire home/apt,Sant Genís dels Agudells,2027-06-01,23,14191.0,0,23,0,100.0,listing_price_fallback,1
+Entire home/apt,Sant Gervasi - Galvany,2026-06-01,1141,269899.24,0,1130,11,99.04,mixed,210
+Entire home/apt,Sant Gervasi - Galvany,2026-07-01,5234,1116344.29,0,4785,449,91.42,mixed,234
+Entire home/apt,Sant Gervasi - Galvany,2026-08-01,3577,700576.35,0,3105,472,86.8,mixed,195
+Entire home/apt,Sant Gervasi - Galvany,2026-09-01,3073,571752.89,0,2589,484,84.25,mixed,170
+Entire home/apt,Sant Gervasi - Galvany,2026-10-01,2456,422628.66,0,1959,497,79.76,mixed,133
+Entire home/apt,Sant Gervasi - Galvany,2026-11-01,1563,199780.55,0,1060,503,67.82,mixed,87
+Entire home/apt,Sant Gervasi - Galvany,2026-12-01,1413,212417.96,0,912,501,64.54,mixed,85
+Entire home/apt,Sant Gervasi - Galvany,2027-01-01,1854,323683.61,0,1358,496,73.25,mixed,90
+Entire home/apt,Sant Gervasi - Galvany,2027-02-01,1730,303655.1,0,1278,452,73.87,mixed,84
+Entire home/apt,Sant Gervasi - Galvany,2027-03-01,2094,386472.86,0,1598,496,76.31,mixed,95
+Entire home/apt,Sant Gervasi - Galvany,2027-04-01,2220,403148.25,0,1740,480,78.38,mixed,87
+Entire home/apt,Sant Gervasi - Galvany,2027-05-01,3252,605630.78,0,2760,492,84.87,mixed,137
+Entire home/apt,Sant Gervasi - Galvany,2027-06-01,3007,572822.97,0,2646,361,87.99,mixed,147
+Entire home/apt,Sant Gervasi - Galvany,2027-07-01,25,3025.67,0,8,17,32.0,mixed,16
+Entire home/apt,Sant Gervasi - la Bonanova,2026-06-01,285,61169.27,0,281,4,98.6,mixed,51
+Entire home/apt,Sant Gervasi - la Bonanova,2026-07-01,1176,244465.76,0,1155,21,98.21,mixed,50
+Entire home/apt,Sant Gervasi - la Bonanova,2026-08-01,658,138281.19,0,658,0,100.0,listing_price_fallback,39
+Entire home/apt,Sant Gervasi - la Bonanova,2026-09-01,512,98409.58,0,512,0,100.0,listing_price_fallback,30
+Entire home/apt,Sant Gervasi - la Bonanova,2026-10-01,418,84120.51,0,418,0,100.0,listing_price_fallback,22
+Entire home/apt,Sant Gervasi - la Bonanova,2026-11-01,345,62189.65,0,345,0,100.0,listing_price_fallback,16
+Entire home/apt,Sant Gervasi - la Bonanova,2026-12-01,301,57743.08,0,301,0,100.0,listing_price_fallback,15
+Entire home/apt,Sant Gervasi - la Bonanova,2027-01-01,298,58803.02,0,298,0,100.0,listing_price_fallback,13
+Entire home/apt,Sant Gervasi - la Bonanova,2027-02-01,228,50185.42,0,224,4,98.25,mixed,14
+Entire home/apt,Sant Gervasi - la Bonanova,2027-03-01,382,77431.28,0,351,31,91.88,mixed,16
+Entire home/apt,Sant Gervasi - la Bonanova,2027-04-01,410,82277.7,0,380,30,92.68,mixed,14
+Entire home/apt,Sant Gervasi - la Bonanova,2027-05-01,563,102152.17,0,532,31,94.49,mixed,29
+Entire home/apt,Sant Gervasi - la Bonanova,2027-06-01,686,117244.8,0,663,23,96.65,mixed,35
+Entire home/apt,Sant Gervasi - la Bonanova,2027-07-01,2,214.44,0,2,0,100.0,listing_price_fallback,1
+Entire home/apt,Sant Martí de Provençals,2026-06-01,71,14118.5,0,71,0,100.0,listing_price_fallback,13
+Entire home/apt,Sant Martí de Provençals,2026-07-01,367,69488.95,0,367,0,100.0,listing_price_fallback,15
+Entire home/apt,Sant Martí de Provençals,2026-08-01,225,41753.84,0,225,0,100.0,listing_price_fallback,12
+Entire home/apt,Sant Martí de Provençals,2026-09-01,133,28727.33,0,133,0,100.0,listing_price_fallback,10
+Entire home/apt,Sant Martí de Provençals,2026-10-01,104,22740.93,0,104,0,100.0,listing_price_fallback,8
+Entire home/apt,Sant Martí de Provençals,2026-11-01,34,6596.47,0,34,0,100.0,listing_price_fallback,3
+Entire home/apt,Sant Martí de Provençals,2026-12-01,97,22917.4,0,97,0,100.0,listing_price_fallback,7
+Entire home/apt,Sant Martí de Provençals,2027-01-01,158,35057.24,0,158,0,100.0,listing_price_fallback,6
+Entire home/apt,Sant Martí de Provençals,2027-02-01,158,34946.12,0,158,0,100.0,listing_price_fallback,6
+Entire home/apt,Sant Martí de Provençals,2027-03-01,187,41473.34,0,187,0,100.0,listing_price_fallback,7
+Entire home/apt,Sant Martí de Provençals,2027-04-01,200,45151.5,0,200,0,100.0,listing_price_fallback,8
+Entire home/apt,Sant Martí de Provençals,2027-05-01,215,48334.1,0,215,0,100.0,listing_price_fallback,8
+Entire home/apt,Sant Martí de Provençals,2027-06-01,167,37361.7,0,167,0,100.0,listing_price_fallback,9
+Entire home/apt,Sant Martí de Provençals,2027-07-01,2,43.6,0,2,0,100.0,listing_price_fallback,1
+Entire home/apt,"Sant Pere, Santa Caterina i la Ribera",2026-06-01,2443,430755.52,0,2426,17,99.3,mixed,462
+Entire home/apt,"Sant Pere, Santa Caterina i la Ribera",2026-07-01,11145,1667416.24,0,9908,1237,88.9,mixed,511
+Entire home/apt,"Sant Pere, Santa Caterina i la Ribera",2026-08-01,8398,1185672.72,0,6981,1417,83.13,mixed,414
+Entire home/apt,"Sant Pere, Santa Caterina i la Ribera",2026-09-01,7198,972568.01,0,5933,1265,82.43,mixed,352
+Entire home/apt,"Sant Pere, Santa Caterina i la Ribera",2026-10-01,6631,854659.15,0,5328,1303,80.35,mixed,298
+Entire home/apt,"Sant Pere, Santa Caterina i la Ribera",2026-11-01,4543,507188.73,0,3300,1243,72.64,mixed,198
+Entire home/apt,"Sant Pere, Santa Caterina i la Ribera",2026-12-01,4720,614663.99,0,3472,1248,73.56,mixed,212
+Entire home/apt,"Sant Pere, Santa Caterina i la Ribera",2027-01-01,6480,1302043.61,0,5214,1266,80.46,mixed,248
+Entire home/apt,"Sant Pere, Santa Caterina i la Ribera",2027-02-01,6182,1241391.1,0,5034,1148,81.43,mixed,247
+Entire home/apt,"Sant Pere, Santa Caterina i la Ribera",2027-03-01,7264,1471847.0,0,6010,1254,82.74,mixed,283
+Entire home/apt,"Sant Pere, Santa Caterina i la Ribera",2027-04-01,8050,1622593.64,0,6786,1264,84.3,mixed,282
+Entire home/apt,"Sant Pere, Santa Caterina i la Ribera",2027-05-01,9121,2001914.61,0,7817,1304,85.7,mixed,339
+Entire home/apt,"Sant Pere, Santa Caterina i la Ribera",2027-06-01,8160,1691997.57,0,6912,1248,84.71,mixed,354
+Entire home/apt,"Sant Pere, Santa Caterina i la Ribera",2027-07-01,93,1636.75,0,25,68,26.88,mixed,51
+Entire home/apt,Sants,2026-06-01,868,193149.01,0,858,10,98.85,mixed,175
+Entire home/apt,Sants,2026-07-01,4071,812500.19,0,3811,260,93.61,mixed,189
+Entire home/apt,Sants,2026-08-01,2952,558170.22,0,2696,256,91.33,mixed,149
+Entire home/apt,Sants,2026-09-01,2326,434204.61,0,2073,253,89.12,mixed,148
+Entire home/apt,Sants,2026-10-01,2086,396471.48,0,1843,243,88.35,mixed,105
+Entire home/apt,Sants,2026-11-01,1268,230948.4,0,1051,217,82.89,mixed,78
+Entire home/apt,Sants,2026-12-01,1660,309462.69,0,1443,217,86.93,mixed,78
+Entire home/apt,Sants,2027-01-01,2011,387970.23,0,1766,245,87.82,mixed,84
+Entire home/apt,Sants,2027-02-01,1770,351886.81,0,1555,215,87.85,mixed,76
+Entire home/apt,Sants,2027-03-01,2040,440587.43,0,1823,217,89.36,mixed,91
+Entire home/apt,Sants,2027-04-01,2259,547984.68,0,2049,210,90.7,mixed,86
+Entire home/apt,Sants,2027-05-01,2337,584355.44,0,2122,215,90.8,mixed,100
+Entire home/apt,Sants,2027-06-01,1988,483516.72,0,1815,173,91.3,mixed,107
+Entire home/apt,Sants,2027-07-01,12,626.74,0,4,8,33.33,mixed,7
+Entire home/apt,Sants - Badal,2026-06-01,367,55606.59,0,360,7,98.09,mixed,73
+Entire home/apt,Sants - Badal,2026-07-01,1529,223763.65,0,1462,67,95.62,mixed,72
+Entire home/apt,Sants - Badal,2026-08-01,981,141806.65,0,887,94,90.42,mixed,55
+Entire home/apt,Sants - Badal,2026-09-01,631,74961.79,0,571,60,90.49,mixed,36
+Entire home/apt,Sants - Badal,2026-10-01,628,60923.31,0,531,97,84.55,mixed,28
+Entire home/apt,Sants - Badal,2026-11-01,467,40782.26,0,377,90,80.73,mixed,23
+Entire home/apt,Sants - Badal,2026-12-01,464,43655.44,0,366,98,78.88,mixed,24
+Entire home/apt,Sants - Badal,2027-01-01,724,83540.29,0,600,124,82.87,mixed,30
+Entire home/apt,Sants - Badal,2027-02-01,642,75861.97,0,530,112,82.55,mixed,25
+Entire home/apt,Sants - Badal,2027-03-01,678,83301.59,0,580,98,85.55,mixed,30
+Entire home/apt,Sants - Badal,2027-04-01,755,86258.38,0,635,120,84.11,mixed,27
+Entire home/apt,Sants - Badal,2027-05-01,800,93766.02,0,676,124,84.5,mixed,28
+Entire home/apt,Sants - Badal,2027-06-01,735,96862.4,0,622,113,84.63,mixed,35
+Entire home/apt,Sants - Badal,2027-07-01,9,336.99,0,4,5,44.44,mixed,6
+Entire home/apt,Sarrià,2026-06-01,174,26399.27,0,163,11,93.68,mixed,34
+Entire home/apt,Sarrià,2026-07-01,635,96023.95,0,599,36,94.33,mixed,28
+Entire home/apt,Sarrià,2026-08-01,372,67139.36,0,353,19,94.89,mixed,18
+Entire home/apt,Sarrià,2026-09-01,408,64696.41,0,348,60,85.29,mixed,18
+Entire home/apt,Sarrià,2026-10-01,422,64250.02,0,360,62,85.31,mixed,16
+Entire home/apt,Sarrià,2026-11-01,351,50866.2,0,291,60,82.91,mixed,13
+Entire home/apt,Sarrià,2026-12-01,302,45990.35,0,240,62,79.47,mixed,13
+Entire home/apt,Sarrià,2027-01-01,219,24917.58,0,157,62,71.69,mixed,8
+Entire home/apt,Sarrià,2027-02-01,225,35185.64,0,169,56,75.11,mixed,9
+Entire home/apt,Sarrià,2027-03-01,291,42767.48,0,229,62,78.69,mixed,13
+Entire home/apt,Sarrià,2027-04-01,366,49458.6,0,306,60,83.61,mixed,13
+Entire home/apt,Sarrià,2027-05-01,493,67076.68,0,431,62,87.42,mixed,23
+Entire home/apt,Sarrià,2027-06-01,553,77129.88,0,507,46,91.68,mixed,24
+Entire home/apt,Torre Baró,2026-06-01,6,343.8,0,6,0,100.0,listing_price_fallback,1
+Entire home/apt,Torre Baró,2026-07-01,31,1776.3,0,31,0,100.0,listing_price_fallback,1
+Entire home/apt,Torre Baró,2026-08-01,31,1776.3,0,31,0,100.0,listing_price_fallback,1
+Entire home/apt,Torre Baró,2026-09-01,2,114.6,0,2,0,100.0,listing_price_fallback,1
+Entire home/apt,Torre Baró,2027-03-01,7,401.1,0,7,0,100.0,listing_price_fallback,1
+Entire home/apt,Torre Baró,2027-04-01,2,114.6,0,2,0,100.0,listing_price_fallback,1
+Entire home/apt,Torre Baró,2027-05-01,3,171.9,0,3,0,100.0,listing_price_fallback,1
+Entire home/apt,Torre Baró,2027-06-01,5,286.5,0,5,0,100.0,listing_price_fallback,1
+Entire home/apt,Vallcarca i els Penitents,2026-06-01,189,36505.69,0,189,0,100.0,listing_price_fallback,36
+Entire home/apt,Vallcarca i els Penitents,2026-07-01,830,122085.43,0,655,175,78.92,mixed,41
+Entire home/apt,Vallcarca i els Penitents,2026-08-01,559,71340.25,0,373,186,66.73,mixed,28
+Entire home/apt,Vallcarca i els Penitents,2026-09-01,466,54771.48,0,286,180,61.37,mixed,23
+Entire home/apt,Vallcarca i els Penitents,2026-10-01,419,37881.65,0,233,186,55.61,mixed,19
+Entire home/apt,Vallcarca i els Penitents,2026-11-01,359,26240.74,0,179,180,49.86,mixed,16
+Entire home/apt,Vallcarca i els Penitents,2026-12-01,326,23302.55,0,140,186,42.94,mixed,16
+Entire home/apt,Vallcarca i els Penitents,2027-01-01,614,87564.19,0,428,186,69.71,mixed,22
+Entire home/apt,Vallcarca i els Penitents,2027-02-01,532,75250.84,0,364,168,68.42,mixed,19
+Entire home/apt,Vallcarca i els Penitents,2027-03-01,620,87759.57,0,434,186,70.0,mixed,24
+Entire home/apt,Vallcarca i els Penitents,2027-04-01,731,111094.56,0,551,180,75.38,mixed,25
+Entire home/apt,Vallcarca i els Penitents,2027-05-01,779,121341.28,0,593,186,76.12,mixed,28
+Entire home/apt,Vallcarca i els Penitents,2027-06-01,687,102790.36,0,507,180,73.8,mixed,31
+Entire home/apt,Vallcarca i els Penitents,2027-07-01,13,200.26,0,2,11,15.38,mixed,7
+Entire home/apt,"Vallvidrera, el Tibidabo i les Planes",2026-06-01,87,24557.8,0,73,14,83.91,mixed,16
+Entire home/apt,"Vallvidrera, el Tibidabo i les Planes",2026-07-01,309,40725.35,0,160,149,51.78,mixed,13
+Entire home/apt,"Vallvidrera, el Tibidabo i les Planes",2026-08-01,266,22193.62,0,111,155,41.73,mixed,11
+Entire home/apt,"Vallvidrera, el Tibidabo i les Planes",2026-09-01,243,37666.76,0,94,149,38.68,mixed,10
+Entire home/apt,"Vallvidrera, el Tibidabo i les Planes",2026-10-01,246,35983.27,0,91,155,36.99,mixed,10
+Entire home/apt,"Vallvidrera, el Tibidabo i les Planes",2026-11-01,210,27272.4,0,63,147,30.0,mixed,8
+Entire home/apt,"Vallvidrera, el Tibidabo i les Planes",2026-12-01,213,33610.96,0,89,124,41.78,mixed,8
+Entire home/apt,"Vallvidrera, el Tibidabo i les Planes",2027-01-01,200,33834.41,0,76,124,38.0,mixed,7
+Entire home/apt,"Vallvidrera, el Tibidabo i les Planes",2027-02-01,168,26855.08,0,56,112,33.33,mixed,6
+Entire home/apt,"Vallvidrera, el Tibidabo i les Planes",2027-03-01,208,32188.6,0,84,124,40.38,mixed,8
+Entire home/apt,"Vallvidrera, el Tibidabo i les Planes",2027-04-01,240,35472.0,0,120,120,50.0,mixed,8
+Entire home/apt,"Vallvidrera, el Tibidabo i les Planes",2027-05-01,269,45640.24,0,145,124,53.9,mixed,10
+Entire home/apt,"Vallvidrera, el Tibidabo i les Planes",2027-06-01,188,28660.2,0,97,91,51.6,mixed,9
+Entire home/apt,"Vallvidrera, el Tibidabo i les Planes",2027-07-01,6,,0,0,6,0.0,unpriced,3
+Entire home/apt,Verdun,2026-06-01,9,1233.75,0,9,0,100.0,listing_price_fallback,2
+Entire home/apt,Verdun,2026-07-01,39,7399.3,0,39,0,100.0,listing_price_fallback,2
+Entire home/apt,Verdun,2026-08-01,50,7310.4,0,50,0,100.0,listing_price_fallback,2
+Entire home/apt,Verdun,2026-09-01,12,2329.35,0,12,0,100.0,listing_price_fallback,2
+Entire home/apt,Verdun,2026-10-01,22,5023.26,0,22,0,100.0,listing_price_fallback,1
+Entire home/apt,Verdun,2026-11-01,1,228.33,0,1,0,100.0,listing_price_fallback,1
+Entire home/apt,Vilapicina i la Torre Llobeta,2026-06-01,125,24970.14,0,125,0,100.0,listing_price_fallback,29
+Entire home/apt,Vilapicina i la Torre Llobeta,2026-07-01,280,40121.37,0,280,0,100.0,listing_price_fallback,13
+Entire home/apt,Vilapicina i la Torre Llobeta,2026-08-01,347,75406.68,0,347,0,100.0,listing_price_fallback,25
+Entire home/apt,Vilapicina i la Torre Llobeta,2026-09-01,197,43905.1,0,197,0,100.0,listing_price_fallback,9
+Entire home/apt,Vilapicina i la Torre Llobeta,2026-10-01,187,45802.06,0,187,0,100.0,listing_price_fallback,7
+Entire home/apt,Vilapicina i la Torre Llobeta,2026-11-01,147,41275.22,0,147,0,100.0,listing_price_fallback,5
+Entire home/apt,Vilapicina i la Torre Llobeta,2026-12-01,128,40441.82,0,128,0,100.0,listing_price_fallback,5
+Entire home/apt,Vilapicina i la Torre Llobeta,2027-01-01,116,31767.18,0,116,0,100.0,listing_price_fallback,4
+Entire home/apt,Vilapicina i la Torre Llobeta,2027-02-01,144,35169.68,0,144,0,100.0,listing_price_fallback,6
+Entire home/apt,Vilapicina i la Torre Llobeta,2027-03-01,208,52238.0,0,208,0,100.0,listing_price_fallback,9
+Entire home/apt,Vilapicina i la Torre Llobeta,2027-04-01,238,69720.56,0,238,0,100.0,listing_price_fallback,8
+Entire home/apt,Vilapicina i la Torre Llobeta,2027-05-01,186,52166.49,0,186,0,100.0,listing_price_fallback,6
+Entire home/apt,Vilapicina i la Torre Llobeta,2027-06-01,148,41779.01,0,148,0,100.0,listing_price_fallback,7
+Hotel room,el Camp d'en Grassot i Gràcia Nova,2026-06-01,36,7334.4,0,36,0,100.0,listing_price_fallback,6
+Hotel room,el Camp d'en Grassot i Gràcia Nova,2026-07-01,212,37299.5,0,183,29,86.32,mixed,7
+Hotel room,el Camp d'en Grassot i Gràcia Nova,2026-08-01,149,24153.7,0,118,31,79.19,mixed,7
+Hotel room,el Camp d'en Grassot i Gràcia Nova,2026-09-01,131,20743.9,0,101,30,77.1,mixed,7
+Hotel room,el Camp d'en Grassot i Gràcia Nova,2026-10-01,89,12025.7,0,58,31,65.17,mixed,7
+Hotel room,el Camp d'en Grassot i Gràcia Nova,2026-11-01,36,1335.6,0,6,30,16.67,mixed,3
+Hotel room,el Camp d'en Grassot i Gràcia Nova,2026-12-01,31,,0,0,31,0.0,unpriced,1
+Hotel room,el Camp d'en Grassot i Gràcia Nova,2027-01-01,175,29337.6,0,144,31,82.29,mixed,7
+Hotel room,el Camp d'en Grassot i Gràcia Nova,2027-02-01,196,34227.2,0,168,28,85.71,mixed,7
+Hotel room,el Camp d'en Grassot i Gràcia Nova,2027-03-01,217,37894.4,0,186,31,85.71,mixed,7
+Hotel room,el Camp d'en Grassot i Gràcia Nova,2027-04-01,210,36672.0,0,180,30,85.71,mixed,7
+Hotel room,el Camp d'en Grassot i Gràcia Nova,2027-05-01,217,37894.4,0,186,31,85.71,mixed,7
+Hotel room,el Camp d'en Grassot i Gràcia Nova,2027-06-01,174,29337.6,0,144,30,82.76,mixed,7
+Hotel room,el Camp d'en Grassot i Gràcia Nova,2027-07-01,2,,0,0,2,0.0,unpriced,1
+Hotel room,el Parc i la Llacuna del Poblenou,2026-06-01,7,1595.0,0,7,0,100.0,listing_price_fallback,2
+Hotel room,el Parc i la Llacuna del Poblenou,2026-07-01,8,1830.0,0,8,0,100.0,listing_price_fallback,2
+Hotel room,el Parc i la Llacuna del Poblenou,2027-02-01,8,1635.0,0,8,0,100.0,listing_price_fallback,3
+Hotel room,el Parc i la Llacuna del Poblenou,2027-03-01,12,2480.0,0,12,0,100.0,listing_price_fallback,3
+Hotel room,el Parc i la Llacuna del Poblenou,2027-05-01,2,450.0,0,2,0,100.0,listing_price_fallback,1
+Hotel room,el Parc i la Llacuna del Poblenou,2027-06-01,70,14425.0,0,70,0,100.0,listing_price_fallback,3
+Hotel room,el Poble Sec,2026-06-01,5,810.0,0,5,0,100.0,listing_price_fallback,1
+Hotel room,el Poble Sec,2026-07-01,24,3888.0,0,24,0,100.0,listing_price_fallback,1
+Hotel room,el Poble Sec,2026-08-01,19,3078.0,0,19,0,100.0,listing_price_fallback,1
+Hotel room,el Poble Sec,2026-09-01,4,648.0,0,4,0,100.0,listing_price_fallback,1
+Hotel room,el Raval,2026-07-01,116,,0,0,116,0.0,unpriced,4
+Hotel room,el Raval,2026-08-01,124,,0,0,124,0.0,unpriced,4
+Hotel room,el Raval,2026-09-01,120,,0,0,120,0.0,unpriced,4
+Hotel room,el Raval,2026-10-01,124,,0,0,124,0.0,unpriced,4
+Hotel room,el Raval,2026-11-01,120,,0,0,120,0.0,unpriced,4
+Hotel room,el Raval,2026-12-01,124,,0,0,124,0.0,unpriced,4
+Hotel room,el Raval,2027-01-01,124,,0,0,124,0.0,unpriced,4
+Hotel room,el Raval,2027-02-01,112,,0,0,112,0.0,unpriced,4
+Hotel room,el Raval,2027-03-01,124,,0,0,124,0.0,unpriced,4
+Hotel room,el Raval,2027-04-01,120,,0,0,120,0.0,unpriced,4
+Hotel room,el Raval,2027-05-01,124,,0,0,124,0.0,unpriced,4
+Hotel room,el Raval,2027-06-01,120,,0,0,120,0.0,unpriced,4
+Hotel room,el Raval,2027-07-01,8,,0,0,8,0.0,unpriced,4
+Hotel room,l'Antiga Esquerra de l'Eixample,2026-06-01,11,2159.0,0,11,0,100.0,listing_price_fallback,2
+Hotel room,l'Antiga Esquerra de l'Eixample,2026-07-01,45,8825.0,0,45,0,100.0,listing_price_fallback,2
+Hotel room,l'Antiga Esquerra de l'Eixample,2026-08-01,15,2915.0,0,15,0,100.0,listing_price_fallback,2
+Hotel room,l'Antiga Esquerra de l'Eixample,2027-01-01,52,10244.0,0,52,0,100.0,listing_price_fallback,2
+Hotel room,l'Antiga Esquerra de l'Eixample,2027-02-01,56,11032.0,0,56,0,100.0,listing_price_fallback,2
+Hotel room,l'Antiga Esquerra de l'Eixample,2027-03-01,62,12214.0,0,62,0,100.0,listing_price_fallback,2
+Hotel room,l'Antiga Esquerra de l'Eixample,2027-04-01,60,11820.0,0,60,0,100.0,listing_price_fallback,2
+Hotel room,l'Antiga Esquerra de l'Eixample,2027-05-01,62,12214.0,0,62,0,100.0,listing_price_fallback,2
+Hotel room,l'Antiga Esquerra de l'Eixample,2027-06-01,48,9456.0,0,48,0,100.0,listing_price_fallback,2
+Hotel room,la Dreta de l'Eixample,2026-06-01,76,15103.73,0,76,0,100.0,listing_price_fallback,14
+Hotel room,la Dreta de l'Eixample,2026-07-01,248,50905.38,0,248,0,100.0,listing_price_fallback,15
+Hotel room,la Dreta de l'Eixample,2026-08-01,86,19394.13,0,86,0,100.0,listing_price_fallback,10
+Hotel room,la Dreta de l'Eixample,2026-09-01,163,31844.8,0,163,0,100.0,listing_price_fallback,11
+Hotel room,la Dreta de l'Eixample,2026-10-01,192,37428.18,0,192,0,100.0,listing_price_fallback,11
+Hotel room,la Dreta de l'Eixample,2026-11-01,103,20013.9,0,103,0,100.0,listing_price_fallback,4
+Hotel room,la Dreta de l'Eixample,2026-12-01,124,22747.48,0,124,0,100.0,listing_price_fallback,7
+Hotel room,la Dreta de l'Eixample,2027-01-01,380,69811.08,0,380,0,100.0,listing_price_fallback,14
+Hotel room,la Dreta de l'Eixample,2027-02-01,365,66685.04,0,365,0,100.0,listing_price_fallback,14
+Hotel room,la Dreta de l'Eixample,2027-03-01,407,74553.08,0,407,0,100.0,listing_price_fallback,14
+Hotel room,la Dreta de l'Eixample,2027-04-01,390,71180.4,0,390,0,100.0,listing_price_fallback,13
+Hotel room,la Dreta de l'Eixample,2027-05-01,403,73553.08,0,403,0,100.0,listing_price_fallback,13
+Hotel room,la Dreta de l'Eixample,2027-06-01,314,57518.32,0,314,0,100.0,listing_price_fallback,14
+Hotel room,la Font de la Guatlla,2026-06-01,4,752.0,0,4,0,100.0,listing_price_fallback,1
+Hotel room,la Font de la Guatlla,2026-07-01,18,3384.0,0,18,0,100.0,listing_price_fallback,1
+Hotel room,la Font de la Guatlla,2026-08-01,14,2632.0,0,14,0,100.0,listing_price_fallback,1
+Hotel room,la Font de la Guatlla,2026-09-01,1,188.0,0,1,0,100.0,listing_price_fallback,1
+Hotel room,la Font de la Guatlla,2027-01-01,62,9858.0,0,62,0,100.0,listing_price_fallback,2
+Hotel room,la Font de la Guatlla,2027-02-01,56,8904.0,0,56,0,100.0,listing_price_fallback,2
+Hotel room,la Font de la Guatlla,2027-03-01,62,9858.0,0,62,0,100.0,listing_price_fallback,2
+Hotel room,la Font de la Guatlla,2027-04-01,60,9540.0,0,60,0,100.0,listing_price_fallback,2
+Hotel room,la Font de la Guatlla,2027-05-01,62,9858.0,0,62,0,100.0,listing_price_fallback,2
+Hotel room,la Font de la Guatlla,2027-06-01,47,7502.0,0,47,0,100.0,listing_price_fallback,2
+Hotel room,la Nova Esquerra de l'Eixample,2026-06-01,13,2361.0,0,13,0,100.0,listing_price_fallback,3
+Hotel room,la Nova Esquerra de l'Eixample,2026-07-01,84,10784.0,0,55,29,65.48,mixed,4
+Hotel room,la Nova Esquerra de l'Eixample,2026-08-01,83,10356.0,0,52,31,62.65,mixed,4
+Hotel room,la Nova Esquerra de l'Eixample,2026-09-01,83,10307.0,0,53,30,63.86,mixed,4
+Hotel room,la Nova Esquerra de l'Eixample,2026-10-01,36,781.0,0,5,31,13.89,mixed,4
+Hotel room,la Nova Esquerra de l'Eixample,2026-11-01,52,3022.0,0,22,30,42.31,mixed,3
+Hotel room,la Nova Esquerra de l'Eixample,2026-12-01,39,961.0,0,8,31,20.51,mixed,3
+Hotel room,la Nova Esquerra de l'Eixample,2027-01-01,124,15810.0,0,93,31,75.0,mixed,4
+Hotel room,la Nova Esquerra de l'Eixample,2027-02-01,112,14280.0,0,84,28,75.0,mixed,4
+Hotel room,la Nova Esquerra de l'Eixample,2027-03-01,124,15810.0,0,93,31,75.0,mixed,4
+Hotel room,la Nova Esquerra de l'Eixample,2027-04-01,120,15300.0,0,90,30,75.0,mixed,4
+Hotel room,la Nova Esquerra de l'Eixample,2027-05-01,124,15810.0,0,93,31,75.0,mixed,4
+Hotel room,la Nova Esquerra de l'Eixample,2027-06-01,102,12240.0,0,72,30,70.59,mixed,4
+Hotel room,la Nova Esquerra de l'Eixample,2027-07-01,2,,0,0,2,0.0,unpriced,1
+Hotel room,la Sagrada Família,2026-06-01,33,6287.1,0,33,0,100.0,listing_price_fallback,6
+Hotel room,la Sagrada Família,2026-07-01,108,19757.8,0,108,0,100.0,listing_price_fallback,6
+Hotel room,la Sagrada Família,2026-08-01,38,7433.0,0,38,0,100.0,listing_price_fallback,3
+Hotel room,la Sagrada Família,2026-09-01,62,11890.2,0,62,0,100.0,listing_price_fallback,6
+Hotel room,la Sagrada Família,2026-10-01,35,6720.1,0,35,0,100.0,listing_price_fallback,3
+Hotel room,la Sagrada Família,2026-12-01,4,776.0,0,4,0,100.0,listing_price_fallback,1
+Hotel room,la Sagrada Família,2027-01-01,48,8997.6,0,48,0,100.0,listing_price_fallback,2
+Hotel room,la Sagrada Família,2027-02-01,64,11613.2,0,64,0,100.0,listing_price_fallback,4
+Hotel room,la Sagrada Família,2027-03-01,80,15190.3,0,80,0,100.0,listing_price_fallback,5
+Hotel room,la Sagrada Família,2027-04-01,60,11247.0,0,60,0,100.0,listing_price_fallback,2
+Hotel room,la Sagrada Família,2027-05-01,62,11621.9,0,62,0,100.0,listing_price_fallback,2
+Hotel room,la Sagrada Família,2027-06-01,48,8997.6,0,48,0,100.0,listing_price_fallback,2
+Hotel room,la Vila de Gràcia,2026-06-01,32,6436.0,0,32,0,100.0,listing_price_fallback,8
+Hotel room,la Vila de Gràcia,2026-07-01,101,21941.0,0,101,0,100.0,listing_price_fallback,8
+Hotel room,la Vila de Gràcia,2026-08-01,41,9835.0,0,41,0,100.0,listing_price_fallback,4
+Hotel room,la Vila de Gràcia,2026-09-01,31,7324.0,0,31,0,100.0,listing_price_fallback,6
+Hotel room,la Vila de Gràcia,2026-10-01,13,2934.0,0,13,0,100.0,listing_price_fallback,3
+Hotel room,la Vila de Gràcia,2026-11-01,5,1277.0,0,5,0,100.0,listing_price_fallback,2
+Hotel room,la Vila de Gràcia,2026-12-01,10,2411.0,0,10,0,100.0,listing_price_fallback,3
+Hotel room,la Vila de Gràcia,2027-01-01,1,171.0,0,1,0,100.0,listing_price_fallback,1
+Hotel room,la Vila de Gràcia,2027-02-01,2,391.0,0,2,0,100.0,listing_price_fallback,2
+Hotel room,la Vila de Gràcia,2027-03-01,13,2508.0,0,13,0,100.0,listing_price_fallback,7
+Hotel room,la Vila de Gràcia,2027-04-01,150,28320.0,0,150,0,100.0,listing_price_fallback,5
+Hotel room,la Vila de Gràcia,2027-05-01,155,29264.0,0,155,0,100.0,listing_price_fallback,5
+Hotel room,la Vila de Gràcia,2027-06-01,122,23152.0,0,122,0,100.0,listing_price_fallback,7
+Hotel room,"Sant Pere, Santa Caterina i la Ribera",2026-06-01,61,29300.0,0,61,0,100.0,listing_price_fallback,14
+Hotel room,"Sant Pere, Santa Caterina i la Ribera",2026-07-01,347,149082.0,0,347,0,100.0,listing_price_fallback,16
+Hotel room,"Sant Pere, Santa Caterina i la Ribera",2026-08-01,197,93840.0,0,197,0,100.0,listing_price_fallback,13
+Hotel room,"Sant Pere, Santa Caterina i la Ribera",2026-09-01,179,80882.0,0,179,0,100.0,listing_price_fallback,16
+Hotel room,"Sant Pere, Santa Caterina i la Ribera",2026-10-01,114,49749.0,0,114,0,100.0,listing_price_fallback,10
+Hotel room,"Sant Pere, Santa Caterina i la Ribera",2026-11-01,8,4021.0,0,8,0,100.0,listing_price_fallback,3
+Hotel room,"Sant Pere, Santa Caterina i la Ribera",2026-12-01,9,5365.0,0,9,0,100.0,listing_price_fallback,4
+Hotel room,"Sant Pere, Santa Caterina i la Ribera",2027-01-01,97,21726.0,0,97,0,100.0,listing_price_fallback,6
+Hotel room,"Sant Pere, Santa Caterina i la Ribera",2027-02-01,120,32463.0,0,120,0,100.0,listing_price_fallback,16
+Hotel room,"Sant Pere, Santa Caterina i la Ribera",2027-03-01,141,42918.0,0,141,0,100.0,listing_price_fallback,16
+Hotel room,"Sant Pere, Santa Caterina i la Ribera",2027-04-01,90,17640.0,0,90,0,100.0,listing_price_fallback,3
+Hotel room,"Sant Pere, Santa Caterina i la Ribera",2027-05-01,93,18228.0,0,93,0,100.0,listing_price_fallback,3
+Hotel room,"Sant Pere, Santa Caterina i la Ribera",2027-06-01,382,163120.0,0,382,0,100.0,listing_price_fallback,16
+Private room,Can Baró,2026-06-01,25,2386.11,0,25,0,100.0,listing_price_fallback,4
+Private room,Can Baró,2026-07-01,123,7160.29,0,65,58,52.85,mixed,6
+Private room,Can Baró,2026-08-01,109,6394.03,0,47,62,43.12,mixed,4
+Private room,Can Baró,2026-09-01,127,8495.32,0,67,60,52.76,mixed,5
+Private room,Can Baró,2026-10-01,127,7184.96,0,65,62,51.18,mixed,5
+Private room,Can Baró,2026-11-01,90,2482.2,0,30,60,33.33,mixed,3
+Private room,Can Baró,2026-12-01,106,3370.85,0,44,62,41.51,mixed,5
+Private room,Can Baró,2027-01-01,124,3717.83,0,62,62,50.0,mixed,4
+Private room,Can Baró,2027-02-01,112,3358.04,0,56,56,50.0,mixed,4
+Private room,Can Baró,2027-03-01,132,4811.17,0,70,62,53.03,mixed,6
+Private room,Can Baró,2027-04-01,120,3597.9,0,60,60,50.0,mixed,4
+Private room,Can Baró,2027-05-01,124,3717.83,0,62,62,50.0,mixed,4
+Private room,Can Baró,2027-06-01,106,2758.39,0,46,60,43.4,mixed,4
+Private room,Can Baró,2027-07-01,4,,0,0,4,0.0,unpriced,2
+Private room,Ciutat Meridiana,2026-06-01,6,480.0,0,6,0,100.0,listing_price_fallback,1
+Private room,Ciutat Meridiana,2026-07-01,7,560.0,0,7,0,100.0,listing_price_fallback,1
+Private room,Ciutat Meridiana,2026-09-01,8,640.0,0,8,0,100.0,listing_price_fallback,1
+Private room,Ciutat Meridiana,2026-10-01,31,2480.0,0,31,0,100.0,listing_price_fallback,1
+Private room,Ciutat Meridiana,2026-11-01,30,2400.0,0,30,0,100.0,listing_price_fallback,1
+Private room,Ciutat Meridiana,2026-12-01,31,2480.0,0,31,0,100.0,listing_price_fallback,1
+Private room,Ciutat Meridiana,2027-01-01,31,2480.0,0,31,0,100.0,listing_price_fallback,1
+Private room,Ciutat Meridiana,2027-02-01,28,2240.0,0,28,0,100.0,listing_price_fallback,1
+Private room,Ciutat Meridiana,2027-03-01,31,2480.0,0,31,0,100.0,listing_price_fallback,1
+Private room,Ciutat Meridiana,2027-04-01,30,2400.0,0,30,0,100.0,listing_price_fallback,1
+Private room,Ciutat Meridiana,2027-05-01,31,2480.0,0,31,0,100.0,listing_price_fallback,1
+Private room,Ciutat Meridiana,2027-06-01,24,1920.0,0,24,0,100.0,listing_price_fallback,1
+Private room,Diagonal Mar i el Front Marítim del Poblenou,2026-06-01,23,2631.4,0,23,0,100.0,listing_price_fallback,5
+Private room,Diagonal Mar i el Front Marítim del Poblenou,2026-07-01,249,4342.73,0,42,207,16.87,mixed,12
+Private room,Diagonal Mar i el Front Marítim del Poblenou,2026-08-01,273,6387.46,0,56,217,20.51,mixed,11
+Private room,Diagonal Mar i el Front Marítim del Poblenou,2026-09-01,246,5125.92,0,36,210,14.63,mixed,9
+Private room,Diagonal Mar i el Front Marítim del Poblenou,2026-10-01,256,5624.06,0,39,217,15.23,mixed,9
+Private room,Diagonal Mar i el Front Marítim del Poblenou,2026-11-01,248,5489.56,0,38,210,15.32,mixed,9
+Private room,Diagonal Mar i el Front Marítim del Poblenou,2026-12-01,310,14194.9,0,93,217,30.0,mixed,10
+Private room,Diagonal Mar i el Front Marítim del Poblenou,2027-01-01,281,10389.04,0,64,217,22.78,mixed,10
+Private room,Diagonal Mar i el Front Marítim del Poblenou,2027-02-01,255,9600.66,0,59,196,23.14,mixed,10
+Private room,Diagonal Mar i el Front Marítim del Poblenou,2027-03-01,302,13468.96,0,85,217,28.15,mixed,12
+Private room,Diagonal Mar i el Front Marítim del Poblenou,2027-04-01,332,18759.94,0,122,210,36.75,mixed,12
+Private room,Diagonal Mar i el Front Marítim del Poblenou,2027-05-01,372,24645.93,0,155,217,41.67,mixed,12
+Private room,Diagonal Mar i el Front Marítim del Poblenou,2027-06-01,352,22650.04,0,142,210,40.34,mixed,13
+Private room,Diagonal Mar i el Front Marítim del Poblenou,2027-07-01,15,883.04,0,5,10,33.33,mixed,10
+Private room,el Baix Guinardó,2026-06-01,62,4095.81,0,56,6,90.32,mixed,12
+Private room,el Baix Guinardó,2026-07-01,632,12047.24,0,190,442,30.06,mixed,23
+Private room,el Baix Guinardó,2026-08-01,622,10664.37,0,158,464,25.4,mixed,21
+Private room,el Baix Guinardó,2026-09-01,559,7769.28,0,109,450,19.5,mixed,21
+Private room,el Baix Guinardó,2026-10-01,630,15484.94,0,179,451,28.41,mixed,22
+Private room,el Baix Guinardó,2026-11-01,571,13883.8,0,151,420,26.44,mixed,20
+Private room,el Baix Guinardó,2026-12-01,585,13524.58,0,151,434,25.81,mixed,20
+Private room,el Baix Guinardó,2027-01-01,589,12917.7,0,155,434,26.32,mixed,19
+Private room,el Baix Guinardó,2027-02-01,532,11667.6,0,140,392,26.32,mixed,19
+Private room,el Baix Guinardó,2027-03-01,609,13310.2,0,165,444,27.09,mixed,21
+Private room,el Baix Guinardó,2027-04-01,630,13678.5,0,180,450,28.57,mixed,21
+Private room,el Baix Guinardó,2027-05-01,651,14134.45,0,186,465,28.57,mixed,21
+Private room,el Baix Guinardó,2027-06-01,586,10747.8,0,142,444,24.23,mixed,21
+Private room,el Baix Guinardó,2027-07-01,23,,0,0,23,0.0,unpriced,14
+Private room,el Barri Gòtic,2026-06-01,880,88176.37,0,861,19,97.84,mixed,189
+Private room,el Barri Gòtic,2026-07-01,5961,387064.17,0,3328,2633,55.83,mixed,276
+Private room,el Barri Gòtic,2026-08-01,5023,277507.77,0,2262,2761,45.03,mixed,220
+Private room,el Barri Gòtic,2026-09-01,4689,229201.67,0,2023,2666,43.14,mixed,228
+Private room,el Barri Gòtic,2026-10-01,4885,198446.17,0,2126,2759,43.52,mixed,191
+Private room,el Barri Gòtic,2026-11-01,4596,202353.36,0,1926,2670,41.91,mixed,170
+Private room,el Barri Gòtic,2026-12-01,4774,220176.37,0,2036,2738,42.65,mixed,169
+Private room,el Barri Gòtic,2027-01-01,5147,246954.78,0,2388,2759,46.4,mixed,179
+Private room,el Barri Gòtic,2027-02-01,4632,218450.24,0,2140,2492,46.2,mixed,182
+Private room,el Barri Gòtic,2027-03-01,5151,237770.44,0,2382,2769,46.24,mixed,185
+Private room,el Barri Gòtic,2027-04-01,5151,241729.2,0,2451,2700,47.58,mixed,182
+Private room,el Barri Gòtic,2027-05-01,5494,287435.49,0,2704,2790,49.22,mixed,188
+Private room,el Barri Gòtic,2027-06-01,4938,273744.05,0,2261,2677,45.79,mixed,194
+Private room,el Barri Gòtic,2027-07-01,177,4219.41,0,17,160,9.6,mixed,98
+Private room,el Besòs i el Maresme,2026-06-01,71,5158.25,0,71,0,100.0,listing_price_fallback,16
+Private room,el Besòs i el Maresme,2026-07-01,563,19305.1,0,300,263,53.29,mixed,26
+Private room,el Besòs i el Maresme,2026-08-01,447,12753.79,0,168,279,37.58,mixed,16
+Private room,el Besòs i el Maresme,2026-09-01,492,16577.34,0,222,270,45.12,mixed,18
+Private room,el Besòs i el Maresme,2026-10-01,706,74681.79,0,427,279,60.48,mixed,24
+Private room,el Besòs i el Maresme,2026-11-01,660,71442.6,0,390,270,59.09,mixed,22
+Private room,el Besòs i el Maresme,2026-12-01,726,76725.77,0,447,279,61.57,mixed,25
+Private room,el Besòs i el Maresme,2027-01-01,684,70549.77,0,405,279,59.21,mixed,24
+Private room,el Besòs i el Maresme,2027-02-01,616,63684.6,0,364,252,59.09,mixed,22
+Private room,el Besòs i el Maresme,2027-03-01,713,72129.46,0,434,279,60.87,mixed,25
+Private room,el Besòs i el Maresme,2027-04-01,750,73013.4,0,480,270,64.0,mixed,25
+Private room,el Besòs i el Maresme,2027-05-01,753,74895.86,0,474,279,62.95,mixed,25
+Private room,el Besòs i el Maresme,2027-06-01,661,68578.61,0,391,270,59.15,mixed,25
+Private room,el Besòs i el Maresme,2027-07-01,26,3530.18,0,10,16,38.46,mixed,14
+Private room,el Bon Pastor,2026-07-01,61,450.0,0,3,58,4.92,mixed,3
+Private room,el Bon Pastor,2026-08-01,62,,0,0,62,0.0,unpriced,2
+Private room,el Bon Pastor,2026-09-01,60,,0,0,60,0.0,unpriced,2
+Private room,el Bon Pastor,2026-10-01,62,,0,0,62,0.0,unpriced,2
+Private room,el Bon Pastor,2026-11-01,60,,0,0,60,0.0,unpriced,2
+Private room,el Bon Pastor,2026-12-01,62,,0,0,62,0.0,unpriced,2
+Private room,el Bon Pastor,2027-01-01,62,,0,0,62,0.0,unpriced,2
+Private room,el Bon Pastor,2027-02-01,57,150.0,0,1,56,1.75,mixed,3
+Private room,el Bon Pastor,2027-03-01,66,600.0,0,4,62,6.06,mixed,3
+Private room,el Bon Pastor,2027-04-01,63,450.0,0,3,60,4.76,mixed,3
+Private room,el Bon Pastor,2027-05-01,66,600.0,0,4,62,6.06,mixed,3
+Private room,el Bon Pastor,2027-06-01,68,1200.0,0,8,60,11.76,mixed,3
+Private room,el Bon Pastor,2027-07-01,6,300.0,0,2,4,33.33,mixed,3
+Private room,el Camp d'en Grassot i Gràcia Nova,2026-06-01,185,11865.67,0,185,0,100.0,listing_price_fallback,34
+Private room,el Camp d'en Grassot i Gràcia Nova,2026-07-01,1369,35826.07,0,693,676,50.62,mixed,56
+Private room,el Camp d'en Grassot i Gràcia Nova,2026-08-01,1228,23115.97,0,515,713,41.94,mixed,45
+Private room,el Camp d'en Grassot i Gràcia Nova,2026-09-01,1128,19532.42,0,438,690,38.83,mixed,45
+Private room,el Camp d'en Grassot i Gràcia Nova,2026-10-01,1234,25260.75,0,521,713,42.22,mixed,41
+Private room,el Camp d'en Grassot i Gràcia Nova,2026-11-01,1095,20090.46,0,405,690,36.99,mixed,37
+Private room,el Camp d'en Grassot i Gràcia Nova,2026-12-01,1060,17932.9,0,347,713,32.74,mixed,37
+Private room,el Camp d'en Grassot i Gràcia Nova,2027-01-01,1083,18820.08,0,370,713,34.16,mixed,36
+Private room,el Camp d'en Grassot i Gràcia Nova,2027-02-01,924,16205.28,0,280,644,30.3,mixed,33
+Private room,el Camp d'en Grassot i Gràcia Nova,2027-03-01,1044,18629.1,0,331,713,31.7,mixed,36
+Private room,el Camp d'en Grassot i Gràcia Nova,2027-04-01,1071,19715.34,0,381,690,35.57,mixed,36
+Private room,el Camp d'en Grassot i Gràcia Nova,2027-05-01,1054,18713.15,0,341,713,32.35,mixed,34
+Private room,el Camp d'en Grassot i Gràcia Nova,2027-06-01,968,14784.54,0,278,690,28.72,mixed,35
+Private room,el Camp d'en Grassot i Gràcia Nova,2027-07-01,40,47.29,0,3,37,7.5,mixed,25
+Private room,el Camp de l'Arpa del Clot,2026-06-01,208,23488.76,0,208,0,100.0,listing_price_fallback,39
+Private room,el Camp de l'Arpa del Clot,2026-07-01,1645,115553.01,0,913,732,55.5,mixed,67
+Private room,el Camp de l'Arpa del Clot,2026-08-01,1535,98501.65,0,760,775,49.51,mixed,57
+Private room,el Camp de l'Arpa del Clot,2026-09-01,1450,77121.49,0,700,750,48.28,mixed,62
+Private room,el Camp de l'Arpa del Clot,2026-10-01,1447,49090.22,0,672,775,46.44,mixed,58
+Private room,el Camp de l'Arpa del Clot,2026-11-01,1345,51128.0,0,595,750,44.24,mixed,51
+Private room,el Camp de l'Arpa del Clot,2026-12-01,1316,36331.22,0,541,775,41.11,mixed,46
+Private room,el Camp de l'Arpa del Clot,2027-01-01,1145,31591.53,0,370,775,32.31,mixed,41
+Private room,el Camp de l'Arpa del Clot,2027-02-01,1028,20216.46,0,328,700,31.91,mixed,41
+Private room,el Camp de l'Arpa del Clot,2027-03-01,1149,35015.01,0,374,775,32.55,mixed,47
+Private room,el Camp de l'Arpa del Clot,2027-04-01,1160,34202.88,0,410,750,35.34,mixed,47
+Private room,el Camp de l'Arpa del Clot,2027-05-01,1247,47355.25,0,472,775,37.85,mixed,48
+Private room,el Camp de l'Arpa del Clot,2027-06-01,1133,35300.5,0,383,750,33.8,mixed,54
+Private room,el Camp de l'Arpa del Clot,2027-07-01,48,836.38,0,5,43,10.42,mixed,28
+Private room,el Carmel,2026-06-01,52,1824.81,0,52,0,100.0,listing_price_fallback,9
+Private room,el Carmel,2026-07-01,266,7185.56,0,208,58,78.2,mixed,10
+Private room,el Carmel,2026-08-01,163,3380.86,0,101,62,61.96,mixed,6
+Private room,el Carmel,2026-09-01,172,3523.18,0,112,60,65.12,mixed,6
+Private room,el Carmel,2026-10-01,154,2998.79,0,92,62,59.74,mixed,6
+Private room,el Carmel,2026-11-01,90,851.7,0,30,60,33.33,mixed,3
+Private room,el Carmel,2026-12-01,98,1158.04,0,36,62,36.73,mixed,4
+Private room,el Carmel,2027-01-01,93,1301.69,0,31,62,33.33,mixed,3
+Private room,el Carmel,2027-02-01,84,1175.72,0,28,56,33.33,mixed,3
+Private room,el Carmel,2027-03-01,103,1606.39,0,41,62,39.81,mixed,4
+Private room,el Carmel,2027-04-01,120,2173.8,0,60,60,50.0,mixed,4
+Private room,el Carmel,2027-05-01,138,2837.76,0,76,62,55.07,mixed,5
+Private room,el Carmel,2027-06-01,108,1739.04,0,48,60,44.44,mixed,4
+Private room,el Carmel,2027-07-01,4,,0,0,4,0.0,unpriced,2
+Private room,el Clot,2026-06-01,115,5244.64,0,107,8,93.04,mixed,23
+Private room,el Clot,2026-07-01,862,21065.53,0,431,431,50.0,mixed,33
+Private room,el Clot,2026-08-01,712,14059.92,0,269,443,37.78,mixed,27
+Private room,el Clot,2026-09-01,673,12751.72,0,244,429,36.26,mixed,28
+Private room,el Clot,2026-10-01,704,9208.86,0,208,496,29.55,mixed,24
+Private room,el Clot,2026-11-01,573,3778.2,0,93,480,16.23,mixed,20
+Private room,el Clot,2026-12-01,612,6609.03,0,116,496,18.95,mixed,22
+Private room,el Clot,2027-01-01,596,5965.6,0,100,496,16.78,mixed,21
+Private room,el Clot,2027-02-01,532,4832.8,0,84,448,15.79,mixed,19
+Private room,el Clot,2027-03-01,644,8067.89,0,148,496,22.98,mixed,25
+Private room,el Clot,2027-04-01,750,13535.7,0,270,480,36.0,mixed,25
+Private room,el Clot,2027-05-01,775,13986.89,0,279,496,36.0,mixed,25
+Private room,el Clot,2027-06-01,700,12040.53,0,234,466,33.43,mixed,29
+Private room,el Clot,2027-07-01,27,28.32,0,1,26,3.7,mixed,15
+Private room,el Coll,2026-06-01,35,1482.53,0,35,0,100.0,listing_price_fallback,7
+Private room,el Coll,2026-07-01,258,6820.72,0,229,29,88.76,mixed,10
+Private room,el Coll,2026-08-01,151,2565.92,0,120,31,79.47,mixed,5
+Private room,el Coll,2026-09-01,150,4194.36,0,120,30,80.0,mixed,7
+Private room,el Coll,2026-10-01,193,7869.02,0,162,31,83.94,mixed,7
+Private room,el Coll,2026-11-01,185,7545.1,0,155,30,83.78,mixed,7
+Private room,el Coll,2026-12-01,186,7592.52,0,155,31,83.33,mixed,6
+Private room,el Coll,2027-01-01,124,6789.0,0,93,31,75.0,mixed,4
+Private room,el Coll,2027-02-01,112,6132.0,0,84,28,75.0,mixed,4
+Private room,el Coll,2027-03-01,124,6789.0,0,93,31,75.0,mixed,4
+Private room,el Coll,2027-04-01,120,6570.0,0,90,30,75.0,mixed,4
+Private room,el Coll,2027-05-01,124,6789.0,0,93,31,75.0,mixed,4
+Private room,el Coll,2027-06-01,101,5191.06,0,71,30,70.3,mixed,4
+Private room,el Coll,2027-07-01,2,,0,0,2,0.0,unpriced,1
+Private room,el Congrés i els Indians,2026-06-01,78,4408.92,0,77,1,98.72,mixed,18
+Private room,el Congrés i els Indians,2026-07-01,421,12943.68,0,272,149,64.61,mixed,20
+Private room,el Congrés i els Indians,2026-08-01,350,8429.37,0,195,155,55.71,mixed,14
+Private room,el Congrés i els Indians,2026-09-01,409,14975.1,0,259,150,63.33,mixed,16
+Private room,el Congrés i els Indians,2026-10-01,382,12919.42,0,227,155,59.42,mixed,14
+Private room,el Congrés i els Indians,2026-11-01,340,11171.6,0,190,150,55.88,mixed,13
+Private room,el Congrés i els Indians,2026-12-01,298,9220.52,0,143,155,47.99,mixed,11
+Private room,el Congrés i els Indians,2027-01-01,279,8296.22,0,124,155,44.44,mixed,9
+Private room,el Congrés i els Indians,2027-02-01,241,7178.36,0,101,140,41.91,mixed,10
+Private room,el Congrés i els Indians,2027-03-01,302,9550.22,0,147,155,48.68,mixed,14
+Private room,el Congrés i els Indians,2027-04-01,390,13238.1,0,240,150,61.54,mixed,13
+Private room,el Congrés i els Indians,2027-05-01,389,13340.97,0,234,155,60.15,mixed,15
+Private room,el Congrés i els Indians,2027-06-01,347,11807.6,0,197,150,56.77,mixed,16
+Private room,el Congrés i els Indians,2027-07-01,6,,0,0,6,0.0,unpriced,5
+Private room,el Fort Pienc,2026-06-01,341,18215.74,0,335,6,98.24,mixed,67
+Private room,el Fort Pienc,2026-07-01,2455,66917.7,0,1360,1095,55.4,mixed,96
+Private room,el Fort Pienc,2026-08-01,2048,36659.18,0,879,1169,42.92,mixed,76
+Private room,el Fort Pienc,2026-09-01,1925,41653.84,0,786,1139,40.83,mixed,74
+Private room,el Fort Pienc,2026-10-01,1931,54283.52,0,753,1178,39.0,mixed,67
+Private room,el Fort Pienc,2026-11-01,1812,50881.09,0,672,1140,37.09,mixed,62
+Private room,el Fort Pienc,2026-12-01,1798,50251.48,0,620,1178,34.48,mixed,61
+Private room,el Fort Pienc,2027-01-01,1822,56975.02,0,644,1178,35.35,mixed,59
+Private room,el Fort Pienc,2027-02-01,1596,50078.56,0,532,1064,33.33,mixed,57
+Private room,el Fort Pienc,2027-03-01,1787,57274.95,0,609,1178,34.08,mixed,60
+Private room,el Fort Pienc,2027-04-01,1740,54867.6,0,600,1140,34.48,mixed,58
+Private room,el Fort Pienc,2027-05-01,1798,56696.52,0,620,1178,34.48,mixed,58
+Private room,el Fort Pienc,2027-06-01,1634,44210.87,0,500,1134,30.6,mixed,59
+Private room,el Fort Pienc,2027-07-01,58,,0,0,58,0.0,unpriced,37
+Private room,el Guinardó,2026-06-01,121,6069.94,0,121,0,100.0,listing_price_fallback,21
+Private room,el Guinardó,2026-07-01,770,19306.01,0,353,417,45.84,mixed,32
+Private room,el Guinardó,2026-08-01,805,16042.68,0,340,465,42.24,mixed,28
+Private room,el Guinardó,2026-09-01,833,19677.83,0,383,450,45.98,mixed,30
+Private room,el Guinardó,2026-10-01,926,24141.5,0,488,438,52.7,mixed,33
+Private room,el Guinardó,2026-11-01,909,22067.3,0,459,450,50.5,mixed,31
+Private room,el Guinardó,2026-12-01,860,19748.84,0,397,463,46.16,mixed,30
+Private room,el Guinardó,2027-01-01,806,21744.95,0,341,465,42.31,mixed,26
+Private room,el Guinardó,2027-02-01,689,14944.04,0,269,420,39.04,mixed,26
+Private room,el Guinardó,2027-03-01,755,14914.0,0,290,465,38.41,mixed,27
+Private room,el Guinardó,2027-04-01,780,14822.7,0,330,450,42.31,mixed,26
+Private room,el Guinardó,2027-05-01,806,15316.79,0,341,465,42.31,mixed,26
+Private room,el Guinardó,2027-06-01,720,11934.32,0,270,450,37.5,mixed,26
+Private room,el Guinardó,2027-07-01,26,119.14,0,3,23,11.54,mixed,17
+Private room,el Parc i la Llacuna del Poblenou,2026-06-01,63,5645.83,0,63,0,100.0,listing_price_fallback,13
+Private room,el Parc i la Llacuna del Poblenou,2026-07-01,418,14850.15,0,157,261,37.56,mixed,20
+Private room,el Parc i la Llacuna del Poblenou,2026-08-01,433,14278.45,0,154,279,35.57,mixed,18
+Private room,el Parc i la Llacuna del Poblenou,2026-09-01,444,16879.84,0,174,270,39.19,mixed,18
+Private room,el Parc i la Llacuna del Poblenou,2026-10-01,430,13858.84,0,151,279,35.12,mixed,16
+Private room,el Parc i la Llacuna del Poblenou,2026-11-01,423,15529.2,0,153,270,36.17,mixed,15
+Private room,el Parc i la Llacuna del Poblenou,2026-12-01,434,15488.84,0,155,279,35.71,mixed,14
+Private room,el Parc i la Llacuna del Poblenou,2027-01-01,403,14124.84,0,124,279,30.77,mixed,13
+Private room,el Parc i la Llacuna del Poblenou,2027-02-01,379,15547.92,0,127,252,33.51,mixed,15
+Private room,el Parc i la Llacuna del Poblenou,2027-03-01,426,18678.84,0,147,279,34.51,mixed,16
+Private room,el Parc i la Llacuna del Poblenou,2027-04-01,392,14029.2,0,122,270,31.12,mixed,14
+Private room,el Parc i la Llacuna del Poblenou,2027-05-01,403,14124.84,0,124,279,30.77,mixed,13
+Private room,el Parc i la Llacuna del Poblenou,2027-06-01,391,16122.69,0,121,270,30.95,mixed,15
+Private room,el Parc i la Llacuna del Poblenou,2027-07-01,14,,0,0,14,0.0,unpriced,9
+Private room,el Poble Sec,2026-06-01,278,24296.31,0,265,13,95.32,mixed,63
+Private room,el Poble Sec,2026-07-01,2191,92660.59,0,1058,1133,48.29,mixed,101
+Private room,el Poble Sec,2026-08-01,2091,81425.55,0,882,1209,42.18,mixed,85
+Private room,el Poble Sec,2026-09-01,2155,96698.93,0,990,1165,45.94,mixed,89
+Private room,el Poble Sec,2026-10-01,2351,105375.25,0,1166,1185,49.6,mixed,86
+Private room,el Poble Sec,2026-11-01,2116,91830.23,0,976,1140,46.12,mixed,73
+Private room,el Poble Sec,2026-12-01,2132,94792.54,0,954,1178,44.75,mixed,75
+Private room,el Poble Sec,2027-01-01,2175,117413.56,0,997,1178,45.84,mixed,75
+Private room,el Poble Sec,2027-02-01,1932,104532.72,0,868,1064,44.93,mixed,71
+Private room,el Poble Sec,2027-03-01,2210,118397.84,0,1022,1188,46.24,mixed,79
+Private room,el Poble Sec,2027-04-01,2375,126226.9,0,1205,1170,50.74,mixed,80
+Private room,el Poble Sec,2027-05-01,2500,132528.62,0,1291,1209,51.64,mixed,84
+Private room,el Poble Sec,2027-06-01,2069,77024.9,0,916,1153,44.27,mixed,78
+Private room,el Poble Sec,2027-07-01,70,7.0,0,2,68,2.86,mixed,38
+Private room,el Poblenou,2026-06-01,149,10299.14,0,149,0,100.0,listing_price_fallback,29
+Private room,el Poblenou,2026-07-01,1253,26562.53,0,554,699,44.21,mixed,52
+Private room,el Poblenou,2026-08-01,1114,19107.94,0,374,740,33.57,mixed,41
+Private room,el Poblenou,2026-09-01,882,11019.54,0,219,663,24.83,mixed,42
+Private room,el Poblenou,2026-10-01,1173,16036.5,0,434,739,37.0,mixed,39
+Private room,el Poblenou,2026-11-01,1114,14862.12,0,400,714,35.91,mixed,39
+Private room,el Poblenou,2026-12-01,1158,16970.96,0,424,734,36.61,mixed,39
+Private room,el Poblenou,2027-01-01,1147,20617.17,0,403,744,35.14,mixed,37
+Private room,el Poblenou,2027-02-01,1043,19881.96,0,371,672,35.57,mixed,39
+Private room,el Poblenou,2027-03-01,1215,24459.18,0,471,744,38.77,mixed,45
+Private room,el Poblenou,2027-04-01,1294,28513.5,0,574,720,44.36,mixed,44
+Private room,el Poblenou,2027-05-01,1426,48113.55,0,682,744,47.83,mixed,46
+Private room,el Poblenou,2027-06-01,1247,37108.18,0,527,720,42.26,mixed,46
+Private room,el Poblenou,2027-07-01,41,76.4,0,2,39,4.88,mixed,23
+Private room,el Putxet i el Farró,2026-06-01,167,9418.21,0,167,0,100.0,listing_price_fallback,36
+Private room,el Putxet i el Farró,2026-07-01,1026,30841.36,0,516,510,50.29,mixed,45
+Private room,el Putxet i el Farró,2026-08-01,834,19472.89,0,314,520,37.65,mixed,33
+Private room,el Putxet i el Farró,2026-09-01,881,20286.71,0,355,526,40.3,mixed,35
+Private room,el Putxet i el Farró,2026-10-01,995,25139.85,0,437,558,43.92,mixed,36
+Private room,el Putxet i el Farró,2026-11-01,819,17120.34,0,279,540,34.07,mixed,29
+Private room,el Putxet i el Farró,2026-12-01,834,16564.73,0,276,558,33.09,mixed,27
+Private room,el Putxet i el Farró,2027-01-01,744,11353.13,0,186,558,25.0,mixed,24
+Private room,el Putxet i el Farró,2027-02-01,647,9496.58,0,143,504,22.1,mixed,26
+Private room,el Putxet i el Farró,2027-03-01,747,12872.26,0,189,558,25.3,mixed,30
+Private room,el Putxet i el Farró,2027-04-01,790,16583.31,0,250,540,31.65,mixed,30
+Private room,el Putxet i el Farró,2027-05-01,818,18173.16,0,272,546,33.25,mixed,31
+Private room,el Putxet i el Farró,2027-06-01,775,19709.91,0,265,510,34.19,mixed,31
+Private room,el Putxet i el Farró,2027-07-01,34,327.27,0,3,31,8.82,mixed,20
+Private room,el Raval,2026-06-01,1130,115076.68,0,1124,6,99.47,mixed,252
+Private room,el Raval,2026-07-01,7439,487567.83,0,4759,2680,63.97,mixed,353
+Private room,el Raval,2026-08-01,5970,329510.83,0,3161,2809,52.95,mixed,271
+Private room,el Raval,2026-09-01,6112,315550.66,0,3370,2742,55.14,mixed,302
+Private room,el Raval,2026-10-01,6355,343899.85,0,3503,2852,55.12,mixed,262
+Private room,el Raval,2026-11-01,5822,311511.61,0,3092,2730,53.11,mixed,217
+Private room,el Raval,2026-12-01,5996,325962.88,0,3175,2821,52.95,mixed,225
+Private room,el Raval,2027-01-01,6542,383698.8,0,3737,2805,57.12,mixed,230
+Private room,el Raval,2027-02-01,5998,371972.83,0,3450,2548,57.52,mixed,241
+Private room,el Raval,2027-03-01,6957,440910.4,0,4106,2851,59.02,mixed,284
+Private room,el Raval,2027-04-01,7945,544013.75,0,5125,2820,64.51,mixed,279
+Private room,el Raval,2027-05-01,8218,571947.09,0,5335,2883,64.92,mixed,281
+Private room,el Raval,2027-06-01,7128,495323.15,0,4356,2772,61.11,mixed,285
+Private room,el Raval,2027-07-01,198,5034.4,0,41,157,20.71,mixed,112
+Private room,el Turó de la Peira,2026-06-01,42,876.06,0,42,0,100.0,listing_price_fallback,7
+Private room,el Turó de la Peira,2026-07-01,334,4526.31,0,217,117,64.97,mixed,11
+Private room,el Turó de la Peira,2026-08-01,320,4080.78,0,196,124,61.25,mixed,11
+Private room,el Turó de la Peira,2026-09-01,270,3080.42,0,150,120,55.56,mixed,10
+Private room,el Turó de la Peira,2026-10-01,238,2364.32,0,114,124,47.9,mixed,8
+Private room,el Turó de la Peira,2026-11-01,180,1227.46,0,60,120,33.33,mixed,7
+Private room,el Turó de la Peira,2026-12-01,155,623.1,0,31,124,20.0,mixed,5
+Private room,el Turó de la Peira,2027-01-01,124,,0,0,124,0.0,unpriced,4
+Private room,el Turó de la Peira,2027-02-01,112,,0,0,112,0.0,unpriced,4
+Private room,el Turó de la Peira,2027-03-01,124,,0,0,124,0.0,unpriced,4
+Private room,el Turó de la Peira,2027-04-01,120,,0,0,120,0.0,unpriced,4
+Private room,el Turó de la Peira,2027-05-01,124,,0,0,124,0.0,unpriced,4
+Private room,el Turó de la Peira,2027-06-01,120,,0,0,120,0.0,unpriced,4
+Private room,el Turó de la Peira,2027-07-01,7,,0,0,7,0.0,unpriced,4
+Private room,Horta,2026-06-01,7,265.27,0,7,0,100.0,listing_price_fallback,2
+Private room,Horta,2026-07-01,91,557.51,0,32,59,35.16,mixed,4
+Private room,Horta,2026-08-01,93,493.21,0,31,62,33.33,mixed,3
+Private room,Horta,2026-09-01,78,445.48,0,28,50,35.9,mixed,3
+Private room,Horta,2026-10-01,93,493.21,0,31,62,33.33,mixed,3
+Private room,Horta,2026-11-01,90,477.3,0,30,60,33.33,mixed,3
+Private room,Horta,2026-12-01,93,493.21,0,31,62,33.33,mixed,3
+Private room,Horta,2027-01-01,71,143.19,0,9,62,12.68,mixed,3
+Private room,Horta,2027-02-01,56,,0,0,56,0.0,unpriced,2
+Private room,Horta,2027-03-01,64,31.82,0,2,62,3.13,mixed,3
+Private room,Horta,2027-04-01,90,477.3,0,30,60,33.33,mixed,3
+Private room,Horta,2027-05-01,93,493.21,0,31,62,33.33,mixed,3
+Private room,Horta,2027-06-01,90,477.3,0,30,60,33.33,mixed,3
+Private room,Horta,2027-07-01,5,31.82,0,2,3,40.0,mixed,3
+Private room,Hostafrancs,2026-06-01,100,12334.13,0,100,0,100.0,listing_price_fallback,27
+Private room,Hostafrancs,2026-07-01,727,34206.49,0,286,441,39.34,mixed,35
+Private room,Hostafrancs,2026-08-01,674,25969.98,0,209,465,31.01,mixed,31
+Private room,Hostafrancs,2026-09-01,800,37218.7,0,350,450,43.75,mixed,36
+Private room,Hostafrancs,2026-10-01,816,35149.64,0,351,465,43.01,mixed,32
+Private room,Hostafrancs,2026-11-01,772,30680.4,0,322,450,41.71,mixed,30
+Private room,Hostafrancs,2026-12-01,843,37233.11,0,378,465,44.84,mixed,33
+Private room,Hostafrancs,2027-01-01,855,42014.98,0,390,465,45.61,mixed,30
+Private room,Hostafrancs,2027-02-01,778,38190.24,0,358,420,46.02,mixed,32
+Private room,Hostafrancs,2027-03-01,891,45627.54,0,426,465,47.81,mixed,34
+Private room,Hostafrancs,2027-04-01,896,44791.6,0,446,450,49.78,mixed,35
+Private room,Hostafrancs,2027-05-01,926,46431.02,0,461,465,49.78,mixed,35
+Private room,Hostafrancs,2027-06-01,818,42426.23,0,368,450,44.99,mixed,34
+Private room,Hostafrancs,2027-07-01,23,,0,0,23,0.0,unpriced,14
+Private room,l'Antiga Esquerra de l'Eixample,2026-06-01,619,92873.72,0,589,30,95.15,mixed,121
+Private room,l'Antiga Esquerra de l'Eixample,2026-07-01,4385,443463.84,0,2538,1847,57.88,mixed,172
+Private room,l'Antiga Esquerra de l'Eixample,2026-08-01,3681,364031.23,0,1805,1876,49.04,mixed,149
+Private room,l'Antiga Esquerra de l'Eixample,2026-09-01,3497,319562.12,0,1700,1797,48.61,mixed,139
+Private room,l'Antiga Esquerra de l'Eixample,2026-10-01,3526,276609.9,0,1694,1832,48.04,mixed,130
+Private room,l'Antiga Esquerra de l'Eixample,2026-11-01,3118,241282.95,0,1348,1770,43.23,mixed,117
+Private room,l'Antiga Esquerra de l'Eixample,2026-12-01,3183,236515.26,0,1305,1878,41.0,mixed,121
+Private room,l'Antiga Esquerra de l'Eixample,2027-01-01,3098,152279.8,0,1176,1922,37.96,mixed,109
+Private room,l'Antiga Esquerra de l'Eixample,2027-02-01,2775,114579.76,0,1039,1736,37.44,mixed,110
+Private room,l'Antiga Esquerra de l'Eixample,2027-03-01,3176,128939.25,0,1267,1909,39.89,mixed,131
+Private room,l'Antiga Esquerra de l'Eixample,2027-04-01,3511,167609.64,0,1681,1830,47.88,mixed,126
+Private room,l'Antiga Esquerra de l'Eixample,2027-05-01,3533,153947.45,0,1642,1891,46.48,mixed,123
+Private room,l'Antiga Esquerra de l'Eixample,2027-06-01,3258,161920.54,0,1457,1801,44.72,mixed,134
+Private room,l'Antiga Esquerra de l'Eixample,2027-07-01,102,1924.93,0,9,93,8.82,mixed,63
+Private room,la Barceloneta,2026-06-01,200,19973.12,0,187,13,93.5,mixed,42
+Private room,la Barceloneta,2026-07-01,1121,82232.84,0,840,281,74.93,mixed,57
+Private room,la Barceloneta,2026-08-01,784,42671.2,0,482,302,61.48,mixed,39
+Private room,la Barceloneta,2026-09-01,886,64184.8,0,577,309,65.12,mixed,44
+Private room,la Barceloneta,2026-10-01,1238,91424.06,0,897,341,72.46,mixed,44
+Private room,la Barceloneta,2026-11-01,1168,86342.94,0,838,330,71.75,mixed,40
+Private room,la Barceloneta,2026-12-01,1151,89042.74,0,848,303,73.68,mixed,41
+Private room,la Barceloneta,2027-01-01,1092,88861.64,0,817,275,74.82,mixed,38
+Private room,la Barceloneta,2027-02-01,968,79296.32,0,716,252,73.97,mixed,36
+Private room,la Barceloneta,2027-03-01,1118,90883.62,0,826,292,73.88,mixed,42
+Private room,la Barceloneta,2027-04-01,1194,90765.16,0,875,319,73.28,mixed,43
+Private room,la Barceloneta,2027-05-01,1333,105809.51,0,992,341,74.42,mixed,43
+Private room,la Barceloneta,2027-06-01,1099,80900.29,0,776,323,70.61,mixed,43
+Private room,la Barceloneta,2027-07-01,28,285.5,0,8,20,28.57,mixed,14
+Private room,la Bordeta,2026-06-01,83,6288.13,0,77,6,92.77,mixed,20
+Private room,la Bordeta,2026-07-01,597,31253.44,0,342,255,57.29,mixed,24
+Private room,la Bordeta,2026-08-01,520,25007.6,0,269,251,51.73,mixed,21
+Private room,la Bordeta,2026-09-01,559,23741.8,0,274,285,49.02,mixed,24
+Private room,la Bordeta,2026-10-01,596,26024.13,0,317,279,53.19,mixed,23
+Private room,la Bordeta,2026-11-01,571,25674.6,0,301,270,52.71,mixed,20
+Private room,la Bordeta,2026-12-01,610,28749.82,0,331,279,54.26,mixed,21
+Private room,la Bordeta,2027-01-01,589,27439.34,0,310,279,52.63,mixed,19
+Private room,la Bordeta,2027-02-01,504,24106.32,0,252,252,50.0,mixed,18
+Private room,la Bordeta,2027-03-01,620,35338.14,0,341,279,55.0,mixed,20
+Private room,la Bordeta,2027-04-01,570,32383.8,0,300,270,52.63,mixed,19
+Private room,la Bordeta,2027-05-01,565,33463.26,0,310,255,54.87,mixed,19
+Private room,la Bordeta,2027-06-01,479,25530.31,0,239,240,49.9,mixed,18
+Private room,la Bordeta,2027-07-01,13,69.0,0,1,12,7.69,mixed,9
+Private room,la Dreta de l'Eixample,2026-06-01,1832,219409.42,0,1784,48,97.38,mixed,384
+Private room,la Dreta de l'Eixample,2026-07-01,10571,1041370.16,0,7808,2763,73.86,mixed,485
+Private room,la Dreta de l'Eixample,2026-08-01,7989,724963.69,0,5131,2858,64.23,mixed,393
+Private room,la Dreta de l'Eixample,2026-09-01,7298,635060.2,0,4549,2749,62.33,mixed,366
+Private room,la Dreta de l'Eixample,2026-10-01,6749,503583.56,0,3928,2821,58.2,mixed,314
+Private room,la Dreta de l'Eixample,2026-11-01,5546,351169.32,0,2803,2743,50.54,mixed,246
+Private room,la Dreta de l'Eixample,2026-12-01,5735,406633.44,0,2919,2816,50.9,mixed,248
+Private room,la Dreta de l'Eixample,2027-01-01,6522,540710.58,0,3732,2790,57.22,mixed,264
+Private room,la Dreta de l'Eixample,2027-02-01,5720,444792.87,0,3200,2520,55.94,mixed,284
+Private room,la Dreta de l'Eixample,2027-03-01,6877,611260.39,0,4016,2861,58.4,mixed,314
+Private room,la Dreta de l'Eixample,2027-04-01,7458,681687.95,0,4638,2820,62.19,mixed,289
+Private room,la Dreta de l'Eixample,2027-05-01,7762,715574.66,0,4850,2912,62.48,mixed,294
+Private room,la Dreta de l'Eixample,2027-06-01,6993,643934.17,0,4263,2730,60.96,mixed,313
+Private room,la Dreta de l'Eixample,2027-07-01,198,8009.53,0,44,154,22.22,mixed,111
+Private room,la Font d'en Fargues,2026-06-01,80,3832.54,0,80,0,100.0,listing_price_fallback,14
+Private room,la Font d'en Fargues,2026-07-01,325,13055.84,0,266,59,81.85,mixed,13
+Private room,la Font d'en Fargues,2026-08-01,245,9108.09,0,183,62,74.69,mixed,8
+Private room,la Font d'en Fargues,2026-09-01,161,5246.31,0,101,60,62.73,mixed,6
+Private room,la Font d'en Fargues,2026-10-01,124,2877.73,0,62,62,50.0,mixed,4
+Private room,la Font d'en Fargues,2026-11-01,119,2739.93,0,59,60,49.58,mixed,4
+Private room,la Font d'en Fargues,2026-12-01,93,1483.66,0,31,62,33.33,mixed,3
+Private room,la Font d'en Fargues,2027-01-01,92,1435.8,0,30,62,32.61,mixed,3
+Private room,la Font d'en Fargues,2027-02-01,56,,0,0,56,0.0,unpriced,2
+Private room,la Font d'en Fargues,2027-03-01,62,,0,0,62,0.0,unpriced,2
+Private room,la Font d'en Fargues,2027-04-01,60,,0,0,60,0.0,unpriced,2
+Private room,la Font d'en Fargues,2027-05-01,62,,0,0,62,0.0,unpriced,2
+Private room,la Font d'en Fargues,2027-06-01,59,,0,0,59,0.0,unpriced,2
+Private room,la Font d'en Fargues,2027-07-01,1,,0,0,1,0.0,unpriced,1
+Private room,la Font de la Guatlla,2026-06-01,95,6095.4,0,95,0,100.0,listing_price_fallback,17
+Private room,la Font de la Guatlla,2026-07-01,492,19276.11,0,403,89,81.91,mixed,18
+Private room,la Font de la Guatlla,2026-08-01,468,19253.53,0,375,93,80.13,mixed,18
+Private room,la Font de la Guatlla,2026-09-01,480,24125.25,0,390,90,81.25,mixed,20
+Private room,la Font de la Guatlla,2026-10-01,368,16065.86,0,275,93,74.73,mixed,14
+Private room,la Font de la Guatlla,2026-11-01,278,13079.6,0,188,90,67.63,mixed,11
+Private room,la Font de la Guatlla,2026-12-01,278,13712.77,0,185,93,66.55,mixed,11
+Private room,la Font de la Guatlla,2027-01-01,341,17675.89,0,248,93,72.73,mixed,11
+Private room,la Font de la Guatlla,2027-02-01,288,15045.92,0,204,84,70.83,mixed,11
+Private room,la Font de la Guatlla,2027-03-01,310,16250.82,0,217,93,70.0,mixed,10
+Private room,la Font de la Guatlla,2027-04-01,300,15726.6,0,210,90,70.0,mixed,10
+Private room,la Font de la Guatlla,2027-05-01,310,16250.82,0,217,93,70.0,mixed,10
+Private room,la Font de la Guatlla,2027-06-01,263,12919.28,0,173,90,65.78,mixed,10
+Private room,la Font de la Guatlla,2027-07-01,6,149.0,0,2,4,33.33,mixed,4
+Private room,la Guineueta,2026-06-01,19,629.84,0,19,0,100.0,listing_price_fallback,4
+Private room,la Guineueta,2026-07-01,107,591.9,0,20,87,18.69,mixed,6
+Private room,la Guineueta,2026-08-01,93,,0,0,93,0.0,unpriced,3
+Private room,la Guineueta,2026-09-01,114,972.64,0,24,90,21.05,mixed,6
+Private room,la Guineueta,2026-10-01,187,3802.99,0,94,93,50.27,mixed,7
+Private room,la Guineueta,2026-11-01,240,5068.8,0,150,90,62.5,mixed,8
+Private room,la Guineueta,2026-12-01,248,5237.76,0,155,93,62.5,mixed,8
+Private room,la Guineueta,2027-01-01,248,5237.76,0,155,93,62.5,mixed,8
+Private room,la Guineueta,2027-02-01,224,4730.88,0,140,84,62.5,mixed,8
+Private room,la Guineueta,2027-03-01,248,5237.76,0,155,93,62.5,mixed,8
+Private room,la Guineueta,2027-04-01,240,5068.8,0,150,90,62.5,mixed,8
+Private room,la Guineueta,2027-05-01,248,5237.76,0,155,93,62.5,mixed,8
+Private room,la Guineueta,2027-06-01,216,4135.26,0,126,90,58.33,mixed,8
+Private room,la Guineueta,2027-07-01,8,26.74,0,2,6,25.0,mixed,4
+Private room,la Marina de Port,2026-06-01,135,4953.56,0,134,1,99.26,mixed,25
+Private room,la Marina de Port,2026-07-01,697,17333.45,0,462,235,66.28,mixed,27
+Private room,la Marina de Port,2026-08-01,395,5066.8,0,147,248,37.22,mixed,17
+Private room,la Marina de Port,2026-09-01,382,5029.82,0,142,240,37.17,mixed,17
+Private room,la Marina de Port,2026-10-01,453,7050.91,0,205,248,45.25,mixed,17
+Private room,la Marina de Port,2026-11-01,472,8487.07,0,232,240,49.15,mixed,17
+Private room,la Marina de Port,2026-12-01,557,10338.7,0,309,248,55.48,mixed,25
+Private room,la Marina de Port,2027-01-01,744,15568.51,0,496,248,66.67,mixed,24
+Private room,la Marina de Port,2027-02-01,672,14061.88,0,448,224,66.67,mixed,24
+Private room,la Marina de Port,2027-03-01,776,16397.11,0,518,258,66.75,mixed,30
+Private room,la Marina de Port,2027-04-01,870,18601.5,0,600,270,68.97,mixed,29
+Private room,la Marina de Port,2027-05-01,899,19221.55,0,620,279,68.97,mixed,29
+Private room,la Marina de Port,2027-06-01,738,14669.7,0,474,264,64.23,mixed,29
+Private room,la Marina de Port,2027-07-01,13,,0,0,13,0.0,unpriced,8
+Private room,la Marina del Prat Vermell,2026-06-01,5,127.35,0,5,0,100.0,listing_price_fallback,1
+Private room,la Marina del Prat Vermell,2026-07-01,1,25.47,0,1,0,100.0,listing_price_fallback,1
+Private room,la Marina del Prat Vermell,2026-08-01,31,789.57,0,31,0,100.0,listing_price_fallback,1
+Private room,la Marina del Prat Vermell,2026-11-01,13,331.11,0,13,0,100.0,listing_price_fallback,1
+Private room,la Marina del Prat Vermell,2027-03-01,10,254.7,0,10,0,100.0,listing_price_fallback,1
+Private room,la Marina del Prat Vermell,2027-04-01,30,764.1,0,30,0,100.0,listing_price_fallback,1
+Private room,la Marina del Prat Vermell,2027-05-01,31,789.57,0,31,0,100.0,listing_price_fallback,1
+Private room,la Marina del Prat Vermell,2027-06-01,24,611.28,0,24,0,100.0,listing_price_fallback,1
+Private room,la Maternitat i Sant Ramon,2026-06-01,78,3487.02,0,66,12,84.62,mixed,15
+Private room,la Maternitat i Sant Ramon,2026-07-01,472,12965.62,0,260,212,55.08,mixed,20
+Private room,la Maternitat i Sant Ramon,2026-08-01,344,7534.86,0,134,210,38.95,mixed,14
+Private room,la Maternitat i Sant Ramon,2026-09-01,404,11447.5,0,164,240,40.59,mixed,15
+Private room,la Maternitat i Sant Ramon,2026-10-01,373,10232.16,0,125,248,33.51,mixed,13
+Private room,la Maternitat i Sant Ramon,2026-11-01,360,9855.0,0,120,240,33.33,mixed,12
+Private room,la Maternitat i Sant Ramon,2026-12-01,372,10183.5,0,124,248,33.33,mixed,12
+Private room,la Maternitat i Sant Ramon,2027-01-01,403,11147.29,0,155,248,38.46,mixed,13
+Private room,la Maternitat i Sant Ramon,2027-02-01,341,10068.52,0,140,201,41.06,mixed,13
+Private room,la Maternitat i Sant Ramon,2027-03-01,382,11147.29,0,155,227,40.58,mixed,13
+Private room,la Maternitat i Sant Ramon,2027-04-01,390,10787.7,0,150,240,38.46,mixed,13
+Private room,la Maternitat i Sant Ramon,2027-05-01,394,11147.29,0,155,239,39.34,mixed,13
+Private room,la Maternitat i Sant Ramon,2027-06-01,333,9552.86,0,129,204,38.74,mixed,14
+Private room,la Maternitat i Sant Ramon,2027-07-01,12,,0,0,12,0.0,unpriced,6
+Private room,la Nova Esquerra de l'Eixample,2026-06-01,439,29380.81,0,439,0,100.0,listing_price_fallback,86
+Private room,la Nova Esquerra de l'Eixample,2026-07-01,3113,94665.23,0,1400,1713,44.97,mixed,140
+Private room,la Nova Esquerra de l'Eixample,2026-08-01,2748,73515.88,0,946,1802,34.43,mixed,106
+Private room,la Nova Esquerra de l'Eixample,2026-09-01,3016,83360.76,0,1217,1799,40.35,mixed,119
+Private room,la Nova Esquerra de l'Eixample,2026-10-01,3216,90927.8,0,1325,1891,41.2,mixed,111
+Private room,la Nova Esquerra de l'Eixample,2026-11-01,2930,81821.74,0,1101,1829,37.58,mixed,105
+Private room,la Nova Esquerra de l'Eixample,2026-12-01,2959,84648.45,0,1097,1862,37.07,mixed,105
+Private room,la Nova Esquerra de l'Eixample,2027-01-01,3231,120651.44,0,1340,1891,41.47,mixed,112
+Private room,la Nova Esquerra de l'Eixample,2027-02-01,2879,111977.41,0,1173,1706,40.74,mixed,107
+Private room,la Nova Esquerra de l'Eixample,2027-03-01,3180,126249.25,0,1320,1860,41.51,mixed,110
+Private room,la Nova Esquerra de l'Eixample,2027-04-01,3226,134742.67,0,1426,1800,44.2,mixed,110
+Private room,la Nova Esquerra de l'Eixample,2027-05-01,3266,137655.91,0,1406,1860,43.05,mixed,109
+Private room,la Nova Esquerra de l'Eixample,2027-06-01,2924,109793.82,0,1124,1800,38.44,mixed,110
+Private room,la Nova Esquerra de l'Eixample,2027-07-01,109,718.34,0,10,99,9.17,mixed,66
+Private room,la Prosperitat,2026-06-01,12,457.01,0,12,0,100.0,listing_price_fallback,4
+Private room,la Prosperitat,2026-07-01,150,2480.62,0,63,87,42.0,mixed,6
+Private room,la Prosperitat,2026-08-01,155,2532.08,0,62,93,40.0,mixed,5
+Private room,la Prosperitat,2026-09-01,150,2450.4,0,60,90,40.0,mixed,5
+Private room,la Prosperitat,2026-10-01,155,2532.08,0,62,93,40.0,mixed,5
+Private room,la Prosperitat,2026-11-01,150,2450.4,0,60,90,40.0,mixed,5
+Private room,la Prosperitat,2026-12-01,165,3073.88,0,72,93,43.64,mixed,6
+Private room,la Prosperitat,2027-01-01,155,2924.54,0,62,93,40.0,mixed,5
+Private room,la Prosperitat,2027-02-01,140,2641.52,0,56,84,40.0,mixed,5
+Private room,la Prosperitat,2027-03-01,167,3542.48,0,74,93,44.31,mixed,7
+Private room,la Prosperitat,2027-04-01,210,4914.9,0,120,90,57.14,mixed,7
+Private room,la Prosperitat,2027-05-01,217,5078.73,0,124,93,57.14,mixed,7
+Private room,la Prosperitat,2027-06-01,168,3025.8,0,78,90,46.43,mixed,6
+Private room,la Prosperitat,2027-07-01,8,19.24,0,2,6,25.0,mixed,4
+Private room,la Sagrada Família,2026-06-01,546,33272.67,0,530,16,97.07,mixed,112
+Private room,la Sagrada Família,2026-07-01,4126,139126.3,0,2430,1696,58.89,mixed,163
+Private room,la Sagrada Família,2026-08-01,3435,87908.3,0,1642,1793,47.8,mixed,135
+Private room,la Sagrada Família,2026-09-01,3271,95077.48,0,1564,1707,47.81,mixed,132
+Private room,la Sagrada Família,2026-10-01,3252,92868.27,0,1454,1798,44.71,mixed,118
+Private room,la Sagrada Família,2026-11-01,2935,87009.06,0,1225,1710,41.74,mixed,104
+Private room,la Sagrada Família,2026-12-01,2848,77146.32,0,1081,1767,37.96,mixed,100
+Private room,la Sagrada Família,2027-01-01,2902,84086.15,0,1104,1798,38.04,mixed,95
+Private room,la Sagrada Família,2027-02-01,2498,73513.25,0,874,1624,34.99,mixed,91
+Private room,la Sagrada Família,2027-03-01,2907,88534.78,0,1097,1810,37.74,mixed,111
+Private room,la Sagrada Família,2027-04-01,3270,100678.5,0,1470,1800,44.95,mixed,109
+Private room,la Sagrada Família,2027-05-01,3349,103032.25,0,1489,1860,44.46,mixed,109
+Private room,la Sagrada Família,2027-06-01,2980,86467.69,0,1204,1776,40.4,mixed,113
+Private room,la Sagrada Família,2027-07-01,106,750.54,0,10,96,9.43,mixed,62
+Private room,la Sagrera,2026-06-01,35,2392.91,0,35,0,100.0,listing_price_fallback,7
+Private room,la Sagrera,2026-07-01,279,11897.82,0,162,117,58.06,mixed,10
+Private room,la Sagrera,2026-08-01,171,6364.04,0,76,95,44.44,mixed,8
+Private room,la Sagrera,2026-09-01,186,6034.02,0,72,114,38.71,mixed,8
+Private room,la Sagrera,2026-10-01,223,6931.4,0,99,124,44.39,mixed,9
+Private room,la Sagrera,2026-11-01,183,3779.7,0,63,120,34.43,mixed,7
+Private room,la Sagrera,2026-12-01,149,3527.61,0,50,99,33.56,mixed,7
+Private room,la Sagrera,2027-01-01,155,3657.69,0,62,93,40.0,mixed,5
+Private room,la Sagrera,2027-02-01,140,3303.72,0,56,84,40.0,mixed,5
+Private room,la Sagrera,2027-03-01,157,3657.69,0,62,95,39.49,mixed,6
+Private room,la Sagrera,2027-04-01,180,3539.7,0,60,120,33.33,mixed,6
+Private room,la Sagrera,2027-05-01,186,3657.69,0,62,124,33.33,mixed,6
+Private room,la Sagrera,2027-06-01,179,3709.28,0,59,120,32.96,mixed,7
+Private room,la Sagrera,2027-07-01,9,163.34,0,2,7,22.22,mixed,5
+Private room,la Salut,2026-06-01,63,2453.16,0,53,10,84.13,mixed,14
+Private room,la Salut,2026-07-01,435,7003.53,0,138,297,31.72,mixed,19
+Private room,la Salut,2026-08-01,345,4159.39,0,65,280,18.84,mixed,15
+Private room,la Salut,2026-09-01,351,3659.9,0,48,303,13.68,mixed,15
+Private room,la Salut,2026-10-01,464,8377.86,0,123,341,26.51,mixed,15
+Private room,la Salut,2026-11-01,420,7237.8,0,90,330,21.43,mixed,14
+Private room,la Salut,2026-12-01,416,6166.32,0,75,341,18.03,mixed,14
+Private room,la Salut,2027-01-01,403,5218.23,0,62,341,15.38,mixed,13
+Private room,la Salut,2027-02-01,364,4713.24,0,56,308,15.38,mixed,13
+Private room,la Salut,2027-03-01,443,6181.33,0,92,351,20.77,mixed,17
+Private room,la Salut,2027-04-01,510,7939.2,0,150,360,29.41,mixed,17
+Private room,la Salut,2027-05-01,527,8203.84,0,155,372,29.41,mixed,17
+Private room,la Salut,2027-06-01,459,6183.03,0,118,341,25.71,mixed,17
+Private room,la Salut,2027-07-01,13,,0,0,13,0.0,unpriced,9
+Private room,la Teixonera,2026-06-01,40,2264.4,0,40,0,100.0,listing_price_fallback,7
+Private room,la Teixonera,2026-07-01,183,7875.16,0,153,30,83.61,mixed,8
+Private room,la Teixonera,2026-08-01,104,4157.09,0,73,31,70.19,mixed,4
+Private room,la Teixonera,2026-09-01,120,8166.84,0,90,30,75.0,mixed,5
+Private room,la Teixonera,2026-10-01,111,7566.29,0,80,31,72.07,mixed,4
+Private room,la Teixonera,2026-11-01,90,5829.9,0,60,30,66.67,mixed,3
+Private room,la Teixonera,2026-12-01,93,6024.23,0,62,31,66.67,mixed,3
+Private room,la Teixonera,2027-01-01,93,6024.23,0,62,31,66.67,mixed,3
+Private room,la Teixonera,2027-02-01,87,5698.25,0,59,28,67.82,mixed,4
+Private room,la Teixonera,2027-03-01,116,7081.24,0,85,31,73.28,mixed,6
+Private room,la Teixonera,2027-04-01,150,8229.9,0,120,30,80.0,mixed,5
+Private room,la Teixonera,2027-05-01,155,8504.23,0,124,31,80.0,mixed,5
+Private room,la Teixonera,2027-06-01,126,6583.92,0,96,30,76.19,mixed,5
+Private room,la Teixonera,2027-07-01,1,,0,0,1,0.0,unpriced,1
+Private room,la Trinitat Nova,2026-06-01,6,384.0,0,6,0,100.0,listing_price_fallback,1
+Private room,la Trinitat Nova,2026-07-01,29,1856.0,0,29,0,100.0,listing_price_fallback,1
+Private room,la Trinitat Nova,2026-08-01,29,1856.0,0,29,0,100.0,listing_price_fallback,1
+Private room,la Trinitat Nova,2026-09-01,14,896.0,0,14,0,100.0,listing_price_fallback,1
+Private room,la Trinitat Nova,2026-10-01,11,704.0,0,11,0,100.0,listing_price_fallback,1
+Private room,la Trinitat Nova,2026-11-01,3,192.0,0,3,0,100.0,listing_price_fallback,1
+Private room,la Trinitat Nova,2027-03-01,10,572.3,0,10,0,100.0,listing_price_fallback,1
+Private room,la Trinitat Nova,2027-04-01,30,1716.9,0,30,0,100.0,listing_price_fallback,1
+Private room,la Trinitat Nova,2027-05-01,31,1774.13,0,31,0,100.0,listing_price_fallback,1
+Private room,la Trinitat Nova,2027-06-01,29,1693.52,0,29,0,100.0,listing_price_fallback,2
+Private room,la Trinitat Vella,2026-06-01,13,550.77,0,13,0,100.0,listing_price_fallback,2
+Private room,la Trinitat Vella,2026-07-01,90,2665.41,0,61,29,67.78,mixed,3
+Private room,la Trinitat Vella,2026-08-01,66,2134.44,0,35,31,53.03,mixed,3
+Private room,la Trinitat Vella,2026-09-01,60,1980.0,0,30,30,50.0,mixed,2
+Private room,la Trinitat Vella,2026-10-01,42,726.0,0,11,31,26.19,mixed,2
+Private room,la Trinitat Vella,2026-11-01,30,,0,0,30,0.0,unpriced,1
+Private room,la Trinitat Vella,2026-12-01,31,,0,0,31,0.0,unpriced,1
+Private room,la Trinitat Vella,2027-01-01,31,,0,0,31,0.0,unpriced,1
+Private room,la Trinitat Vella,2027-02-01,28,,0,0,28,0.0,unpriced,1
+Private room,la Trinitat Vella,2027-03-01,42,243.21,0,11,31,26.19,mixed,2
+Private room,la Trinitat Vella,2027-04-01,60,663.3,0,30,30,50.0,mixed,2
+Private room,la Trinitat Vella,2027-05-01,62,685.41,0,31,31,50.0,mixed,2
+Private room,la Trinitat Vella,2027-06-01,53,508.53,0,23,30,43.4,mixed,2
+Private room,la Trinitat Vella,2027-07-01,2,,0,0,2,0.0,unpriced,1
+Private room,la Vall d'Hebron,2026-06-01,11,426.29,0,11,0,100.0,listing_price_fallback,3
+Private room,la Vall d'Hebron,2026-07-01,97,1245.41,0,38,59,39.18,mixed,4
+Private room,la Vall d'Hebron,2026-08-01,123,2009.29,0,61,62,49.59,mixed,4
+Private room,la Vall d'Hebron,2026-09-01,90,995.7,0,30,60,33.33,mixed,3
+Private room,la Vall d'Hebron,2026-10-01,62,,0,0,62,0.0,unpriced,2
+Private room,la Vall d'Hebron,2026-11-01,60,,0,0,60,0.0,unpriced,2
+Private room,la Vall d'Hebron,2026-12-01,62,,0,0,62,0.0,unpriced,2
+Private room,la Vall d'Hebron,2027-01-01,62,,0,0,62,0.0,unpriced,2
+Private room,la Vall d'Hebron,2027-02-01,56,,0,0,56,0.0,unpriced,2
+Private room,la Vall d'Hebron,2027-03-01,72,326.8,0,10,62,13.89,mixed,3
+Private room,la Vall d'Hebron,2027-04-01,90,980.4,0,30,60,33.33,mixed,3
+Private room,la Vall d'Hebron,2027-05-01,93,1013.08,0,31,62,33.33,mixed,3
+Private room,la Vall d'Hebron,2027-06-01,84,784.32,0,24,60,28.57,mixed,3
+Private room,la Vall d'Hebron,2027-07-01,3,,0,0,3,0.0,unpriced,2
+Private room,la Verneda i la Pau,2026-06-01,49,2232.39,0,49,0,100.0,listing_price_fallback,9
+Private room,la Verneda i la Pau,2026-07-01,274,8101.24,0,185,89,67.52,mixed,13
+Private room,la Verneda i la Pau,2026-08-01,229,6174.72,0,136,93,59.39,mixed,9
+Private room,la Verneda i la Pau,2026-09-01,247,8246.75,0,157,90,63.56,mixed,9
+Private room,la Verneda i la Pau,2026-10-01,221,7100.33,0,128,93,57.92,mixed,9
+Private room,la Verneda i la Pau,2026-11-01,123,2912.7,0,33,90,26.83,mixed,5
+Private room,la Verneda i la Pau,2026-12-01,124,2829.99,0,31,93,25.0,mixed,4
+Private room,la Verneda i la Pau,2027-01-01,155,4627.99,0,62,93,40.0,mixed,5
+Private room,la Verneda i la Pau,2027-02-01,140,4180.12,0,56,84,40.0,mixed,5
+Private room,la Verneda i la Pau,2027-03-01,157,4669.63,0,64,93,40.76,mixed,6
+Private room,la Verneda i la Pau,2027-04-01,180,5103.3,0,90,90,50.0,mixed,6
+Private room,la Verneda i la Pau,2027-05-01,186,5273.41,0,93,93,50.0,mixed,6
+Private room,la Verneda i la Pau,2027-06-01,183,4816.36,0,93,90,50.82,mixed,9
+Private room,la Verneda i la Pau,2027-07-01,5,20.82,0,1,4,20.0,mixed,4
+Private room,la Vila de Gràcia,2026-06-01,479,43371.53,0,471,8,98.33,mixed,115
+Private room,la Vila de Gràcia,2026-07-01,3137,186067.3,0,1651,1486,52.63,mixed,138
+Private room,la Vila de Gràcia,2026-08-01,2689,140775.97,0,1150,1539,42.77,mixed,107
+Private room,la Vila de Gràcia,2026-09-01,2531,114506.62,0,1031,1500,40.73,mixed,114
+Private room,la Vila de Gràcia,2026-10-01,2488,93291.2,0,938,1550,37.7,mixed,95
+Private room,la Vila de Gràcia,2026-11-01,2223,72574.61,0,723,1500,32.52,mixed,86
+Private room,la Vila de Gràcia,2026-12-01,2521,109637.74,0,971,1550,38.52,mixed,101
+Private room,la Vila de Gràcia,2027-01-01,2949,124511.15,0,1368,1581,46.39,mixed,97
+Private room,la Vila de Gràcia,2027-02-01,2637,98734.36,0,1209,1428,45.85,mixed,95
+Private room,la Vila de Gràcia,2027-03-01,3140,133638.65,0,1549,1591,49.33,mixed,110
+Private room,la Vila de Gràcia,2027-04-01,3210,126082.5,0,1650,1560,51.4,mixed,107
+Private room,la Vila de Gràcia,2027-05-01,3199,120757.25,0,1587,1612,49.61,mixed,105
+Private room,la Vila de Gràcia,2027-06-01,2877,100907.44,0,1329,1548,46.19,mixed,110
+Private room,la Vila de Gràcia,2027-07-01,88,1071.78,0,5,83,5.68,mixed,53
+Private room,la Vila Olímpica del Poblenou,2026-06-01,15,636.75,0,15,0,100.0,listing_price_fallback,4
+Private room,la Vila Olímpica del Poblenou,2026-07-01,186,1419.53,0,40,146,21.51,mixed,8
+Private room,la Vila Olímpica del Poblenou,2026-08-01,194,1159.51,0,39,155,20.1,mixed,7
+Private room,la Vila Olímpica del Poblenou,2026-09-01,192,1478.73,0,42,150,21.88,mixed,8
+Private room,la Vila Olímpica del Poblenou,2026-10-01,201,1351.38,0,46,155,22.89,mixed,7
+Private room,la Vila Olímpica del Poblenou,2026-11-01,180,909.9,0,30,150,16.67,mixed,6
+Private room,la Vila Olímpica del Poblenou,2026-12-01,168,378.23,0,13,155,7.74,mixed,7
+Private room,la Vila Olímpica del Poblenou,2027-01-01,186,894.97,0,31,155,16.67,mixed,6
+Private room,la Vila Olímpica del Poblenou,2027-02-01,168,808.36,0,28,140,16.67,mixed,6
+Private room,la Vila Olímpica del Poblenou,2027-03-01,199,2088.63,0,44,155,22.11,mixed,8
+Private room,la Vila Olímpica del Poblenou,2027-04-01,240,4866.0,0,90,150,37.5,mixed,8
+Private room,la Vila Olímpica del Poblenou,2027-05-01,248,5028.2,0,93,155,37.5,mixed,8
+Private room,la Vila Olímpica del Poblenou,2027-06-01,226,3942.91,0,76,150,33.63,mixed,8
+Private room,la Vila Olímpica del Poblenou,2027-07-01,11,60.66,0,2,9,18.18,mixed,6
+Private room,les Corts,2026-06-01,115,8515.91,0,106,9,92.17,mixed,23
+Private room,les Corts,2026-07-01,784,48471.08,0,474,310,60.46,mixed,34
+Private room,les Corts,2026-08-01,706,45980.91,0,353,353,50.0,mixed,30
+Private room,les Corts,2026-09-01,752,44272.29,0,404,348,53.72,mixed,34
+Private room,les Corts,2026-10-01,731,44713.52,0,421,310,57.59,mixed,32
+Private room,les Corts,2026-11-01,663,42122.65,0,363,300,54.75,mixed,30
+Private room,les Corts,2026-12-01,645,34446.2,0,335,310,51.94,mixed,28
+Private room,les Corts,2027-01-01,743,27315.44,0,283,460,38.09,mixed,34
+Private room,les Corts,2027-02-01,693,28953.77,0,273,420,39.39,mixed,32
+Private room,les Corts,2027-03-01,843,38567.25,0,368,475,43.65,mixed,37
+Private room,les Corts,2027-04-01,869,30796.92,0,389,480,44.76,mixed,36
+Private room,les Corts,2027-05-01,986,46404.76,0,490,496,49.7,mixed,38
+Private room,les Corts,2027-06-01,965,62390.5,0,521,444,53.99,mixed,37
+Private room,les Corts,2027-07-01,34,3058.16,0,16,18,47.06,mixed,18
+Private room,les Roquetes,2026-06-01,40,2531.98,0,40,0,100.0,listing_price_fallback,9
+Private room,les Roquetes,2026-07-01,256,15657.03,0,256,0,100.0,listing_price_fallback,9
+Private room,les Roquetes,2026-08-01,230,13835.53,0,230,0,100.0,listing_price_fallback,9
+Private room,les Roquetes,2026-09-01,132,7789.1,0,132,0,100.0,listing_price_fallback,8
+Private room,les Roquetes,2026-10-01,64,3249.77,0,64,0,100.0,listing_price_fallback,4
+Private room,les Roquetes,2026-11-01,33,1508.1,0,33,0,100.0,listing_price_fallback,2
+Private room,les Roquetes,2026-12-01,133,8179.77,0,133,0,100.0,listing_price_fallback,5
+Private room,les Roquetes,2027-01-01,124,8277.0,0,124,0,100.0,listing_price_fallback,4
+Private room,les Roquetes,2027-02-01,112,7476.0,0,112,0,100.0,listing_price_fallback,4
+Private room,les Roquetes,2027-03-01,124,8277.0,0,124,0,100.0,listing_price_fallback,4
+Private room,les Roquetes,2027-04-01,120,8010.0,0,120,0,100.0,listing_price_fallback,4
+Private room,les Roquetes,2027-05-01,5,270.0,0,5,0,100.0,listing_price_fallback,2
+Private room,les Roquetes,2027-06-01,21,1822.0,0,21,0,100.0,listing_price_fallback,2
+Private room,les Tres Torres,2026-06-01,39,2674.14,0,39,0,100.0,listing_price_fallback,11
+Private room,les Tres Torres,2026-07-01,374,14018.53,0,171,203,45.72,mixed,19
+Private room,les Tres Torres,2026-08-01,304,7403.24,0,87,217,28.62,mixed,13
+Private room,les Tres Torres,2026-09-01,240,1231.53,0,30,210,12.5,mixed,9
+Private room,les Tres Torres,2026-10-01,316,5183.08,0,99,217,31.33,mixed,12
+Private room,les Tres Torres,2026-11-01,300,3900.0,0,90,210,30.0,mixed,10
+Private room,les Tres Torres,2026-12-01,310,4030.0,0,93,217,30.0,mixed,10
+Private room,les Tres Torres,2027-01-01,310,4030.0,0,93,217,30.0,mixed,10
+Private room,les Tres Torres,2027-02-01,287,4825.47,0,91,196,31.71,mixed,17
+Private room,les Tres Torres,2027-03-01,331,7586.41,0,114,217,34.44,mixed,17
+Private room,les Tres Torres,2027-04-01,300,3900.0,0,90,210,30.0,mixed,10
+Private room,les Tres Torres,2027-05-01,310,4030.0,0,93,217,30.0,mixed,10
+Private room,les Tres Torres,2027-06-01,291,4430.0,0,82,209,28.18,mixed,11
+Private room,les Tres Torres,2027-07-01,16,705.44,0,4,12,25.0,mixed,8
+Private room,Montbau,2026-06-01,7,351.12,0,7,0,100.0,listing_price_fallback,1
+Private room,Montbau,2026-07-01,119,1504.8,0,30,89,25.21,mixed,4
+Private room,Montbau,2026-08-01,124,1554.96,0,31,93,25.0,mixed,4
+Private room,Montbau,2026-09-01,120,1504.8,0,30,90,25.0,mixed,4
+Private room,Montbau,2026-10-01,104,551.76,0,11,93,10.58,mixed,4
+Private room,Montbau,2026-11-01,90,,0,0,90,0.0,unpriced,3
+Private room,Montbau,2026-12-01,93,,0,0,93,0.0,unpriced,3
+Private room,Montbau,2027-01-01,93,,0,0,93,0.0,unpriced,3
+Private room,Montbau,2027-02-01,84,,0,0,84,0.0,unpriced,3
+Private room,Montbau,2027-03-01,93,,0,0,93,0.0,unpriced,3
+Private room,Montbau,2027-04-01,90,,0,0,90,0.0,unpriced,3
+Private room,Montbau,2027-05-01,93,,0,0,93,0.0,unpriced,3
+Private room,Montbau,2027-06-01,90,,0,0,90,0.0,unpriced,3
+Private room,Montbau,2027-07-01,4,,0,0,4,0.0,unpriced,3
+Private room,Navas,2026-06-01,97,5695.59,0,91,6,93.81,mixed,19
+Private room,Navas,2026-07-01,679,25141.85,0,443,236,65.24,mixed,27
+Private room,Navas,2026-08-01,612,18929.73,0,364,248,59.48,mixed,23
+Private room,Navas,2026-09-01,461,11012.0,0,221,240,47.94,mixed,22
+Private room,Navas,2026-10-01,557,17970.0,0,309,248,55.48,mixed,23
+Private room,Navas,2026-11-01,584,19861.68,0,344,240,58.9,mixed,22
+Private room,Navas,2026-12-01,599,19545.08,0,351,248,58.6,mixed,21
+Private room,Navas,2027-01-01,590,19176.67,0,342,248,57.97,mixed,20
+Private room,Navas,2027-02-01,588,19062.24,0,364,224,61.9,mixed,22
+Private room,Navas,2027-03-01,667,38515.45,0,419,248,62.82,mixed,22
+Private room,Navas,2027-04-01,681,39284.22,0,441,240,64.76,mixed,23
+Private room,Navas,2027-05-01,713,44850.18,0,465,248,65.22,mixed,23
+Private room,Navas,2027-06-01,625,37194.07,0,385,240,61.6,mixed,24
+Private room,Navas,2027-07-01,20,774.51,0,7,13,35.0,mixed,12
+Private room,Pedralbes,2026-06-01,26,2967.51,0,26,0,100.0,listing_price_fallback,9
+Private room,Pedralbes,2026-07-01,225,13312.62,0,136,89,60.44,mixed,12
+Private room,Pedralbes,2026-08-01,184,5535.46,0,91,93,49.46,mixed,9
+Private room,Pedralbes,2026-09-01,108,1580.76,0,18,90,16.67,mixed,6
+Private room,Pedralbes,2026-10-01,106,2402.0,0,13,93,12.26,mixed,6
+Private room,Pedralbes,2026-11-01,90,,0,0,90,0.0,unpriced,3
+Private room,Pedralbes,2026-12-01,104,563.97,0,11,93,10.58,mixed,4
+Private room,Pedralbes,2027-01-01,124,1358.11,0,31,93,25.0,mixed,4
+Private room,Pedralbes,2027-02-01,118,2316.21,0,34,84,28.81,mixed,10
+Private room,Pedralbes,2027-03-01,152,5139.4,0,59,93,38.82,mixed,11
+Private room,Pedralbes,2027-04-01,150,2852.4,0,60,90,40.0,mixed,5
+Private room,Pedralbes,2027-05-01,161,3859.48,0,68,93,42.24,mixed,7
+Private room,Pedralbes,2027-06-01,258,22783.93,0,168,90,65.12,mixed,13
+Private room,Pedralbes,2027-07-01,8,747.06,0,4,4,50.0,mixed,5
+Private room,Porta,2026-06-01,28,1264.84,0,28,0,100.0,listing_price_fallback,5
+Private room,Porta,2026-07-01,193,4801.67,0,106,87,54.92,mixed,8
+Private room,Porta,2026-08-01,192,4076.21,0,99,93,51.56,mixed,7
+Private room,Porta,2026-09-01,168,3059.94,0,78,90,46.43,mixed,6
+Private room,Porta,2026-10-01,160,2512.82,0,67,93,41.88,mixed,6
+Private room,Porta,2026-11-01,120,1345.2,0,30,90,25.0,mixed,4
+Private room,Porta,2026-12-01,134,1894.34,0,41,93,30.6,mixed,5
+Private room,Porta,2027-01-01,124,1563.33,0,31,93,25.0,mixed,4
+Private room,Porta,2027-02-01,112,1412.04,0,28,84,25.0,mixed,4
+Private room,Porta,2027-03-01,136,2056.63,0,41,95,30.15,mixed,6
+Private room,Porta,2027-04-01,180,2992.8,0,60,120,33.33,mixed,6
+Private room,Porta,2027-05-01,186,3092.56,0,62,124,33.33,mixed,6
+Private room,Porta,2027-06-01,167,2344.91,0,47,120,28.14,mixed,6
+Private room,Porta,2027-07-01,8,,0,0,8,0.0,unpriced,4
+Private room,Provençals del Poblenou,2026-06-01,65,8460.67,0,65,0,100.0,listing_price_fallback,13
+Private room,Provençals del Poblenou,2026-07-01,525,38156.44,0,232,293,44.19,mixed,21
+Private room,Provençals del Poblenou,2026-08-01,472,23738.45,0,162,310,34.32,mixed,18
+Private room,Provençals del Poblenou,2026-09-01,460,23342.1,0,160,300,34.78,mixed,19
+Private room,Provençals del Poblenou,2026-10-01,488,29713.46,0,178,310,36.48,mixed,18
+Private room,Provençals del Poblenou,2026-11-01,450,25372.5,0,150,300,33.33,mixed,15
+Private room,Provençals del Poblenou,2026-12-01,475,26501.05,0,165,310,34.74,mixed,16
+Private room,Provençals del Poblenou,2027-01-01,496,27094.93,0,186,310,37.5,mixed,16
+Private room,Provençals del Poblenou,2027-02-01,448,24472.84,0,168,280,37.5,mixed,16
+Private room,Provençals del Poblenou,2027-03-01,527,31254.67,0,217,310,41.18,mixed,20
+Private room,Provençals del Poblenou,2027-04-01,540,33874.5,0,240,300,44.44,mixed,18
+Private room,Provençals del Poblenou,2027-05-01,551,34449.89,0,241,310,43.74,mixed,18
+Private room,Provençals del Poblenou,2027-06-01,539,38495.66,0,239,300,44.34,mixed,21
+Private room,Provençals del Poblenou,2027-07-01,23,1378.6,0,6,17,26.09,mixed,13
+Private room,Sant Andreu,2026-06-01,134,7477.82,0,134,0,100.0,listing_price_fallback,24
+Private room,Sant Andreu,2026-07-01,740,30052.9,0,537,203,72.57,mixed,26
+Private room,Sant Andreu,2026-08-01,616,22525.62,0,399,217,64.77,mixed,21
+Private room,Sant Andreu,2026-09-01,482,15560.62,0,272,210,56.43,mixed,17
+Private room,Sant Andreu,2026-10-01,495,15884.04,0,278,217,56.16,mixed,16
+Private room,Sant Andreu,2026-11-01,420,11609.4,0,210,210,50.0,mixed,14
+Private room,Sant Andreu,2026-12-01,407,10293.03,0,190,217,46.68,mixed,14
+Private room,Sant Andreu,2027-01-01,341,6338.57,0,124,217,36.36,mixed,11
+Private room,Sant Andreu,2027-02-01,280,4003.16,0,84,196,30.0,mixed,10
+Private room,Sant Andreu,2027-03-01,294,3600.55,0,77,217,26.19,mixed,10
+Private room,Sant Andreu,2027-04-01,240,1906.8,0,30,210,12.5,mixed,8
+Private room,Sant Andreu,2027-05-01,217,,0,0,217,0.0,unpriced,7
+Private room,Sant Andreu,2027-06-01,210,,0,0,210,0.0,unpriced,7
+Private room,Sant Andreu,2027-07-01,14,,0,0,14,0.0,unpriced,7
+Private room,Sant Antoni,2026-06-01,502,62935.04,0,484,18,96.41,mixed,112
+Private room,Sant Antoni,2026-07-01,3851,279136.0,0,2055,1796,53.36,mixed,182
+Private room,Sant Antoni,2026-08-01,3359,196764.93,0,1477,1882,43.97,mixed,146
+Private room,Sant Antoni,2026-09-01,3334,190454.29,0,1534,1800,46.01,mixed,163
+Private room,Sant Antoni,2026-10-01,3304,169323.74,0,1444,1860,43.7,mixed,151
+Private room,Sant Antoni,2026-11-01,2743,101198.91,0,943,1800,34.38,mixed,105
+Private room,Sant Antoni,2026-12-01,2715,106332.09,0,855,1860,31.49,mixed,116
+Private room,Sant Antoni,2027-01-01,3168,171819.31,0,1308,1860,41.29,mixed,113
+Private room,Sant Antoni,2027-02-01,2802,147118.6,0,1122,1680,40.04,mixed,102
+Private room,Sant Antoni,2027-03-01,3118,161359.17,0,1258,1860,40.35,mixed,114
+Private room,Sant Antoni,2027-04-01,3151,155253.3,0,1351,1800,42.88,mixed,106
+Private room,Sant Antoni,2027-05-01,3220,152557.49,0,1360,1860,42.24,mixed,116
+Private room,Sant Antoni,2027-06-01,2866,130595.38,0,1102,1764,38.45,mixed,111
+Private room,Sant Antoni,2027-07-01,103,1505.18,0,8,95,7.77,mixed,62
+Private room,Sant Genís dels Agudells,2026-06-01,7,233.45,0,7,0,100.0,listing_price_fallback,1
+Private room,Sant Genís dels Agudells,2026-07-01,60,1033.85,0,31,29,51.67,mixed,2
+Private room,Sant Genís dels Agudells,2026-08-01,62,1033.85,0,31,31,50.0,mixed,2
+Private room,Sant Genís dels Agudells,2026-09-01,50,667.0,0,20,30,40.0,mixed,2
+Private room,Sant Genís dels Agudells,2026-10-01,31,,0,0,31,0.0,unpriced,1
+Private room,Sant Genís dels Agudells,2026-11-01,30,,0,0,30,0.0,unpriced,1
+Private room,Sant Genís dels Agudells,2026-12-01,31,,0,0,31,0.0,unpriced,1
+Private room,Sant Genís dels Agudells,2027-01-01,31,,0,0,31,0.0,unpriced,1
+Private room,Sant Genís dels Agudells,2027-02-01,28,,0,0,28,0.0,unpriced,1
+Private room,Sant Genís dels Agudells,2027-03-01,31,,0,0,31,0.0,unpriced,1
+Private room,Sant Genís dels Agudells,2027-04-01,30,,0,0,30,0.0,unpriced,1
+Private room,Sant Genís dels Agudells,2027-05-01,31,,0,0,31,0.0,unpriced,1
+Private room,Sant Genís dels Agudells,2027-06-01,30,,0,0,30,0.0,unpriced,1
+Private room,Sant Genís dels Agudells,2027-07-01,2,,0,0,2,0.0,unpriced,1
+Private room,Sant Gervasi - Galvany,2026-06-01,514,32740.64,0,508,6,98.83,mixed,103
+Private room,Sant Gervasi - Galvany,2026-07-01,2519,130124.85,0,1804,715,71.62,mixed,113
+Private room,Sant Gervasi - Galvany,2026-08-01,1713,78013.13,0,1001,712,58.44,mixed,81
+Private room,Sant Gervasi - Galvany,2026-09-01,1837,74774.0,0,1117,720,60.81,mixed,80
+Private room,Sant Gervasi - Galvany,2026-10-01,1793,63967.76,0,1049,744,58.51,mixed,68
+Private room,Sant Gervasi - Galvany,2026-11-01,1546,45265.94,0,826,720,53.43,mixed,60
+Private room,Sant Gervasi - Galvany,2026-12-01,1590,53207.01,0,846,744,53.21,mixed,70
+Private room,Sant Gervasi - Galvany,2027-01-01,2035,136883.24,0,1415,620,69.53,mixed,67
+Private room,Sant Gervasi - Galvany,2027-02-01,1713,118634.72,0,1153,560,67.31,mixed,62
+Private room,Sant Gervasi - Galvany,2027-03-01,2012,141649.87,0,1392,620,69.18,mixed,71
+Private room,Sant Gervasi - Galvany,2027-04-01,2072,137350.21,0,1472,600,71.04,mixed,70
+Private room,Sant Gervasi - Galvany,2027-05-01,2104,142330.14,0,1484,620,70.53,mixed,74
+Private room,Sant Gervasi - Galvany,2027-06-01,1772,119509.72,0,1192,580,67.27,mixed,75
+Private room,Sant Gervasi - Galvany,2027-07-01,38,1035.74,0,7,31,18.42,mixed,23
+Private room,Sant Gervasi - la Bonanova,2026-06-01,96,5489.79,0,96,0,100.0,listing_price_fallback,19
+Private room,Sant Gervasi - la Bonanova,2026-07-01,585,19328.21,0,322,263,55.04,mixed,24
+Private room,Sant Gervasi - la Bonanova,2026-08-01,439,7218.54,0,160,279,36.45,mixed,16
+Private room,Sant Gervasi - la Bonanova,2026-09-01,391,5451.44,0,121,270,30.95,mixed,14
+Private room,Sant Gervasi - la Bonanova,2026-10-01,402,5413.28,0,123,279,30.6,mixed,13
+Private room,Sant Gervasi - la Bonanova,2026-11-01,343,3423.21,0,73,270,21.28,mixed,12
+Private room,Sant Gervasi - la Bonanova,2026-12-01,381,4831.31,0,102,279,26.77,mixed,14
+Private room,Sant Gervasi - la Bonanova,2027-01-01,402,6814.81,0,123,279,30.6,mixed,13
+Private room,Sant Gervasi - la Bonanova,2027-02-01,336,4773.06,0,84,252,25.0,mixed,13
+Private room,Sant Gervasi - la Bonanova,2027-03-01,355,4709.3,0,76,279,21.41,mixed,13
+Private room,Sant Gervasi - la Bonanova,2027-04-01,366,5701.53,0,96,270,26.23,mixed,14
+Private room,Sant Gervasi - la Bonanova,2027-05-01,380,6198.4,0,101,279,26.58,mixed,14
+Private room,Sant Gervasi - la Bonanova,2027-06-01,342,6470.32,0,88,254,25.73,mixed,14
+Private room,Sant Gervasi - la Bonanova,2027-07-01,16,340.91,0,2,14,12.5,mixed,10
+Private room,Sant Martí de Provençals,2026-06-01,56,1828.68,0,56,0,100.0,listing_price_fallback,12
+Private room,Sant Martí de Provençals,2026-07-01,271,5191.38,0,158,113,58.3,mixed,14
+Private room,Sant Martí de Provençals,2026-08-01,264,5858.44,0,140,124,53.03,mixed,10
+Private room,Sant Martí de Provençals,2026-09-01,265,7152.78,0,154,111,58.11,mixed,10
+Private room,Sant Martí de Provençals,2026-10-01,307,8522.79,0,183,124,59.61,mixed,10
+Private room,Sant Martí de Provençals,2026-11-01,326,9558.9,0,206,120,63.19,mixed,11
+Private room,Sant Martí de Provençals,2026-12-01,334,11796.53,0,210,124,62.87,mixed,12
+Private room,Sant Martí de Provençals,2027-01-01,372,15519.53,0,248,124,66.67,mixed,12
+Private room,Sant Martí de Provençals,2027-02-01,322,13646.22,0,210,112,65.22,mixed,12
+Private room,Sant Martí de Provençals,2027-03-01,311,14143.3,0,187,124,60.13,mixed,11
+Private room,Sant Martí de Provençals,2027-04-01,300,13669.2,0,180,120,60.0,mixed,10
+Private room,Sant Martí de Provençals,2027-05-01,279,12624.75,0,155,124,55.56,mixed,9
+Private room,Sant Martí de Provençals,2027-06-01,251,10578.02,0,131,120,52.19,mixed,9
+Private room,Sant Martí de Provençals,2027-07-01,10,237.67,0,3,7,30.0,mixed,6
+Private room,"Sant Pere, Santa Caterina i la Ribera",2026-06-01,805,77426.8,0,787,18,97.76,mixed,166
+Private room,"Sant Pere, Santa Caterina i la Ribera",2026-07-01,5547,348254.73,0,3367,2180,60.7,mixed,234
+Private room,"Sant Pere, Santa Caterina i la Ribera",2026-08-01,4377,222794.65,0,2118,2259,48.39,mixed,189
+Private room,"Sant Pere, Santa Caterina i la Ribera",2026-09-01,4141,203235.96,0,2006,2135,48.44,mixed,189
+Private room,"Sant Pere, Santa Caterina i la Ribera",2026-10-01,4425,209347.16,0,2220,2205,50.17,mixed,178
+Private room,"Sant Pere, Santa Caterina i la Ribera",2026-11-01,4108,180339.53,0,1978,2130,48.15,mixed,148
+Private room,"Sant Pere, Santa Caterina i la Ribera",2026-12-01,4220,202403.61,0,2019,2201,47.84,mixed,160
+Private room,"Sant Pere, Santa Caterina i la Ribera",2027-01-01,4232,243762.41,0,2028,2204,47.92,mixed,151
+Private room,"Sant Pere, Santa Caterina i la Ribera",2027-02-01,3844,239181.64,0,1852,1992,48.18,mixed,155
+Private room,"Sant Pere, Santa Caterina i la Ribera",2027-03-01,4224,259240.06,0,2028,2196,48.01,mixed,162
+Private room,"Sant Pere, Santa Caterina i la Ribera",2027-04-01,4517,261373.2,0,2297,2220,50.85,mixed,160
+Private room,"Sant Pere, Santa Caterina i la Ribera",2027-05-01,4658,275818.95,0,2364,2294,50.75,mixed,158
+Private room,"Sant Pere, Santa Caterina i la Ribera",2027-06-01,4195,264956.74,0,1987,2208,47.37,mixed,156
+Private room,"Sant Pere, Santa Caterina i la Ribera",2027-07-01,147,5061.16,0,18,129,12.24,mixed,82
+Private room,Sants,2026-06-01,212,14638.45,0,193,19,91.04,mixed,42
+Private room,Sants,2026-07-01,1258,58076.06,0,699,559,55.56,mixed,53
+Private room,Sants,2026-08-01,1048,53822.54,0,550,498,52.48,mixed,43
+Private room,Sants,2026-09-01,1092,50332.91,0,582,510,53.3,mixed,44
+Private room,Sants,2026-10-01,1130,51622.0,0,603,527,53.36,mixed,39
+Private room,Sants,2026-11-01,1004,44462.23,0,494,510,49.2,mixed,36
+Private room,Sants,2026-12-01,941,32080.89,0,415,526,44.1,mixed,35
+Private room,Sants,2027-01-01,864,21476.42,0,368,496,42.59,mixed,28
+Private room,Sants,2027-02-01,777,19770.56,0,329,448,42.34,mixed,30
+Private room,Sants,2027-03-01,1156,55803.05,0,639,517,55.28,mixed,42
+Private room,Sants,2027-04-01,1225,56697.0,0,685,540,55.92,mixed,41
+Private room,Sants,2027-05-01,1212,56941.05,0,654,558,53.96,mixed,40
+Private room,Sants,2027-06-01,1030,43362.58,0,503,527,48.83,mixed,40
+Private room,Sants,2027-07-01,31,114.84,0,2,29,6.45,mixed,17
+Private room,Sants - Badal,2026-06-01,144,7183.29,0,131,13,90.97,mixed,28
+Private room,Sants - Badal,2026-07-01,1219,33880.15,0,597,622,48.97,mixed,48
+Private room,Sants - Badal,2026-08-01,967,22318.26,0,340,627,35.16,mixed,36
+Private room,Sants - Badal,2026-09-01,1063,21685.11,0,427,636,40.17,mixed,41
+Private room,Sants - Badal,2026-10-01,1229,25370.99,0,516,713,41.99,mixed,44
+Private room,Sants - Badal,2026-11-01,1206,23367.17,0,516,690,42.79,mixed,44
+Private room,Sants - Badal,2026-12-01,1216,21109.45,0,503,713,41.37,mixed,42
+Private room,Sants - Badal,2027-01-01,1283,43322.48,0,570,713,44.43,mixed,43
+Private room,Sants - Badal,2027-02-01,1120,38262.56,0,476,644,42.5,mixed,40
+Private room,Sants - Badal,2027-03-01,1270,43457.72,0,557,713,43.86,mixed,43
+Private room,Sants - Badal,2027-04-01,1290,44282.4,0,600,690,46.51,mixed,43
+Private room,Sants - Badal,2027-05-01,1333,45758.48,0,620,713,46.51,mixed,43
+Private room,Sants - Badal,2027-06-01,1098,34882.67,0,475,623,43.26,mixed,41
+Private room,Sants - Badal,2027-07-01,35,,0,0,35,0.0,unpriced,19
+Private room,Sarrià,2026-06-01,77,6291.43,0,71,6,92.21,mixed,15
+Private room,Sarrià,2026-07-01,532,19107.89,0,243,289,45.68,mixed,24
+Private room,Sarrià,2026-08-01,538,26635.29,0,277,261,51.49,mixed,22
+Private room,Sarrià,2026-09-01,438,9385.6,0,171,267,39.04,mixed,17
+Private room,Sarrià,2026-10-01,451,11431.26,0,172,279,38.14,mixed,18
+Private room,Sarrià,2026-11-01,393,5203.2,0,123,270,31.3,mixed,14
+Private room,Sarrià,2026-12-01,372,11915.13,0,122,250,32.8,mixed,15
+Private room,Sarrià,2027-01-01,434,21698.45,0,155,279,35.71,mixed,14
+Private room,Sarrià,2027-02-01,392,19598.6,0,140,252,35.71,mixed,14
+Private room,Sarrià,2027-03-01,444,22063.25,0,165,279,37.16,mixed,15
+Private room,Sarrià,2027-04-01,450,22092.9,0,180,270,40.0,mixed,15
+Private room,Sarrià,2027-05-01,443,19599.33,0,164,279,37.02,mixed,17
+Private room,Sarrià,2027-06-01,457,27218.89,0,187,270,40.92,mixed,18
+Private room,Sarrià,2027-07-01,12,,0,0,12,0.0,unpriced,8
+Private room,Vallcarca i els Penitents,2026-06-01,77,4758.46,0,71,6,92.21,mixed,20
+Private room,Vallcarca i els Penitents,2026-07-01,552,23789.63,0,405,147,73.37,mixed,24
+Private room,Vallcarca i els Penitents,2026-08-01,420,13412.33,0,265,155,63.1,mixed,20
+Private room,Vallcarca i els Penitents,2026-09-01,360,8650.1,0,210,150,58.33,mixed,17
+Private room,Vallcarca i els Penitents,2026-10-01,281,4067.87,0,126,155,44.84,mixed,12
+Private room,Vallcarca i els Penitents,2026-11-01,243,2982.77,0,93,150,38.27,mixed,12
+Private room,Vallcarca i els Penitents,2026-12-01,248,2283.55,0,93,155,37.5,mixed,9
+Private room,Vallcarca i els Penitents,2027-01-01,156,145.45,0,1,155,0.64,mixed,6
+Private room,Vallcarca i els Penitents,2027-02-01,150,1748.99,0,10,140,6.67,mixed,11
+Private room,Vallcarca i els Penitents,2027-03-01,208,9173.67,0,53,155,25.48,mixed,15
+Private room,Vallcarca i els Penitents,2027-04-01,369,38501.19,0,222,147,60.16,mixed,16
+Private room,Vallcarca i els Penitents,2027-05-01,389,40348.18,0,234,155,60.15,mixed,16
+Private room,Vallcarca i els Penitents,2027-06-01,327,32978.32,0,203,124,62.08,mixed,16
+Private room,Vallcarca i els Penitents,2027-07-01,16,782.66,0,8,8,50.0,mixed,8
+Private room,"Vallvidrera, el Tibidabo i les Planes",2026-06-01,34,2816.56,0,34,0,100.0,listing_price_fallback,6
+Private room,"Vallvidrera, el Tibidabo i les Planes",2026-07-01,75,7180.92,0,75,0,100.0,listing_price_fallback,5
+Private room,"Vallvidrera, el Tibidabo i les Planes",2026-08-01,74,5340.79,0,74,0,100.0,listing_price_fallback,3
+Private room,"Vallvidrera, el Tibidabo i les Planes",2026-09-01,20,2552.89,0,20,0,100.0,listing_price_fallback,3
+Private room,"Vallvidrera, el Tibidabo i les Planes",2027-04-01,13,822.77,0,13,0,100.0,listing_price_fallback,1
+Private room,"Vallvidrera, el Tibidabo i les Planes",2027-05-01,31,1961.99,0,31,0,100.0,listing_price_fallback,1
+Private room,"Vallvidrera, el Tibidabo i les Planes",2027-06-01,23,1455.67,0,23,0,100.0,listing_price_fallback,1
+Private room,Verdun,2026-07-01,18,1437.84,0,18,0,100.0,listing_price_fallback,1
+Private room,Verdun,2026-10-01,31,2476.28,0,31,0,100.0,listing_price_fallback,1
+Private room,Verdun,2026-11-01,30,2396.4,0,30,0,100.0,listing_price_fallback,1
+Private room,Verdun,2026-12-01,31,2476.28,0,31,0,100.0,listing_price_fallback,1
+Private room,Verdun,2027-01-01,31,2476.28,0,31,0,100.0,listing_price_fallback,1
+Private room,Verdun,2027-02-01,28,2236.64,0,28,0,100.0,listing_price_fallback,1
+Private room,Verdun,2027-03-01,31,2476.28,0,31,0,100.0,listing_price_fallback,1
+Private room,Verdun,2027-04-01,30,2396.4,0,30,0,100.0,listing_price_fallback,1
+Private room,Verdun,2027-05-01,31,2476.28,0,31,0,100.0,listing_price_fallback,1
+Private room,Verdun,2027-06-01,30,2396.4,0,30,0,100.0,listing_price_fallback,1
+Private room,Verdun,2027-07-01,1,79.88,0,1,0,100.0,listing_price_fallback,1
+Private room,Vilapicina i la Torre Llobeta,2026-06-01,52,2485.39,0,52,0,100.0,listing_price_fallback,9
+Private room,Vilapicina i la Torre Llobeta,2026-07-01,406,11993.62,0,260,146,64.04,mixed,15
+Private room,Vilapicina i la Torre Llobeta,2026-08-01,297,7659.12,0,142,155,47.81,mixed,13
+Private room,Vilapicina i la Torre Llobeta,2026-09-01,225,3405.38,0,75,150,33.33,mixed,12
+Private room,Vilapicina i la Torre Llobeta,2026-10-01,250,6934.29,0,95,155,38.0,mixed,9
+Private room,Vilapicina i la Torre Llobeta,2026-11-01,211,5934.11,0,61,150,28.91,mixed,8
+Private room,Vilapicina i la Torre Llobeta,2026-12-01,217,6107.0,0,62,155,28.57,mixed,7
+Private room,Vilapicina i la Torre Llobeta,2027-01-01,217,6107.0,0,62,155,28.57,mixed,7
+Private room,Vilapicina i la Torre Llobeta,2027-02-01,196,5516.0,0,56,140,28.57,mixed,7
+Private room,Vilapicina i la Torre Llobeta,2027-03-01,258,7169.89,0,103,155,39.92,mixed,11
+Private room,Vilapicina i la Torre Llobeta,2027-04-01,330,9015.6,0,180,150,54.55,mixed,11
+Private room,Vilapicina i la Torre Llobeta,2027-05-01,342,9356.06,0,187,155,54.68,mixed,12
+Private room,Vilapicina i la Torre Llobeta,2027-06-01,302,7508.85,0,152,150,50.33,mixed,13
+Private room,Vilapicina i la Torre Llobeta,2027-07-01,9,,0,0,9,0.0,unpriced,5
+Shared room,el Barri Gòtic,2026-06-01,2,127.84,0,2,0,100.0,listing_price_fallback,1
+Shared room,el Camp d'en Grassot i Gràcia Nova,2026-07-01,29,,0,0,29,0.0,unpriced,1
+Shared room,el Camp d'en Grassot i Gràcia Nova,2026-08-01,31,,0,0,31,0.0,unpriced,1
+Shared room,el Camp d'en Grassot i Gràcia Nova,2026-09-01,30,,0,0,30,0.0,unpriced,1
+Shared room,el Camp d'en Grassot i Gràcia Nova,2026-10-01,31,,0,0,31,0.0,unpriced,1
+Shared room,el Camp d'en Grassot i Gràcia Nova,2026-11-01,30,,0,0,30,0.0,unpriced,1
+Shared room,el Camp d'en Grassot i Gràcia Nova,2026-12-01,31,,0,0,31,0.0,unpriced,1
+Shared room,el Camp d'en Grassot i Gràcia Nova,2027-01-01,31,,0,0,31,0.0,unpriced,1
+Shared room,el Camp d'en Grassot i Gràcia Nova,2027-02-01,28,,0,0,28,0.0,unpriced,1
+Shared room,el Camp d'en Grassot i Gràcia Nova,2027-03-01,31,,0,0,31,0.0,unpriced,1
+Shared room,el Camp d'en Grassot i Gràcia Nova,2027-04-01,30,,0,0,30,0.0,unpriced,1
+Shared room,el Camp d'en Grassot i Gràcia Nova,2027-05-01,31,,0,0,31,0.0,unpriced,1
+Shared room,el Camp d'en Grassot i Gràcia Nova,2027-06-01,30,,0,0,30,0.0,unpriced,1
+Shared room,el Camp d'en Grassot i Gràcia Nova,2027-07-01,2,,0,0,2,0.0,unpriced,1
+Shared room,el Camp de l'Arpa del Clot,2026-06-01,39,1614.0,0,39,0,100.0,listing_price_fallback,9
+Shared room,el Camp de l'Arpa del Clot,2026-07-01,146,5095.0,0,117,29,80.14,mixed,10
+Shared room,el Camp de l'Arpa del Clot,2026-08-01,103,3004.0,0,72,31,69.9,mixed,10
+Shared room,el Camp de l'Arpa del Clot,2026-09-01,68,1621.0,0,38,30,55.88,mixed,10
+Shared room,el Camp de l'Arpa del Clot,2026-10-01,48,719.0,0,17,31,35.42,mixed,6
+Shared room,el Camp de l'Arpa del Clot,2026-11-01,62,1340.0,0,32,30,51.61,mixed,8
+Shared room,el Camp de l'Arpa del Clot,2026-12-01,40,396.0,0,9,31,22.5,mixed,5
+Shared room,el Camp de l'Arpa del Clot,2027-01-01,66,1548.0,0,35,31,53.03,mixed,8
+Shared room,el Camp de l'Arpa del Clot,2027-02-01,28,,0,0,28,0.0,unpriced,1
+Shared room,el Camp de l'Arpa del Clot,2027-03-01,74,1867.0,0,43,31,58.11,mixed,9
+Shared room,el Camp de l'Arpa del Clot,2027-04-01,61,1317.0,0,31,30,50.82,mixed,6
+Shared room,el Camp de l'Arpa del Clot,2027-05-01,69,1684.0,0,38,31,55.07,mixed,6
+Shared room,el Camp de l'Arpa del Clot,2027-06-01,51,837.0,0,21,30,41.18,mixed,6
+Shared room,el Camp de l'Arpa del Clot,2027-07-01,2,,0,0,2,0.0,unpriced,1
+Shared room,el Fort Pienc,2026-06-01,6,240.0,0,6,0,100.0,listing_price_fallback,1
+Shared room,el Fort Pienc,2026-07-01,72,464.0,0,12,60,16.67,mixed,4
+Shared room,el Fort Pienc,2026-08-01,77,576.0,0,15,62,19.48,mixed,4
+Shared room,el Fort Pienc,2026-09-01,62,80.0,0,2,60,3.23,mixed,3
+Shared room,el Fort Pienc,2026-10-01,65,116.0,0,3,62,4.62,mixed,4
+Shared room,el Fort Pienc,2026-11-01,60,,0,0,60,0.0,unpriced,2
+Shared room,el Fort Pienc,2026-12-01,62,,0,0,62,0.0,unpriced,2
+Shared room,el Fort Pienc,2027-01-01,62,,0,0,62,0.0,unpriced,2
+Shared room,el Fort Pienc,2027-02-01,56,,0,0,56,0.0,unpriced,2
+Shared room,el Fort Pienc,2027-03-01,62,,0,0,62,0.0,unpriced,2
+Shared room,el Fort Pienc,2027-04-01,60,,0,0,60,0.0,unpriced,2
+Shared room,el Fort Pienc,2027-05-01,124,2356.0,0,62,62,50.0,mixed,4
+Shared room,el Fort Pienc,2027-06-01,108,1824.0,0,48,60,44.44,mixed,4
+Shared room,el Fort Pienc,2027-07-01,2,,0,0,2,0.0,unpriced,2
+Shared room,el Parc i la Llacuna del Poblenou,2026-06-01,7,7000.0,0,7,0,100.0,listing_price_fallback,1
+Shared room,el Parc i la Llacuna del Poblenou,2026-07-01,176,31000.0,0,31,145,17.61,mixed,6
+Shared room,el Parc i la Llacuna del Poblenou,2026-08-01,186,31000.0,0,31,155,16.67,mixed,6
+Shared room,el Parc i la Llacuna del Poblenou,2026-09-01,180,30000.0,0,30,150,16.67,mixed,6
+Shared room,el Parc i la Llacuna del Poblenou,2026-10-01,186,31000.0,0,31,155,16.67,mixed,6
+Shared room,el Parc i la Llacuna del Poblenou,2026-11-01,180,30000.0,0,30,150,16.67,mixed,6
+Shared room,el Parc i la Llacuna del Poblenou,2026-12-01,186,31000.0,0,31,155,16.67,mixed,6
+Shared room,el Parc i la Llacuna del Poblenou,2027-01-01,186,31000.0,0,31,155,16.67,mixed,6
+Shared room,el Parc i la Llacuna del Poblenou,2027-02-01,140,,0,0,140,0.0,unpriced,5
+Shared room,el Parc i la Llacuna del Poblenou,2027-03-01,165,10000.0,0,10,155,6.06,mixed,6
+Shared room,el Parc i la Llacuna del Poblenou,2027-04-01,180,30000.0,0,30,150,16.67,mixed,6
+Shared room,el Parc i la Llacuna del Poblenou,2027-05-01,186,31000.0,0,31,155,16.67,mixed,6
+Shared room,el Parc i la Llacuna del Poblenou,2027-06-01,173,23000.0,0,23,150,13.29,mixed,6
+Shared room,el Parc i la Llacuna del Poblenou,2027-07-01,10,,0,0,10,0.0,unpriced,5
+Shared room,el Poble Sec,2026-06-01,14,586.0,0,14,0,100.0,listing_price_fallback,5
+Shared room,el Poble Sec,2026-07-01,45,1920.0,0,45,0,100.0,listing_price_fallback,4
+Shared room,el Poble Sec,2026-08-01,22,959.0,0,22,0,100.0,listing_price_fallback,4
+Shared room,el Poble Sec,2026-09-01,3,138.0,0,3,0,100.0,listing_price_fallback,1
+Shared room,el Poble Sec,2026-10-01,2,72.0,0,2,0,100.0,listing_price_fallback,1
+Shared room,el Poble Sec,2026-11-01,1,40.0,0,1,0,100.0,listing_price_fallback,1
+Shared room,el Poble Sec,2026-12-01,40,1600.0,0,40,0,100.0,listing_price_fallback,4
+Shared room,el Poble Sec,2027-01-01,12,480.0,0,12,0,100.0,listing_price_fallback,4
+Shared room,el Poble Sec,2027-06-01,98,4160.0,0,98,0,100.0,listing_price_fallback,5
+Shared room,el Raval,2026-06-01,19,1893.82,0,19,0,100.0,listing_price_fallback,4
+Shared room,el Raval,2026-07-01,49,5304.86,0,49,0,100.0,listing_price_fallback,4
+Shared room,el Raval,2026-08-01,30,3428.1,0,30,0,100.0,listing_price_fallback,3
+Shared room,el Raval,2026-09-01,16,2527.04,0,16,0,100.0,listing_price_fallback,1
+Shared room,el Raval,2026-10-01,11,1737.34,0,11,0,100.0,listing_price_fallback,1
+Shared room,el Raval,2026-11-01,8,344.0,0,8,0,100.0,listing_price_fallback,1
+Shared room,el Raval,2026-12-01,41,2912.4,0,41,0,100.0,listing_price_fallback,2
+Shared room,el Raval,2027-01-01,62,6229.14,0,62,0,100.0,listing_price_fallback,2
+Shared room,el Raval,2027-02-01,56,5626.32,0,56,0,100.0,listing_price_fallback,2
+Shared room,el Raval,2027-03-01,62,6229.14,0,62,0,100.0,listing_price_fallback,2
+Shared room,el Raval,2027-04-01,60,6028.2,0,60,0,100.0,listing_price_fallback,2
+Shared room,el Raval,2027-05-01,62,6229.14,0,62,0,100.0,listing_price_fallback,2
+Shared room,el Raval,2027-06-01,48,4822.56,0,48,0,100.0,listing_price_fallback,2
+Shared room,l'Antiga Esquerra de l'Eixample,2026-06-01,60,3214.0,0,60,0,100.0,listing_price_fallback,12
+Shared room,l'Antiga Esquerra de l'Eixample,2026-07-01,223,11683.0,0,223,0,100.0,listing_price_fallback,13
+Shared room,l'Antiga Esquerra de l'Eixample,2026-08-01,122,6448.0,0,122,0,100.0,listing_price_fallback,13
+Shared room,l'Antiga Esquerra de l'Eixample,2026-09-01,64,3278.0,0,64,0,100.0,listing_price_fallback,11
+Shared room,l'Antiga Esquerra de l'Eixample,2026-10-01,53,2636.0,0,53,0,100.0,listing_price_fallback,12
+Shared room,l'Antiga Esquerra de l'Eixample,2026-11-01,60,3349.0,0,60,0,100.0,listing_price_fallback,8
+Shared room,l'Antiga Esquerra de l'Eixample,2026-12-01,52,2508.0,0,52,0,100.0,listing_price_fallback,6
+Shared room,l'Antiga Esquerra de l'Eixample,2027-01-01,44,2168.0,0,44,0,100.0,listing_price_fallback,2
+Shared room,l'Antiga Esquerra de l'Eixample,2027-02-01,36,1600.0,0,36,0,100.0,listing_price_fallback,3
+Shared room,l'Antiga Esquerra de l'Eixample,2027-03-01,74,3943.0,0,74,0,100.0,listing_price_fallback,7
+Shared room,l'Antiga Esquerra de l'Eixample,2027-04-01,76,3689.0,0,76,0,100.0,listing_price_fallback,13
+Shared room,l'Antiga Esquerra de l'Eixample,2027-05-01,35,1571.0,0,35,0,100.0,listing_price_fallback,3
+Shared room,l'Antiga Esquerra de l'Eixample,2027-06-01,25,1028.0,0,25,0,100.0,listing_price_fallback,2
+Shared room,la Dreta de l'Eixample,2026-06-01,69,6350.96,0,68,1,98.55,mixed,22
+Shared room,la Dreta de l'Eixample,2026-07-01,340,14695.3,0,211,129,62.06,mixed,28
+Shared room,la Dreta de l'Eixample,2026-08-01,208,3619.43,0,77,131,37.02,mixed,19
+Shared room,la Dreta de l'Eixample,2026-09-01,159,1575.19,0,36,123,22.64,mixed,13
+Shared room,la Dreta de l'Eixample,2026-10-01,252,6368.0,0,128,124,50.79,mixed,11
+Shared room,la Dreta de l'Eixample,2026-11-01,256,6594.0,0,136,120,53.13,mixed,10
+Shared room,la Dreta de l'Eixample,2026-12-01,370,12356.0,0,246,124,66.49,mixed,17
+Shared room,la Dreta de l'Eixample,2027-01-01,638,39710.0,0,514,124,80.56,mixed,23
+Shared room,la Dreta de l'Eixample,2027-02-01,560,34832.0,0,448,112,80.0,mixed,20
+Shared room,la Dreta de l'Eixample,2027-03-01,628,38948.0,0,502,126,79.94,mixed,23
+Shared room,la Dreta de l'Eixample,2027-04-01,660,41970.0,0,540,120,81.82,mixed,22
+Shared room,la Dreta de l'Eixample,2027-05-01,775,47089.0,0,651,124,84.0,mixed,25
+Shared room,la Dreta de l'Eixample,2027-06-01,623,35716.0,0,498,125,79.94,mixed,27
+Shared room,la Dreta de l'Eixample,2027-07-01,8,,0,0,8,0.0,unpriced,4
+Shared room,la Nova Esquerra de l'Eixample,2026-06-01,7,347.0,0,7,0,100.0,listing_price_fallback,2
+Shared room,la Nova Esquerra de l'Eixample,2026-07-01,21,881.0,0,21,0,100.0,listing_price_fallback,4
+Shared room,la Nova Esquerra de l'Eixample,2026-08-01,19,861.0,0,19,0,100.0,listing_price_fallback,4
+Shared room,la Nova Esquerra de l'Eixample,2026-09-01,3,141.0,0,3,0,100.0,listing_price_fallback,2
+Shared room,la Nova Esquerra de l'Eixample,2027-01-01,124,5115.0,0,124,0,100.0,listing_price_fallback,4
+Shared room,la Nova Esquerra de l'Eixample,2027-02-01,112,4620.0,0,112,0,100.0,listing_price_fallback,4
+Shared room,la Nova Esquerra de l'Eixample,2027-03-01,124,5115.0,0,124,0,100.0,listing_price_fallback,4
+Shared room,la Nova Esquerra de l'Eixample,2027-04-01,120,4950.0,0,120,0,100.0,listing_price_fallback,4
+Shared room,la Nova Esquerra de l'Eixample,2027-05-01,124,5115.0,0,124,0,100.0,listing_price_fallback,4
+Shared room,la Nova Esquerra de l'Eixample,2027-06-01,95,3895.0,0,95,0,100.0,listing_price_fallback,4
+Shared room,la Sagrada Família,2026-07-01,59,,0,0,59,0.0,unpriced,2
+Shared room,la Sagrada Família,2026-08-01,62,,0,0,62,0.0,unpriced,2
+Shared room,la Sagrada Família,2026-09-01,59,,0,0,59,0.0,unpriced,2
+Shared room,la Sagrada Família,2026-10-01,31,,0,0,31,0.0,unpriced,1
+Shared room,la Sagrada Família,2026-11-01,30,,0,0,30,0.0,unpriced,1
+Shared room,la Sagrada Família,2026-12-01,31,,0,0,31,0.0,unpriced,1
+Shared room,la Sagrada Família,2027-01-01,31,,0,0,31,0.0,unpriced,1
+Shared room,la Sagrada Família,2027-02-01,28,,0,0,28,0.0,unpriced,1
+Shared room,la Sagrada Família,2027-03-01,31,,0,0,31,0.0,unpriced,1
+Shared room,la Sagrada Família,2027-04-01,30,,0,0,30,0.0,unpriced,1
+Shared room,la Sagrada Família,2027-05-01,31,,0,0,31,0.0,unpriced,1
+Shared room,la Sagrada Família,2027-06-01,30,,0,0,30,0.0,unpriced,1
+Shared room,la Sagrada Família,2027-07-01,1,,0,0,1,0.0,unpriced,1
+Shared room,la Vila de Gràcia,2026-06-01,17,779.9,0,17,0,100.0,listing_price_fallback,6
+Shared room,la Vila de Gràcia,2026-07-01,162,2781.86,0,75,87,46.3,mixed,9
+Shared room,la Vila de Gràcia,2026-08-01,164,2432.51,0,71,93,43.29,mixed,9
+Shared room,la Vila de Gràcia,2026-09-01,130,1691.3,0,40,90,30.77,mixed,6
+Shared room,la Vila de Gràcia,2026-10-01,137,1392.85,0,44,93,32.12,mixed,6
+Shared room,la Vila de Gràcia,2026-11-01,152,1708.9,0,62,90,40.79,mixed,6
+Shared room,la Vila de Gràcia,2026-12-01,143,1448.09,0,50,93,34.97,mixed,5
+Shared room,la Vila de Gràcia,2027-01-01,103,367.1,0,10,93,9.71,mixed,4
+Shared room,la Vila de Gràcia,2027-02-01,84,,0,0,84,0.0,unpriced,3
+Shared room,la Vila de Gràcia,2027-03-01,93,,0,0,93,0.0,unpriced,3
+Shared room,la Vila de Gràcia,2027-04-01,90,,0,0,90,0.0,unpriced,3
+Shared room,la Vila de Gràcia,2027-05-01,93,,0,0,93,0.0,unpriced,3
+Shared room,la Vila de Gràcia,2027-06-01,90,,0,0,90,0.0,unpriced,3
+Shared room,la Vila de Gràcia,2027-07-01,6,,0,0,6,0.0,unpriced,3
+Shared room,la Vila Olímpica del Poblenou,2026-06-01,26,5980.0,0,26,0,100.0,listing_price_fallback,6
+Shared room,la Vila Olímpica del Poblenou,2026-07-01,16,3303.0,0,16,0,100.0,listing_price_fallback,3
+Shared room,la Vila Olímpica del Poblenou,2026-08-01,22,3861.0,0,22,0,100.0,listing_price_fallback,2
+Shared room,la Vila Olímpica del Poblenou,2026-09-01,6,1053.0,0,6,0,100.0,listing_price_fallback,2
+Shared room,la Vila Olímpica del Poblenou,2026-10-01,6,1053.0,0,6,0,100.0,listing_price_fallback,2
+Shared room,la Vila Olímpica del Poblenou,2027-02-01,6,1053.0,0,6,0,100.0,listing_price_fallback,2
+Shared room,la Vila Olímpica del Poblenou,2027-03-01,6,1053.0,0,6,0,100.0,listing_price_fallback,2
+Shared room,la Vila Olímpica del Poblenou,2027-04-01,174,34336.0,0,174,0,100.0,listing_price_fallback,6
+Shared room,la Vila Olímpica del Poblenou,2027-05-01,186,36704.0,0,186,0,100.0,listing_price_fallback,6
+Shared room,la Vila Olímpica del Poblenou,2027-06-01,138,27232.0,0,138,0,100.0,listing_price_fallback,6
+Shared room,les Corts,2026-06-01,5,324.0,0,5,0,100.0,listing_price_fallback,2
+Shared room,les Corts,2026-07-01,10,583.0,0,10,0,100.0,listing_price_fallback,2
+Shared room,les Corts,2026-08-01,12,684.0,0,12,0,100.0,listing_price_fallback,1
+Shared room,les Corts,2026-09-01,2,114.0,0,2,0,100.0,listing_price_fallback,1
+Shared room,les Corts,2026-10-01,2,114.0,0,2,0,100.0,listing_price_fallback,1
+Shared room,les Corts,2026-12-01,1,57.0,0,1,0,100.0,listing_price_fallback,1
+Shared room,les Corts,2027-01-01,31,1767.0,0,31,0,100.0,listing_price_fallback,1
+Shared room,les Corts,2027-02-01,28,1596.0,0,28,0,100.0,listing_price_fallback,1
+Shared room,les Corts,2027-03-01,31,1767.0,0,31,0,100.0,listing_price_fallback,1
+Shared room,les Corts,2027-04-01,30,1710.0,0,30,0,100.0,listing_price_fallback,1
+Shared room,les Corts,2027-05-01,31,1767.0,0,31,0,100.0,listing_price_fallback,1
+Shared room,les Corts,2027-06-01,24,1368.0,0,24,0,100.0,listing_price_fallback,1
+Shared room,Navas,2026-06-01,5,276.0,0,5,0,100.0,listing_price_fallback,3
+Shared room,Navas,2026-07-01,1,53.0,0,1,0,100.0,listing_price_fallback,1
+Shared room,Navas,2026-10-01,2,116.0,0,2,0,100.0,listing_price_fallback,1
+Shared room,Navas,2027-03-01,93,5177.0,0,93,0,100.0,listing_price_fallback,3
+Shared room,Navas,2027-04-01,90,5010.0,0,90,0,100.0,listing_price_fallback,3
+Shared room,Navas,2027-05-01,93,5177.0,0,93,0,100.0,listing_price_fallback,3
+Shared room,Navas,2027-06-01,71,3952.0,0,71,0,100.0,listing_price_fallback,3
+Shared room,Sant Antoni,2026-06-01,5,,0,0,5,0.0,unpriced,1
+Shared room,Sant Antoni,2026-07-01,19,,0,0,19,0.0,unpriced,1
+Shared room,Sant Antoni,2026-08-01,5,,0,0,5,0.0,unpriced,1
+Shared room,Sant Gervasi - Galvany,2026-06-01,7,570.5,0,7,0,100.0,listing_price_fallback,1
+Shared room,Sant Gervasi - Galvany,2026-07-01,30,2445.0,0,30,0,100.0,listing_price_fallback,1
+Shared room,Sant Gervasi - Galvany,2026-08-01,18,1467.0,0,18,0,100.0,listing_price_fallback,1
+Shared room,Sant Gervasi - Galvany,2026-09-01,30,2445.0,0,30,0,100.0,listing_price_fallback,1
+Shared room,Sant Gervasi - Galvany,2026-10-01,30,2445.0,0,30,0,100.0,listing_price_fallback,1
+Shared room,Sarrià,2026-06-01,33,842.06,0,33,0,100.0,listing_price_fallback,5
+Shared room,Sarrià,2026-07-01,108,2814.79,0,108,0,100.0,listing_price_fallback,4
+Shared room,Sarrià,2026-08-01,47,1146.31,0,47,0,100.0,listing_price_fallback,2
+Shared room,Sarrià,2026-09-01,60,1467.3,0,60,0,100.0,listing_price_fallback,2
+Shared room,Sarrià,2026-10-01,48,1176.71,0,48,0,100.0,listing_price_fallback,2
+Shared room,Sarrià,2026-11-01,30,739.8,0,30,0,100.0,listing_price_fallback,1
+Shared room,Sarrià,2026-12-01,22,542.52,0,22,0,100.0,listing_price_fallback,1
+Shared room,"Vallvidrera, el Tibidabo i les Planes",2026-06-01,11,403.98,0,6,5,54.55,mixed,2
+Shared room,"Vallvidrera, el Tibidabo i les Planes",2026-07-01,18,875.29,0,13,5,72.22,mixed,2
+Shared room,"Vallvidrera, el Tibidabo i les Planes",2026-09-01,19,,0,0,19,0.0,unpriced,1
+Shared room,"Vallvidrera, el Tibidabo i les Planes",2026-10-01,13,,0,0,13,0.0,unpriced,1
