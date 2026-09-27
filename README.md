@@ -9,7 +9,7 @@
 
 Barcelona's short-term rental market is one of the most regulated and dynamic in Europe. Operational leadership needs a **dependable, explainable view** of how listing availability, nightly pricing, and guest activity evolve across neighbourhoods and environmental conditions — to guide acquisition strategy, pricing policy, and regulatory compliance planning.
 
-This pipeline transforms raw, multi-source data from Inside Airbnb and Open-Meteo into **5 defensible operational KPIs**, stored in PostgreSQL and visualised in a standalone HTML dashboard. The reasoning trail is captured in [`docs/fde_walkthrough.md`](docs/fde_walkthrough.md), and the recording outline is in [`docs/demo_script.md`](docs/demo_script.md).
+This pipeline transforms raw, multi-source data from Inside Airbnb and Open-Meteo into **5 defensible operational KPIs**, stored in PostgreSQL and visualised in a standalone HTML dashboard.
 
 ### Core FDE Principle Applied
 > *"The goal is not 'I analysed a dataset.' The goal is 'I built a trustworthy path from client systems to a business decision.'"*
@@ -83,17 +83,15 @@ Where date-window interpretation matters, KPIs should be explicitly tied to the 
 ├── config/
 │   └── config.yaml              # Pipeline configuration
 ├── docs/
-│   ├── source_map.md            # Class 4: Source Map
-│   └── architecture_diagram.md  # Class 8: Pipeline architecture
-│   ├── fde_walkthrough.md       # Source-to-decision reasoning
-│   └── demo_script.md           # 3–5 minute demo outline
+│   ├── source_map.md            # Source Map
+│   └── architecture_diagram.md  # Pipeline architecture
 ├── pipeline/
 │   ├── __init__.py
 │   ├── logger.py                # Structured JSON logger
-│   ├── extract.py               # Phase 2: Multi-modal ingestion
-│   ├── validate.py              # Phase 3: Business validation engine
-│   ├── transform.py             # Phase 4/5: Clean + load to PostgreSQL
-│   ├── kpi.py                   # Phase 5: KPI aggregation
+│   ├── extract.py               # Multi-modal ingestion
+│   ├── validate.py              # Business validation engine
+│   ├── transform.py             # Clean + load to PostgreSQL
+│   ├── kpi.py                   # KPI aggregation
 │   └── run_pipeline.py          # CLI orchestrator
 ├── sql/
 │   ├── 01_schema.sql            # PostgreSQL DDL
@@ -110,7 +108,7 @@ Where date-window interpretation matters, KPIs should be explicitly tied to the 
 │   ├── kpi4_weather_sensitivity.csv
 │   ├── kpi4_weather_correlations.csv
 │   ├── kpi5_revenue_proxy.csv
-│   └── kpi_summary_dashboard.csv
+│   ├── kpi_summary_dashboard.csv
 │   ├── rejected/                 # quarantined invalid source rows + reasons
 │   └── validation_report.json
 ├── dashboard/
@@ -129,10 +127,6 @@ Where date-window interpretation matters, KPIs should be explicitly tied to the 
 - KPI5 now includes `priced_unavailable_days`, `unpriced_unavailable_days`, `price_coverage_pct`, and `price_basis`. A missing price basis is `NULL`, not a fabricated zero.
 - Invalid or duplicate source rows are preserved under `output/rejected/` with `source_name` and `reject_reason`; their counts are also recorded in `validation_report.json`.
 - File schemas, GeoJSON features, weather date continuity, requested weather range, and daily-array lengths are checked before transformation. Cached files used with `--skip-extract` receive the same structural checks.
-
-### Why there is no notebook
-
-An `.ipynb` is optional for this assignment. The runnable Python/SQL pipeline is the source of truth because it preserves raw inputs, rerun behavior, validation, database modeling, and output generation in one path. A notebook would be useful for exploration, but duplicating KPI logic there would create a second implementation that can drift. The walkthrough provides the FDE narrative without weakening reproducibility.
 
 ---
 
