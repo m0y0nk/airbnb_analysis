@@ -7,7 +7,7 @@
 
 ## Problem Statement & Business Context
 
-> Flasheats Assignment solution file: [assignment.md](assignment.md) — this is the solution file for the flasheats class assignment
+> Flasheats Assignment solution file: [assignment.md](ASSIGNMENT.md) — this is the solution file for the flasheats class assignment
 
 Barcelona's short-term rental market is one of the most regulated and dynamic in Europe. Operational leadership needs a **dependable, explainable view** of how listing availability, nightly pricing, and guest activity evolve across neighbourhoods and environmental conditions — to guide acquisition strategy, pricing policy, and regulatory compliance planning.
 
